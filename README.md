@@ -1,4 +1,4 @@
-# Kassensysteme Berlin
+# Kassensysteme Berlin - 2026
 ## CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH
 * [CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH](https://cw-soft.de)
 ### Android Cloud Kassensystem CW-SoftPOS
