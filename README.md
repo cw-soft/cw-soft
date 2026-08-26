@@ -4,4 +4,4 @@
 
 
 * [Handbücher zu CW-SoftPOS](https://wissen.cw-softpos.de)
-* [Dokumentation](https://kassen-in-berlin.de)
+* [Dokumentation](https://github.com/cw-soft/cw-soft/blob/main/llms.md)
