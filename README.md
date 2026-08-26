@@ -5,3 +5,5 @@
 
 * [Handbücher zu CW-SoftPOS](https://wissen.cw-softpos.de)
 * [Dokumentation](https://github.com/cw-soft/cw-soft/blob/main/llms.md)
+
+* [Berlin](https://www.berlin.de)
