@@ -1,4 +1,4 @@
-# CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH Kassensysteme Berlin cw-soft.de & www.cw-softpos.de
+# CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH Kassensysteme Berlin [CW-Soft Website](https://cw-soft.de) & [Produkt CW-SoftPOS Kassensystem](https://www.cw-softpos.de)
 
 > Fachgerechte Kassensysteme und digitale Lösungen für Gastronomie, Handel und Einzelhandel mit individuellen Software- und Hardware-Konzepten, inklusive Warenwirtschaft, Reservierungstools und mobilen Zahlungsabwicklungen.Digitale POS-Lösungen und ERP-Systeme für Handel, Gastronomie, Handwerk und Dienstleistungsbranchen mit Fokus auf mobile Android-Kassen, NFC-Zahlungen, Lagerverwaltung und integrierter Buchhaltung.
 
@@ -36,3 +36,5 @@
 - [CW-Soft HogaWare EDV-Vertriebs­gesellschaft mbH](https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht): Angebot und Vertrieb von Kassensystemen und -lösungen für verschiedene Branchen wie Einzelhandel, Gastronomie und Dienstleistungen.
 - [Impressum der CW-Soft](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin): Rechtliche Hinweise und Impressum der CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH mit Kontaktdaten und Haftungsausschluss.
 - [E-Mail Kontakt der CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular): Kontaktformular für Anfragen an die CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH.
+
+- [README](https://github.com/cw-soft/cw-soft/blob/main/README.md)
