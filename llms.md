@@ -2,7 +2,7 @@
 
 > Fachgerechte Kassensysteme und digitale Lösungen für Gastronomie, Handel und Einzelhandel mit individuellen Software- und Hardware-Konzepten, inklusive Warenwirtschaft, Reservierungstools und mobilen Zahlungsabwicklungen.Digitale POS-Lösungen und ERP-Systeme für Handel, Gastronomie, Handwerk und Dienstleistungsbranchen mit Fokus auf mobile Android-Kassen, NFC-Zahlungen, Lagerverwaltung und integrierter Buchhaltung.
 
-## Berlin Kassen Und Kassensysteme
+## [![Berlin](https://www.berlin.de)] Kassen Und Kassensysteme
 
 - [Kassenzubehör](https://www.cw-softpos.de/zubehoer): Angebot von SUNMI-Kassenzubehör wie Druckern, Scannern und Kassenladesystemen für Retail-Bedarf.
 - [Kassenhardware Kassen-Hardware bzw. Kassen-Geräte](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi): Empfohlene Kassenhardware für zuverlässige Kassensysteme, Peripherie und mobile Lösungen.
