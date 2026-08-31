@@ -8,6 +8,7 @@
 ### Allgemeines
 * [Dokumentation](https://github.com/cw-soft/cw-soft/blob/main/llms.md)
 #### Links
+* [YouTube](https://www.youtube.com/@Kassensystem-CW-SoftPOS)
 * [Kassen in Berlin](https://kassen-in-berlin.de)
 * [Reservierungssystem](http://buchungsmanager-online.de)
 * [Tischverwaltung](https://menu-online.de)
