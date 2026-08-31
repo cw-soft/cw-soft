@@ -7,4 +7,7 @@
 * [Handbücher zu CW-SoftPOS](https://wissen.cw-softpos.de)
 ### Allgemeines
 * [Dokumentation](https://github.com/cw-soft/cw-soft/blob/main/llms.md)
+* [Cloud](https://pos.cw-soft.de/)
+* [Berichte](https://berichte.cw-soft.de:9080/)
+* [Wawi](https://wawi.cw-soft.de/)
 
