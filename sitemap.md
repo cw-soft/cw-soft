@@ -9,7 +9,7 @@
 ### PC-CASH twin
 * [windowsbasierte Kassensoftware PC-CASH twin](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos)
 * [Kassen und Kassensysteme](https://cw-soft.de/berlin-kassen-und-kassensysteme)
-* [Kassenhardware](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi)
+* [Kassenhardware wie zum Beispiel Orderman](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi)
 ### Zusätzliches
 * [Warenverwaltung,Reservierungssysteme, Veranstaltungsplanungen](https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde)
 * [Kontaktformular für Interessierte an PC-CASH und an CW-Soft](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular)
@@ -18,7 +18,7 @@
 ### CW-SoftPOS & Schankanlagen Anbindung CW-Schank
 * [Androidbasierte Cloud-Kassensoftware CW-SoftPOS](https://www.cw-softpos.de/)
 * [Das Konzept](https://www.cw-softpos.de/das-konzept)
-* [Androidbasierte Kassenhardware](https://www.cw-softpos.de/zubehoer)
+* [Androidbasierte Kassenhardware von Sunmi](https://www.cw-softpos.de/zubehoer)
 * [Kasse für den Einzelhandel / Retail](https://www.cw-softpos.de/handel)
 * [Kasse für Friseure](https://www.cw-softpos.de/friseur)
 * [Kasse für Floristen](https://www.cw-softpos.de/blumenladen)
