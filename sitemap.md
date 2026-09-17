@@ -12,7 +12,7 @@
 * [Kassengeräte](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi)
 ### Zusätzliches
 * [Warenverwaltung,Reservierungssysteme, Veranstaltungsplanungen](https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde)
-* [Kontaktformular zur CW-Soft](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular)
+* [Kontaktformular für Interessierte an PC-CASH und an CW-Soft](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular)
 
 ## Androidbasierte Kassensoftware und CW-Soft
 ### CW-SoftPOS & Schankanlagen Anbindung CW-Schank
