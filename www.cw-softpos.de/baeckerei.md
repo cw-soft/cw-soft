@@ -2,7 +2,7 @@
 title: "Kassensystem für Bäckerei | CW-SoftPOS"
 description: "CW-SoftPOS für Bäckereien: TSE-konformes Kassensystem mit mobiler Kasse, Kartenzahlung und Drucker, optional mit integrierter Waage für Backwaren und Snacks."
 source_url: "https://www.cw-softpos.de/baeckerei"
-scraped_at: "2026-09-17 12:31:19"
+scraped_at: "2026-09-17 12:57:31"
 ---
 
 CW-SoftPOS
@@ -28,7 +28,7 @@ Bäckerei
 
  
 
-  ![Kasse mit Kundenmonitor und NFC Kartenzahlung](/web/image/1432-e73980f5/D3-PRO-NFC-Zahlung.webp "SUNMI D3 Pro") 
+  ![Kasse mit Kundenmonitor und NFC Kartenzahlung](https://www.cw-softpos.de/web/image/1432-e73980f5/D3-PRO-NFC-Zahlung.webp "SUNMI D3 Pro") 
 
 CW-Soft**POS**: Das POS Kassensystem für die Bäckerei
 
@@ -62,7 +62,7 @@ Bäckereien stehen oft vor einigen Herausforderungen mit einer Vielzahl an Buchu
 
  
 
-   ![SUNMI V3 mix](/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
+   ![SUNMI V3 mix](https://www.cw-softpos.de/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
 
 
 - Premium All in One Standgerät
@@ -81,7 +81,7 @@ Bäckereien stehen oft vor einigen Herausforderungen mit einer Vielzahl an Buchu
 
  
 
-  ![SUNMI T3 Pro Max](/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max") ##### SUNMI T3 Pro Max
+  ![SUNMI T3 Pro Max](https://www.cw-softpos.de/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max") ##### SUNMI T3 Pro Max
 
 
 - All in One Standgerät mit 10″ Kundendisplay
@@ -98,7 +98,7 @@ Bäckereien stehen oft vor einigen Herausforderungen mit einer Vielzahl an Buchu
 
 
 
-  ![SUNMI P2 SE](/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
+  ![SUNMI P2 SE](https://www.cw-softpos.de/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling
 - Mobil wie auch stationär verwendbar
@@ -114,7 +114,7 @@ Bäckereien stehen oft vor einigen Herausforderungen mit einer Vielzahl an Buchu
 
  
 
-  ![SUNMI P2 light SE](/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
+  ![SUNMI P2 light SE](https://www.cw-softpos.de/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
 
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling

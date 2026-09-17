@@ -2,7 +2,7 @@
 title: "Kassensystem Gastronomie & Restaurant"
 description: "CW-SoftPOS für Gastro & Restaurants: TSE-konformes Kassensystem mit Tischplan, Splitting, Gangbonierung, mobiler Kasse, Kartenzahlung, Drucker & Scanner."
 source_url: "https://www.cw-softpos.de/gastronomie"
-scraped_at: "2026-09-17 12:31:18"
+scraped_at: "2026-09-17 12:57:30"
 ---
 
 CW-SoftPOS
@@ -28,7 +28,7 @@ Gastronomie
 
  
 
-  ![Mobilkasse mit Kartenzahlung](/web/image/1646-bcdcfa73/person-paying-using-nfc-technology1.svg "Mobilkasse mit Kartenzahlung") 
+  ![Mobilkasse mit Kartenzahlung](https://www.cw-softpos.de/web/image/1646-bcdcfa73/person-paying-using-nfc-technology1.svg "Mobilkasse mit Kartenzahlung") 
 
 CW-Soft**POS**: Das POS Kassensystem für die Gastronomie
 
@@ -57,7 +57,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
  
 
-   ![SUNMI V3 mix](/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
+   ![SUNMI V3 mix](https://www.cw-softpos.de/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
 
 
 - Premium All in One Standgerät
@@ -76,7 +76,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
  
 
-  ![SUNMI T3 Pro Max](/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max") ##### SUNMI T3 Pro Max
+  ![SUNMI T3 Pro Max](https://www.cw-softpos.de/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max") ##### SUNMI T3 Pro Max
 
 
 - All in One Standgerät mit 10″ Kundendisplay
@@ -93,7 +93,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
 
 
-  ![SUNMI P2 SE](/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
+  ![SUNMI P2 SE](https://www.cw-softpos.de/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling
 - Mobil wie auch stationär verwendbar
@@ -109,7 +109,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
  
 
-  ![SUNMI P2 light SE](/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
+  ![SUNMI P2 light SE](https://www.cw-softpos.de/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
 
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling

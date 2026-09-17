@@ -2,7 +2,7 @@
 title: "Berlin: Kassensoftware für Gastro & Retail"
 description: "Leistungsstarke PC-CASH Kassensoftware: Windows Frontend, mit Schnittstellen & Fiskalisierung. Jetzt CW-SoftPOS als modernes Android Kassenupgrade!"
 source_url: "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos"
-scraped_at: "2026-09-17 12:30:53"
+scraped_at: "2026-09-17 12:57:20"
 ---
 
 [ ![PC-Cash twin](https://cw-soft.de/fileadmin/_processed_/e/4/csm_Kassensoftware_PC-CASH_56d96373bb.png "Berlin: Kassen-Software") ](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos "Berlin: Kassen-Software")  
@@ -69,15 +69,15 @@ CW-SoftPOS
 
  
 
- [![Logo Digituu GmbH](fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")digituu](https://digituu.com/ "digituu GmbH")übernimmt
+ [![Logo Digituu GmbH](https://cw-soft.de/berlin-kassen-und-kassensysteme/fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")digituu](https://digituu.com/ "digituu GmbH")übernimmt
 
- [![Logo PC-CASH](fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
+ [![Logo PC-CASH](https://cw-soft.de/berlin-kassen-und-kassensysteme/fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
 Unser Dank gilt insbesondere:
 
 - Anna Schenk
 - Simon Schenk
  
  
- [![besseres Kassensystem](fileadmin/logos/CW-SoftPOS.png "jetzt geöffnet")](https://www.cw-softpos.de/ "Vectron Systems Kassensysteme") ICIT 
+ [![besseres Kassensystem](https://cw-soft.de/berlin-kassen-und-kassensysteme/fileadmin/logos/CW-SoftPOS.png "jetzt geöffnet")](https://www.cw-softpos.de/ "Vectron Systems Kassensysteme") ICIT 
 
 ---

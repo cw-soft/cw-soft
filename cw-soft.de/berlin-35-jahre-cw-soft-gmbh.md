@@ -2,7 +2,7 @@
 title: "35 Jahre Kassensysteme Berlin | CW-Soft"
 description: "Komplexe Kassenkassensystem Projektierungen für Gastronomie, Hotel, Catering, Einzelhandel und Retail in Berlin."
 source_url: "https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh"
-scraped_at: "2026-09-17 12:30:51"
+scraped_at: "2026-09-17 12:57:18"
 ---
 
 [ ![34 Jahre CW-Soft GmbH](https://cw-soft.de/fileadmin/_processed_/a/9/csm_Friedrichstasse_CW_Soft_HogaWare_GmbH_384adea528.jpg "Berlin: CW-Soft HogaWare GmbH") ](https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh "Berlin: CW-Soft HogaWare GmbH")  
@@ -63,15 +63,15 @@ CW-Soft
 
  
 
- [![Logo Digituu GmbH](fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
+ [![Logo Digituu GmbH](https://cw-soft.de/fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
 
- [![Logo PC-CASH](fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
+ [![Logo PC-CASH](https://cw-soft.de/fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
 Unser Dank gilt insbesondere:
 
 - Anna Schenk
 - Simon Schenk
  
  
- [![Kasse für kleine Läden](fileadmin/logos/CW-SoftPOS.png "Nicht Microsoft Kassen")](https://www.cw-softpos.de/ "kleine schnelle sichere Kasse") 
+ [![Kasse für kleine Läden](https://cw-soft.de/fileadmin/logos/CW-SoftPOS.png "Nicht Microsoft Kassen")](https://www.cw-softpos.de/ "kleine schnelle sichere Kasse") 
 
 ---

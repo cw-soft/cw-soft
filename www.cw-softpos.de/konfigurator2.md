@@ -2,7 +2,7 @@
 title: "Kassen Konfigurator | CW-SoftPOS Kassensystem planen"
 description: "Stelle dein Kassensystem online zusammen: Mit dem CW-SoftPOS Kassen-Konfigurator findest du die passende SoftPOS-Lösung für Gastronomie, Handel oder Events."
 source_url: "https://www.cw-softpos.de/konfigurator2"
-scraped_at: "2026-09-17 12:31:22"
+scraped_at: "2026-09-17 12:57:35"
 ---
 
 Welches Kassensystem passt am besten zu ihrem Geschäft ?
@@ -15,7 +15,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
  
 
- ![Handel](/web/image/1574-b8f7c17f/Handel.svg)### Handel
+ ![Handel](https://www.cw-softpos.de/web/image/1574-b8f7c17f/Handel.svg)### Handel
 
 
 
@@ -27,7 +27,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Event](/web/image/1576-c981d3f3/event.svg)### Event
+ ![Event](https://www.cw-softpos.de/web/image/1576-c981d3f3/event.svg)### Event
 
 
 
@@ -39,7 +39,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Gastro](/web/image/1575-4d8c24a0/gastro.svg)### Gastro
+ ![Gastro](https://www.cw-softpos.de/web/image/1575-4d8c24a0/gastro.svg)### Gastro
 
 
 
@@ -51,7 +51,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![mehr](/web/image/1579-c5c40a3a/mehr.svg)### und mehr...
+ ![mehr](https://www.cw-softpos.de/web/image/1579-c5c40a3a/mehr.svg)### und mehr...
 
 
 
@@ -86,7 +86,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 ##### 
 
 
- ![Dienstleistung](/web/image/1462-79fcb837/CW-SoftPOS_dienstleistung.svg)### Dienstleistung
+ ![Dienstleistung](https://www.cw-softpos.de/web/image/1462-79fcb837/CW-SoftPOS_dienstleistung.svg)### Dienstleistung
 
 
 
@@ -98,7 +98,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Fachhandel](/web/image/1428-15e53240/CW-SoftPOS_gastro.svg)### Fach &amp; Detailhandlung
+ ![Fachhandel](https://www.cw-softpos.de/web/image/1428-15e53240/CW-SoftPOS_gastro.svg)### Fach &amp; Detailhandlung
 
 
 
@@ -111,7 +111,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Sonstigesa](/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Sonstiges
+ ![Sonstigesa](https://www.cw-softpos.de/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Sonstiges
 
 
 [zurück](/konfigurator2)
@@ -153,7 +153,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 ##### 
 
 
- ![Ticketverkauf](/web/image/1462-79fcb837/CW-SoftPOS_dienstleistung.svg)### Ticketverkauf
+ ![Ticketverkauf](https://www.cw-softpos.de/web/image/1462-79fcb837/CW-SoftPOS_dienstleistung.svg)### Ticketverkauf
 
 
 
@@ -165,7 +165,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Fest](/web/image/1499-d05fd1c9/CW-SoftPOS_bar.svg)### Feste &amp; Festivals
+ ![Fest](https://www.cw-softpos.de/web/image/1499-d05fd1c9/CW-SoftPOS_bar.svg)### Feste &amp; Festivals
 
 
 
@@ -177,7 +177,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Sonstigesc](/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Sonstiges
+ ![Sonstigesc](https://www.cw-softpos.de/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Sonstiges
 
 
 [zurück](/konfigurator2)
@@ -215,7 +215,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
  
 
-![Karteja](/web/image/1476-076ce257/CW-SoftPOS_ja_k.svg)### Ja
+![Karteja](https://www.cw-softpos.de/web/image/1476-076ce257/CW-SoftPOS_ja_k.svg)### Ja
 
 
 
@@ -227,7 +227,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Kartenein](/web/image/1477-185af946/CW-SoftPOS_nein_k.svg)### Nein
+ ![Kartenein](https://www.cw-softpos.de/web/image/1477-185af946/CW-SoftPOS_nein_k.svg)### Nein
 
 
 
@@ -239,7 +239,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Kartenein](/web/image/1477-185af946/CW-SoftPOS_nein_k.svg)### Nein
+ ![Kartenein](https://www.cw-softpos.de/web/image/1477-185af946/CW-SoftPOS_nein_k.svg)### Nein
 
 
 
@@ -288,7 +288,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
  
 
- ![Kombi](/web/image/1479-84d81a3e/CW-SoftPOS_kombigeraet.svg)### Kombigerät
+ ![Kombi](https://www.cw-softpos.de/web/image/1479-84d81a3e/CW-SoftPOS_kombigeraet.svg)### Kombigerät
 
 
 
@@ -300,7 +300,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Unsicher](/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Ich bin mir nicht sicher
+ ![Unsicher](https://www.cw-softpos.de/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Ich bin mir nicht sicher
 
 
 
@@ -322,7 +322,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 ##### 
 
 
- ![Standgerat](/web/image/1478-66d50b5c/CW-SoftPOS_standgeraet.svg)### Standgerät
+ ![Standgerat](https://www.cw-softpos.de/web/image/1478-66d50b5c/CW-SoftPOS_standgeraet.svg)### Standgerät
 
 
 
@@ -335,7 +335,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Mobil](/web/image/1480-897857a7/CW-SoftPOS_mobiles_geraet.svg)### Mobiles Gerät
+ ![Mobil](https://www.cw-softpos.de/web/image/1480-897857a7/CW-SoftPOS_mobiles_geraet.svg)### Mobiles Gerät
 
 
 
@@ -384,7 +384,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
  
 
- ![backerei](/web/image/1495-faa04d05/CW-SoftPOS_baeckerei.svg)### Bäckerei
+ ![backerei](https://www.cw-softpos.de/web/image/1495-faa04d05/CW-SoftPOS_baeckerei.svg)### Bäckerei
 
 
 
@@ -396,7 +396,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![imbiss](/web/image/1497-49a085f2/CW-SoftPOS_imbiss.svg)### Imbiss
+ ![imbiss](https://www.cw-softpos.de/web/image/1497-49a085f2/CW-SoftPOS_imbiss.svg)### Imbiss
 
 
 
@@ -411,7 +411,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 ##### 
 
 
- ![restaurant](/web/image/1496-d7b47c6c/CW-SoftPOS_restaurant.svg)### Restaurant
+ ![restaurant](https://www.cw-softpos.de/web/image/1496-d7b47c6c/CW-SoftPOS_restaurant.svg)### Restaurant
 
 
 
@@ -424,7 +424,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![cafe](/web/image/1498-b1f6181a/CW-SoftPOS_cafe.svg)### Café
+ ![cafe](https://www.cw-softpos.de/web/image/1498-b1f6181a/CW-SoftPOS_cafe.svg)### Café
 
 
 
@@ -436,20 +436,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![bar](/web/image/1499-d05fd1c9/CW-SoftPOS_bar.svg)### Bar/Nachtclub
-
-
-
-
-
-
-
-
- 
-
-
-
- ![lieferservice](/web/image/1500-38832b72/CW-SoftPOS_lieferservice.svg)### Lieferservice
+ ![bar](https://www.cw-softpos.de/web/image/1499-d05fd1c9/CW-SoftPOS_bar.svg)### Bar/Nachtclub
 
 
 
@@ -462,7 +449,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![foottruck](/web/image/1501-c29138dd/CW-SoftPOS_foodtruck.svg)### Foodtruck
+ ![lieferservice](https://www.cw-softpos.de/web/image/1500-38832b72/CW-SoftPOS_lieferservice.svg)### Lieferservice
 
 
 
@@ -475,7 +462,20 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![sonstigesb](/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Sonstiges
+ ![foottruck](https://www.cw-softpos.de/web/image/1501-c29138dd/CW-SoftPOS_foodtruck.svg)### Foodtruck
+
+
+
+
+
+
+
+
+ 
+
+
+
+ ![sonstigesb](https://www.cw-softpos.de/web/image/1465-5b429614/CW-SoftPOS_fragezeichen.svg)### Sonstiges
 
 
 
@@ -510,7 +510,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 ##### 
 
 
-![Filiale](/web/image/1429-84584e29/CW-SoftPOS_handel.svg)### Filialsystem
+![Filiale](https://www.cw-softpos.de/web/image/1429-84584e29/CW-SoftPOS_handel.svg)### Filialsystem
 
 
 
@@ -522,7 +522,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![wawi](/web/image/1587-6c637de6/wawi.svg)### Warenwirtschaft
+ ![wawi](https://www.cw-softpos.de/web/image/1587-6c637de6/wawi.svg)### Warenwirtschaft
 
 
 
@@ -534,7 +534,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![lieferan](/web/image/1588-b5edb7d4/CW-SoftPOS_lieferservice.svg)### Lieferdienste Anbindun​g
+ ![lieferan](https://www.cw-softpos.de/web/image/1588-b5edb7d4/CW-SoftPOS_lieferservice.svg)### Lieferdienste Anbindun​g
 
 
 
@@ -548,7 +548,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 ​
 
-![selforder](/web/image/1589-1db4d54d/selforder.svg)### Self-Ordering
+![selforder](https://www.cw-softpos.de/web/image/1589-1db4d54d/selforder.svg)### Self-Ordering
 
 
 
@@ -560,7 +560,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![reservier](/web/image/1590-71823487/reservierung.svg)### Reservierungssysteme
+ ![reservier](https://www.cw-softpos.de/web/image/1590-71823487/reservierung.svg)### Reservierungssysteme
 
 
 
@@ -573,7 +573,7 @@ Wir haben das perfekte Kassensystem für ihre Branche und ihre Bedürfnisse. Jet
 
 
 
- ![Sonstigesd](/web/image/1591-3c36c2b8/CW-SoftPOS_fragezeichen.svg)### Sonstiges
+ ![Sonstigesd](https://www.cw-softpos.de/web/image/1591-3c36c2b8/CW-SoftPOS_fragezeichen.svg)### Sonstiges
 
 
 

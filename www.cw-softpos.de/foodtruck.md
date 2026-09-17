@@ -2,7 +2,7 @@
 title: "Kassensystem für Foodtruck & Imbiss"
 description: "CW-SoftPOS für Foodtrucks & Imbisse: TSE-konform, mobil, offline-fähig. Mit Kartenzahlung & Bondruck im All-in-One-Gerät."
 source_url: "https://www.cw-softpos.de/foodtruck"
-scraped_at: "2026-09-17 12:31:19"
+scraped_at: "2026-09-17 12:57:32"
 ---
 
 CW-SoftPOS
@@ -28,7 +28,7 @@ Foodtruck
 
  
 
-  ![Kasse für Foodtruck](/web/image/1440-cf1a2eb9/v3mix.webp "SUNMI V3 mix") 
+  ![Kasse für Foodtruck](https://www.cw-softpos.de/web/image/1440-cf1a2eb9/v3mix.webp "SUNMI V3 mix") 
 
 CW-Soft**POS**: Das POS Kassensystem für Foodtrucks
 
@@ -63,7 +63,7 @@ Erleichtere dir und deinen Kunden das Leben mit integrierten Zahlungsoptionen. U
 
  
 
-   ![SUNMI V3 mix](/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
+   ![SUNMI V3 mix](https://www.cw-softpos.de/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
 
 
 - Premium All in One Standgerät
@@ -82,7 +82,7 @@ Erleichtere dir und deinen Kunden das Leben mit integrierten Zahlungsoptionen. U
 
  
 
-  ![SUNMI D3 mini](/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
+  ![SUNMI D3 mini](https://www.cw-softpos.de/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
 
 
 - All in One Standgerät mit 10″ Touchdisplay
@@ -99,7 +99,7 @@ Erleichtere dir und deinen Kunden das Leben mit integrierten Zahlungsoptionen. U
 
 
 
-  ![SUNMI P2 SE](/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
+  ![SUNMI P2 SE](https://www.cw-softpos.de/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling
 - Mobil wie auch stationär verwendbar
@@ -115,7 +115,7 @@ Erleichtere dir und deinen Kunden das Leben mit integrierten Zahlungsoptionen. U
 
  
 
-  ![SUNMI P2 light SE](/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
+  ![SUNMI P2 light SE](https://www.cw-softpos.de/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
 
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling

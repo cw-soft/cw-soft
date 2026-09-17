@@ -2,7 +2,7 @@
 title: "Cloud Kassensystem CW-SoftPOS: Handel & Gastro"
 description: "CW-SoftPOS: Cloud-Kasse auf Android & Sunmi. Offline-fähig, TSE-konform, ideal für Handel & Gastro."
 source_url: "https://www.cw-softpos.de/das-konzept"
-scraped_at: "2026-09-17 12:31:16"
+scraped_at: "2026-09-17 12:57:28"
 ---
 
 Das Konzept 
@@ -10,7 +10,7 @@ Das Konzept
 
  
 
- ![Logo Kassensystem CW-SoftPOS](/web/image/1613-65dadfcf/20250107082539-178188.png)
+ ![Logo Kassensystem CW-SoftPOS](https://www.cw-softpos.de/web/image/1613-65dadfcf/20250107082539-178188.png)
 
 ein neues Konzept der CW-Soft HogaWare GmbH aus 35-jähriger Erfahrung komplexer Projektierung von Kassentechnik in Hotel, Gastronomie, Catering und Handel. Auf der Vielfältigkeit von Android-Technik der 3.Generation -**aus dem Hause SUNMI**-
 
@@ -108,19 +108,19 @@ die Cloudkasse, die auch offline funktioniert
 
  
 
-![SUNMI D3 Pro 15" Touchkasse mit Kundenmonitor ](/web/image/1632-cb778fc6/d3pro.webp "SUNMI D3 Pro")
+![SUNMI D3 Pro 15" Touchkasse mit Kundenmonitor ](https://www.cw-softpos.de/web/image/1632-cb778fc6/d3pro.webp "SUNMI D3 Pro")
 
-![15" Touchkasse mit abgesetztem Kundenminitor](/web/image/1631-a1901df1/imin-swan.webp "IMIN Swan")
+![15" Touchkasse mit abgesetztem Kundenminitor](https://www.cw-softpos.de/web/image/1631-a1901df1/imin-swan.webp "IMIN Swan")
 
-![15" Touchkasse inkl. Drucker](/web/image/1633-de67571a/d3promax%2Bp2se.webp "SUNMI T3 Pro Max")
+![15" Touchkasse inkl. Drucker](https://www.cw-softpos.de/web/image/1633-de67571a/d3promax%2Bp2se.webp "SUNMI T3 Pro Max")
 
-![Kompakte Kasse 10" Touch, Kundenmonitor, NFC, Drucker](/web/image/1634-3d567451/d3mini.webp "SUNMI D3 mini")
+![Kompakte Kasse 10" Touch, Kundenmonitor, NFC, Drucker](https://www.cw-softpos.de/web/image/1634-3d567451/d3mini.webp "SUNMI D3 mini")
 
 
 
  
 
- ![CW-SoftPOS Puzzle: Handel, Gastro, Event und mehr...](/web/image/1639-414031ef/puzzle-mit-schrift.svg "CW-SoftPOS Puzzle: Handel, Gastro, Event und mehr...")
+ ![CW-SoftPOS Puzzle: Handel, Gastro, Event und mehr...](https://www.cw-softpos.de/web/image/1639-414031ef/puzzle-mit-schrift.svg "CW-SoftPOS Puzzle: Handel, Gastro, Event und mehr...")
 
  Software-Struktur
 ------------------
@@ -157,7 +157,7 @@ die Cloudkasse, die auch offline funktioniert
 
  
 
-![Dashboard](/web/image/1642-eb9636eb/Dashboard.webp "Dashboard im Webbrowser in Echtzeit für Datenmanagement, Controlling, Analysen und Datenexporte")
+![Dashboard](https://www.cw-softpos.de/web/image/1642-eb9636eb/Dashboard.webp "Dashboard im Webbrowser in Echtzeit für Datenmanagement, Controlling, Analysen und Datenexporte")
 
 Das Dashboard
 -------------
@@ -180,4 +180,4 @@ Vom Büroplatz, Smartphone direkt in die Cloud, Änderungen gehen sofort oder te
 
 inkl. Drucker für 80mm Bonrolle | Kundenmonitor enthält das NFC-Feld für SoftPOS-Payment | Der Kundenmonitor kann auch per Kabel abgesetzt werden
 
-  ![SUNMI T3 Pro Max](/web/image/1645-2871ba55/t3-pro-max.webp-highlight.webp "SUNMI T3 Pro Max") Wo Innovation auf Leistung trifft
+  ![SUNMI T3 Pro Max](https://www.cw-softpos.de/web/image/1645-2871ba55/t3-pro-max.webp-highlight.webp "SUNMI T3 Pro Max") Wo Innovation auf Leistung trifft

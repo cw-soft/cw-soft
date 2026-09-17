@@ -2,7 +2,7 @@
 title: "Keks - Richtlinien"
 description: "Wir legen ihnen Kekse in ihren Warenkorb, damit unsere Webseite für ihren Besuch funktioniert. Genaueres erfahren sie hier."
 source_url: "https://www.cw-softpos.de/cookie-policy"
-scraped_at: "2026-09-17 12:31:24"
+scraped_at: "2026-09-17 12:57:37"
 ---
 
 Cookie-Richtlinien

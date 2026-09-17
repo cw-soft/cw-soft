@@ -2,7 +2,7 @@
 title: "CW‑Soft Berlin – Kassensysteme für Gastronomie & Handel"
 description: "30 Jahre Erfahrung mit PC‑CASH: Kassensysteme, Handhelds (Sunmi/Orderman), Payment & Fiskalisierung. Beratung, Integration und Demo in Berlin."
 source_url: "https://cw-soft.de/"
-scraped_at: "2026-09-17 12:30:49"
+scraped_at: "2026-09-17 12:57:16"
 ---
 
 [ ![Beratungsrunde](https://cw-soft.de/fileadmin/_processed_/9/3/csm_EDV_Leistungen_Informatik_IT_920x280_dd861d6a25.jpg "Berlin: Kassensysteme und mehr") ](https://cw-soft.de/ "Berlin: Kassensysteme und mehr")  
@@ -76,15 +76,15 @@ Gerne, sprechen Sie uns an!
 
  
 
- [![Logo Digituu GmbH](fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
+ [![Logo Digituu GmbH](https://cw-soft.de/fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
 
- [![Logo PC-CASH](fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
+ [![Logo PC-CASH](https://cw-soft.de/fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
 Unser Dank gilt insbesondere:
 
 - Anna Schenk
 - Simon Schenk
  
  
- [![Kassensystem für Foodtruck](fileadmin/logos/CW-SoftPOS.png "Kassensystem für Floristik")](https://www.cw-softpos.de/ "SoftPos Kasse") 
+ [![Kassensystem für Foodtruck](https://cw-soft.de/fileadmin/logos/CW-SoftPOS.png "Kassensystem für Floristik")](https://www.cw-softpos.de/ "SoftPos Kasse") 
 
 ---

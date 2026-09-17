@@ -2,7 +2,7 @@
 title: "Kassensystem für Kantinen"
 description: "Kassensystem für Kantinen: CW-SoftPOS ist TSE-konform, unterstützt mobile Kassen, Kartenzahlung, Drucker und optional integrierte Waagen für Wiegeartikel."
 source_url: "https://www.cw-softpos.de/kantine"
-scraped_at: "2026-09-17 12:31:18"
+scraped_at: "2026-09-17 12:57:31"
 ---
 
 CW-SoftPOS
@@ -28,7 +28,7 @@ Kantine
 
  
 
-  ![Kasse mit integrierter Waage](/web/image/1559-f906ee1b/waage.webp "SUNMI S2") 
+  ![Kasse mit integrierter Waage](https://www.cw-softpos.de/web/image/1559-f906ee1b/waage.webp "SUNMI S2") 
 
 CW-Soft**POS**: Das POS Kassensystem für Kantine
 
@@ -63,7 +63,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
  
 
-   ![SUNMI V3 mix](/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
+   ![SUNMI V3 mix](https://www.cw-softpos.de/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
 
 
 - Premium All in One Standgerät
@@ -82,7 +82,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
  
 
-  ![SUNMI T3 Pro Max](/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max") ##### SUNMI T3 Pro Max
+  ![SUNMI T3 Pro Max](https://www.cw-softpos.de/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max") ##### SUNMI T3 Pro Max
 
 
 - All in One Standgerät mit 10″ Kundendisplay
@@ -99,7 +99,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
 
 
-  ![SUNMI S2 Kombigerät](/web/image/1451-f5541fe1/waage-klein.webp "SUNMI S2 Kombigerät") ##### SUNMI S2 Kombigerät
+  ![SUNMI S2 Kombigerät](https://www.cw-softpos.de/web/image/1451-f5541fe1/waage-klein.webp "SUNMI S2 Kombigerät") ##### SUNMI S2 Kombigerät
 
 
 - 15.6″ Zoll Kassenscreen – Full HD Multitouch
@@ -116,7 +116,7 @@ Die Gastronomiebranche hat spezielle Anforderungen an ihre Arbeitsprozesse und b
 
  
 
-  ![SUNMI D3 mini](/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
+  ![SUNMI D3 mini](https://www.cw-softpos.de/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
 
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling

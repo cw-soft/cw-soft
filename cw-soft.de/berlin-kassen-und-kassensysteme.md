@@ -2,7 +2,7 @@
 title: "Berlin: Kasse oder Kassensystem? - CW-Soft"
 description: "Sie unsicher: Kasse oder Kassensystem? CW-Soft Berlin berät für Gastro, Restaurant & Handel – passende Lösung garantiert."
 source_url: "https://cw-soft.de/berlin-kassen-und-kassensysteme"
-scraped_at: "2026-09-17 12:30:49"
+scraped_at: "2026-09-17 12:57:16"
 ---
 
 [ ![Android-Sunmi](https://cw-soft.de/fileadmin/_processed_/d/a/csm_PCC-Android_03c02aac7b.png "Berlin: Kassen oder Kassensysteme") ](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi "Berlin: Kassen oder Kassensysteme")  
@@ -62,15 +62,15 @@ Kassensystem, Einzelhandel, Gastronomie
 
  
 
- [![Logo Digituu GmbH](fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
+ [![Logo Digituu GmbH](https://cw-soft.de/fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
 
- [![Logo PC-CASH](fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
+ [![Logo PC-CASH](https://cw-soft.de/fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
 Unser Dank gilt insbesondere:
 
 - Anna Schenk
 - Simon Schenk
  
  
- [![Kasse jetzt kaufen](fileadmin/logos/CW-SoftPOS.png "Bonrollen")](https://www.cw-softpos.de/ "Gastronomie Einzelhandel Kassensysteme") 
+ [![Kasse jetzt kaufen](https://cw-soft.de/fileadmin/logos/CW-SoftPOS.png "Bonrollen")](https://www.cw-softpos.de/ "Gastronomie Einzelhandel Kassensysteme") 
 
 ---

@@ -2,7 +2,7 @@
 title: "Kassensystem-Service Berlin | CW-SoftPOS"
 description: "Voll­ser­vice Kassensysteme Berlin: Von Stammdaten über Schulung bis Support – perfekt für CW-SoftPOS. Inkl. Fiskalisierung & Wartung!"
 source_url: "https://cw-soft.de/berlin-kassen-leistungen-und-ihre-wuensche"
-scraped_at: "2026-09-17 12:30:51"
+scraped_at: "2026-09-17 12:57:17"
 ---
 
 [ ![Beratungsgespräch](https://cw-soft.de/fileadmin/_processed_/9/3/csm_EDV_Leistungen_Informatik_IT_920x280_dd861d6a25.jpg "Berlin: Kassen-Leistungen") ](https://cw-soft.de/berlin-kassen-leistungen-und-ihre-wuensche "Berlin: Kassen-Leistungen")  
@@ -77,15 +77,15 @@ Kassen-Leistungen
 
  
 
- [![Logo Digituu GmbH](fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
+ [![Logo Digituu GmbH](https://cw-soft.de/fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
 
- [![Logo PC-CASH](fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
+ [![Logo PC-CASH](https://cw-soft.de/fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
 Unser Dank gilt insbesondere:
 
 - Anna Schenk
 - Simon Schenk
  
  
- [![Kantinen Kassensysteme](fileadmin/logos/CW-SoftPOS.png "Restaurant Kassensysteme")](https://www.cw-softpos.de/ "Kassensysteme für Spezielle Anforderungen") 
+ [![Kantinen Kassensysteme](https://cw-soft.de/fileadmin/logos/CW-SoftPOS.png "Restaurant Kassensysteme")](https://www.cw-softpos.de/ "Kassensysteme für Spezielle Anforderungen") 
 
 ---

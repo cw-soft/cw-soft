@@ -2,7 +2,7 @@
 title: "Kassensystem für Bar & Nachtclub"
 description: "CW-SoftPOS für Bars & Clubs: TSE-konform, schnelle Bestellprozesse, mobile Kassen und kontaktlose Kartenzahlung am Tresen."
 source_url: "https://www.cw-softpos.de/club"
-scraped_at: "2026-09-17 12:31:20"
+scraped_at: "2026-09-17 12:57:33"
 ---
 
 CW-SoftPOS
@@ -28,7 +28,7 @@ Bar / Nachtclub
 
  
 
-  ![SUNMI D3 mini](/web/image/1439-6d2d49d8/D3mini-CW-SoftPOS-2.webp "SUNMI D3 mini") 
+  ![SUNMI D3 mini](https://www.cw-softpos.de/web/image/1439-6d2d49d8/D3mini-CW-SoftPOS-2.webp "SUNMI D3 mini") 
 
 CW-Soft**POS**: Das POS Kassensystem für deine Bar / Nachtclub
 
@@ -74,7 +74,7 @@ Dank unserer jahrzehntelangen Erfahrung eignet sich das CW-Soft**POS** Kassensys
 
  
 
-   ![SUNMI V3 mix](/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
+   ![SUNMI V3 mix](https://www.cw-softpos.de/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
 
 
 - Premium All in One Standgerät
@@ -93,7 +93,7 @@ Dank unserer jahrzehntelangen Erfahrung eignet sich das CW-Soft**POS** Kassensys
 
  
 
-  ![SUNMI D3 mini](/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
+  ![SUNMI D3 mini](https://www.cw-softpos.de/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
 
 
 - All in One Standgerät mit 10″ Touchmonitor
@@ -109,7 +109,7 @@ Dank unserer jahrzehntelangen Erfahrung eignet sich das CW-Soft**POS** Kassensys
 
 
 
-  ![SUNMI P2 SE](/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
+  ![SUNMI P2 SE](https://www.cw-softpos.de/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling
 - Mobil wie auch stationär verwendbar
@@ -125,7 +125,7 @@ Dank unserer jahrzehntelangen Erfahrung eignet sich das CW-Soft**POS** Kassensys
 
  
 
-  ![SUNMI P2 light SE](/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
+  ![SUNMI P2 light SE](https://www.cw-softpos.de/web/image/1403-c3c595ce/p2-SE-light.webp "SUNMI P2 light SE") ##### SUNMI P2 light SE
 
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling

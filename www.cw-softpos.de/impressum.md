@@ -2,7 +2,7 @@
 title: "Impressum | Kassensystem CW-SoftPOS von CW-Soft"
 description: "Impressum zum Kassensystem CW-SoftPOS: POS-Produkt der CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH Berlin mit allen rechtlichen Pflichtangaben."
 source_url: "https://www.cw-softpos.de/impressum"
-scraped_at: "2026-09-17 12:31:24"
+scraped_at: "2026-09-17 12:57:36"
 ---
 
 **Impressum der CW-Soft**

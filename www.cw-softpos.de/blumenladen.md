@@ -2,7 +2,7 @@
 title: "Kassensystem für Blumenladen & Floristik"
 description: "CW-SoftPOS: Flexibles Kassensystem für Floristik & Blumenläden. Mit Kartenzahlung, TSE-Konformität und einfacher Bedienung im täglichen Geschäft."
 source_url: "https://www.cw-softpos.de/blumenladen"
-scraped_at: "2026-09-17 12:31:17"
+scraped_at: "2026-09-17 12:57:30"
 ---
 
 **CW-Soft****POS**
@@ -76,7 +76,7 @@ Blumen besitzen die Gabe, eine wohltuende Atmosphäre zu schaffen. Ein Besuch be
 
  
 
-   ![SUNMI D3 mini](/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
+   ![SUNMI D3 mini](https://www.cw-softpos.de/web/image/1372-c4f19ef2/D3mini-klein.webp "SUNMI D3 mini") ##### SUNMI D3 mini
 
 - All in One Standgerät – ein absoluter Top Seller!
 - Unschlagbares Preis-Leistungs-Verhältnis
@@ -92,7 +92,7 @@ Blumen besitzen die Gabe, eine wohltuende Atmosphäre zu schaffen. Ein Besuch be
 
  
 
-  ![SUNMI V3 mix](/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
+  ![SUNMI V3 mix](https://www.cw-softpos.de/web/image/1363-7804e738/v3mix.webp "SUNMI V3 mix") ##### SUNMI V3 mix
 
 
 - Premium All in One Standgerät
@@ -111,7 +111,7 @@ Blumen besitzen die Gabe, eine wohltuende Atmosphäre zu schaffen. Ein Besuch be
 
  
 
-  ![SUNMI T3 Pro Max Dual Screen](/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max Dual Screen") ##### SUNMI T3 Pro Max Dual Screen
+  ![SUNMI T3 Pro Max Dual Screen](https://www.cw-softpos.de/web/image/1373-d5e8434d/t3-pro-max.webp "SUNMI T3 Pro Max Dual Screen") ##### SUNMI T3 Pro Max Dual Screen
 
 
 - All in One Standgerät mit 10″ Kundendisplay
@@ -128,7 +128,7 @@ Blumen besitzen die Gabe, eine wohltuende Atmosphäre zu schaffen. Ein Besuch be
 
 
 
-  ![SUNMI P2 SE](/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
+  ![SUNMI P2 SE](https://www.cw-softpos.de/web/image/1370-1f8f555a/p2-SE.webp "SUNMI P2 SE") ##### SUNMI P2 SE
 
 - Minimaler Platzbedarf, perfektes und schnelles Handling
 - Mobil wie auch stationär verwendbar

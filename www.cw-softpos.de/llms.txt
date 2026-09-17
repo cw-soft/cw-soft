@@ -3,22 +3,22 @@
 
 ## Gecrawlte Ressourcen
 
-* [CW-SoftPOS: Kassensystem für Gastro & Events](./index.md) - Original: https://www.cw-softpos.de/
-* [Cloud Kassensystem CW-SoftPOS: Handel & Gastro](./das-konzept.md) - Original: https://www.cw-softpos.de/das-konzept
-* [Kassensystem für Einzelhandel & Retail | CW-SoftPOS](./handel.md) - Original: https://www.cw-softpos.de/handel
-* [Kassensystem für Friseursalon](./friseur.md) - Original: https://www.cw-softpos.de/friseur
-* [Kassensystem für Blumenladen & Floristik](./blumenladen.md) - Original: https://www.cw-softpos.de/blumenladen
-* [Kassensystem Gastronomie & Restaurant](./gastronomie.md) - Original: https://www.cw-softpos.de/gastronomie
-* [Kassensystem für Kantinen](./kantine.md) - Original: https://www.cw-softpos.de/kantine
-* [Kassensystem für Bäckerei | CW-SoftPOS](./baeckerei.md) - Original: https://www.cw-softpos.de/baeckerei
-* [Kassensystem für Foodtruck & Imbiss](./foodtruck.md) - Original: https://www.cw-softpos.de/foodtruck
-* [Kassensystem für Open Air Events](./event.md) - Original: https://www.cw-softpos.de/event
-* [Kassensystem für Bar & Nachtclub](./club.md) - Original: https://www.cw-softpos.de/club
-* [Kassenzubehör wie Bonrollen & Sunmi Hardware](./zubehoer.md) - Original: https://www.cw-softpos.de/zubehoer
-* [Kontakt Kassensystem CW-SoftPOS | Beratung & Angebot](./kontakt.md) - Original: https://www.cw-softpos.de/kontakt
-* [ERP & Kassensystem Integration](./erp.md) - Original: https://www.cw-softpos.de/erp
-* [Kassen Konfigurator | CW-SoftPOS Kassensystem planen](./konfigurator2.md) - Original: https://www.cw-softpos.de/konfigurator2
-* [FAQ zum Kassensystem CW-SoftPOS | TSE, Hardware](./faq.md) - Original: https://www.cw-softpos.de/faq
-* [AGB | CW-SoftPOS Kassensystem | Berlin](./allgemeine-geschaftsbedingungen.md) - Original: https://www.cw-softpos.de/allgemeine-geschaftsbedingungen
-* [Impressum | Kassensystem CW-SoftPOS von CW-Soft](./impressum.md) - Original: https://www.cw-softpos.de/impressum
-* [Keks - Richtlinien](./cookie-policy.md) - Original: https://www.cw-softpos.de/cookie-policy
+- [CW-SoftPOS: Kassensystem für Gastro & Events](./index.md) - Original: https://www.cw-softpos.de/
+- [Cloud Kassensystem CW-SoftPOS: Handel & Gastro](./das-konzept.md) - Original: https://www.cw-softpos.de/das-konzept
+- [Kassensystem für Einzelhandel & Retail | CW-SoftPOS](./handel.md) - Original: https://www.cw-softpos.de/handel
+- [Kassensystem für Friseursalon](./friseur.md) - Original: https://www.cw-softpos.de/friseur
+- [Kassensystem für Blumenladen & Floristik](./blumenladen.md) - Original: https://www.cw-softpos.de/blumenladen
+- [Kassensystem Gastronomie & Restaurant](./gastronomie.md) - Original: https://www.cw-softpos.de/gastronomie
+- [Kassensystem für Kantinen](./kantine.md) - Original: https://www.cw-softpos.de/kantine
+- [Kassensystem für Bäckerei | CW-SoftPOS](./baeckerei.md) - Original: https://www.cw-softpos.de/baeckerei
+- [Kassensystem für Foodtruck & Imbiss](./foodtruck.md) - Original: https://www.cw-softpos.de/foodtruck
+- [Kassensystem für Open Air Events](./event.md) - Original: https://www.cw-softpos.de/event
+- [Kassensystem für Bar & Nachtclub](./club.md) - Original: https://www.cw-softpos.de/club
+- [Kassenzubehör wie Bonrollen & Sunmi Hardware](./zubehoer.md) - Original: https://www.cw-softpos.de/zubehoer
+- [Kontakt Kassensystem CW-SoftPOS | Beratung & Angebot](./kontakt.md) - Original: https://www.cw-softpos.de/kontakt
+- [ERP & Kassensystem Integration](./erp.md) - Original: https://www.cw-softpos.de/erp
+- [Kassen Konfigurator | CW-SoftPOS Kassensystem planen](./konfigurator2.md) - Original: https://www.cw-softpos.de/konfigurator2
+- [FAQ zum Kassensystem CW-SoftPOS | TSE, Hardware](./faq.md) - Original: https://www.cw-softpos.de/faq
+- [AGB | CW-SoftPOS Kassensystem | Berlin](./allgemeine-geschaftsbedingungen.md) - Original: https://www.cw-softpos.de/allgemeine-geschaftsbedingungen
+- [Impressum | Kassensystem CW-SoftPOS von CW-Soft](./impressum.md) - Original: https://www.cw-softpos.de/impressum
+- [Keks - Richtlinien](./cookie-policy.md) - Original: https://www.cw-softpos.de/cookie-policy

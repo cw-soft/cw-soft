@@ -2,7 +2,7 @@
 title: "Berlin | Impressum CW-Soft Kassensysteme | Friedrichstraße"
 description: "Impressum CW-Soft Kassensysteme: Friedrichstraße 95, 10117 Berlin. GF: Lilly Zöhner, HRA & USt-ID."
 source_url: "https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin"
-scraped_at: "2026-09-17 12:30:57"
+scraped_at: "2026-09-17 12:57:22"
 ---
 
 [ ![Reichstagsgebäude](https://cw-soft.de/fileadmin/_processed_/7/6/csm_Reichstagsgebaeude_Bundestag_Friedrichstrasse_19e59cdcf4.jpg "Berlin: Kontakt-Formular der CW-Soft") ](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular "Berlin: Kontakt-Formular der CW-Soft")  

@@ -2,7 +2,7 @@
 title: "FAQ zum Kassensystem CW-SoftPOS | TSE, Hardware"
 description: "Das Berliner Kassensystem CW-SoftPOS eignet sich sowohl für Gastronomie Betriebe als auch für sämtliche Formen des gewerblichen Handels. Durch Multi Kassen und Multi Company Verwaltung eignet sich unsere Kassen Lösung auch speziell für Filialisten."
 source_url: "https://www.cw-softpos.de/faq"
-scraped_at: "2026-09-17 12:31:23"
+scraped_at: "2026-09-17 12:57:35"
 ---
 
 FAQ - Fragen die uns Kunden und Interessenten täglich stellen:

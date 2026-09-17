@@ -2,7 +2,7 @@
 title: "Berlin | AGB CW-Soft Kassensysteme"
 description: "AGB CW-Soft HogaWare Berlin: Kassensysteme, Software, Wartung & ASP-Dienste im Überblick."
 source_url: "https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-allgemeine-geschaeftsbedingungen-der-cw-soft"
-scraped_at: "2026-09-17 12:30:59"
+scraped_at: "2026-09-17 12:57:24"
 ---
 
 [ ![Reichstagsgebäude](https://cw-soft.de/fileadmin/_processed_/7/6/csm_Reichstagsgebaeude_Bundestag_Friedrichstrasse_19e59cdcf4.jpg "Berlin: Kontakt-Formular der CW-Soft") ](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular "Berlin: Kontakt-Formular der CW-Soft")  

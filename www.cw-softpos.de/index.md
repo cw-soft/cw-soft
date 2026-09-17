@@ -2,16 +2,16 @@
 title: "CW-SoftPOS: Kassensystem für Gastro & Events"
 description: "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events."
 source_url: "https://www.cw-softpos.de/"
-scraped_at: "2026-09-17 12:31:15"
+scraped_at: "2026-09-17 12:57:28"
 ---
 
 Zurück    Weiter   
 
  
 
- ![CW-SoftPOS All in One Kassensysteme und Payment Solutions](/web/image/1301-aeb24fdb/CW-SoftPOS-Logo-hintergrund.svg "CW-SoftPOS Logo")
+ ![CW-SoftPOS All in One Kassensysteme und Payment Solutions](https://www.cw-softpos.de/web/image/1301-aeb24fdb/CW-SoftPOS-Logo-hintergrund.svg "CW-SoftPOS Logo")
 
-![Mobile Kassen, wie Orderman](/web/image/3589-e9ef19a1/All-in-One-zertifiziert.webp "Mobile Kassen")
+![Mobile Kassen, wie Orderman](https://www.cw-softpos.de/web/image/3589-e9ef19a1/All-in-One-zertifiziert.webp "Mobile Kassen")
 
 [](# "Nach unten zum nächsten Abschnitt scrollen")CW-SoftPOS 
 ===========
@@ -33,7 +33,7 @@ All in One Kassensysteme &amp; Payment Solutions
 
  
 
-   ![Sicher & Stabil](/web/image/1289-939eebe4/sperren1.webp) ##### Sicher &amp; Stabil
+   ![Sicher & Stabil](https://www.cw-softpos.de/web/image/1289-939eebe4/sperren1.webp) ##### Sicher &amp; Stabil
 
 Ein Kassensystem muss vor allem eines sein: ein verlässlicher Partner. Zu jeder Uhrzeit und in jeder Situation. CW-Soft**POS** bietet deshalb:
 
@@ -53,7 +53,7 @@ Ein auf Dauernutzung ausgelegtes System
 
  
 
-  ![Flexibel](/web/image/1254-44be09a3/kreis1.webp) ##### Flexibel
+  ![Flexibel](https://www.cw-softpos.de/web/image/1254-44be09a3/kreis1.webp) ##### Flexibel
 
 Als Unternehmer sind Sie offen für jeden Wunsch Ihrer Kunden? Wir auch! Deshalb passt sich CW-Soft**POS** flexibel an Ihre Anforderungen an:
 
@@ -72,7 +72,7 @@ Bearbeitung der Tische von mehreren Mitarbeitern
 
  
 
-  ![Einfach schnell](/web/image/1292-9bc00222/rakete1.webp) ##### Einfach schnell
+  ![Einfach schnell](https://www.cw-softpos.de/web/image/1292-9bc00222/rakete1.webp) ##### Einfach schnell
 
 Unsere Meinung: Ein gutes Kassensystem sollte vollständig in den Hintergrund rücken, damit Sie sich auf den Gast konzentrieren können:
 
@@ -94,7 +94,7 @@ Zeitsparende und einfache Bedienung dank innovativer Wischgesten.
 
  
 
-   ![Online und Offline](/web/image/1290-32ad6d77/wlan1.webp) ##### Online und Offline
+   ![Online und Offline](https://www.cw-softpos.de/web/image/1290-32ad6d77/wlan1.webp) ##### Online und Offline
 
  Wenn mal die Internet Verbindung im Lokal ausfällt, stehen die meisten Kassensysteme. Nicht so bei **CW-SoftPOS**! Hauptkasse sowohl als auch Funkboniersysteme können weiterhin arbeiten.
 
@@ -111,7 +111,7 @@ Sobald die Internetverbindung wieder da ist, erfolgt die **Synchronisation mit d
 
  
 
-  ![Hardware](/web/image/1255-5925642a/laptop1.webp) ##### Hardware
+  ![Hardware](https://www.cw-softpos.de/web/image/1255-5925642a/laptop1.webp) ##### Hardware
 
  Als Android Software läuft **CW-SoftPOS** auf sämtlichen modernen Android Geräten, wie Handys oder Tablets sowie auf professioneller Kassen Hardware gleichermaßen reibungslos.
 
@@ -131,7 +131,7 @@ Android Software mit  **höchster Kompatibilität**
 
  
 
-  ![Transparent & fair](/web/image/1291-757136b3/banknote1.webp) ##### Transparent &amp; fair
+  ![Transparent & fair](https://www.cw-softpos.de/web/image/1291-757136b3/banknote1.webp) ##### Transparent &amp; fair
 
  Du hast versteckte Kosten, unzuverlässigen Support und unverschämte Wartungsverträge satt? Wir auch! Bei CW-Soft**POS** weißt du woran du bist. Transparent und fair, anders kann es nicht sein.
 
@@ -169,9 +169,9 @@ Die simple Kassen Lösung für jede klassische Branche des Fach- und Einzelhande
 
  
 
-![Handel](/web/image/933-fcc05c15/Handel.webp)
+![Handel](https://www.cw-softpos.de/web/image/933-fcc05c15/Handel.webp)
 
- ![Kompakte, smarte Kasse SUNMI V3 MIX](/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX") 
+ ![Kompakte, smarte Kasse SUNMI V3 MIX](https://www.cw-softpos.de/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX") 
 
 
 
@@ -187,9 +187,9 @@ Die simple Kassen Lösung für jede klassische Branche des Fach- und Einzelhande
 
  
 
- ![Kompakte, smarte Kasse SUNMI V3 MIX](/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX")
+ ![Kompakte, smarte Kasse SUNMI V3 MIX](https://www.cw-softpos.de/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX")
 
-![Handel](/web/image/933-fcc05c15/Handel.webp)
+![Handel](https://www.cw-softpos.de/web/image/933-fcc05c15/Handel.webp)
 
 
 
@@ -210,9 +210,9 @@ Seit vielen Jahren erfolgreich in der Gastronomie im Einsatz wissen wir um die h
 
  
 
-![Gastro](/web/image/931-5b6c9653/gastro.png)
+![Gastro](https://www.cw-softpos.de/web/image/931-5b6c9653/gastro.png)
 
- ![Smarte Kasse SUNMI T3 Pro Max](/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
+ ![Smarte Kasse SUNMI T3 Pro Max](https://www.cw-softpos.de/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
 
 
 
@@ -228,9 +228,9 @@ Seit vielen Jahren erfolgreich in der Gastronomie im Einsatz wissen wir um die h
 
  
 
-![Gastro](/web/image/931-5b6c9653/gastro.png)
+![Gastro](https://www.cw-softpos.de/web/image/931-5b6c9653/gastro.png)
 
- ![Smarte Kasse SUNMI T3 Pro Max](/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
+ ![Smarte Kasse SUNMI T3 Pro Max](https://www.cw-softpos.de/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
 
 
 
@@ -251,9 +251,9 @@ Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten, **
 
  
 
-![Event](/web/image/1392-40a53f97/event.webp)
+![Event](https://www.cw-softpos.de/web/image/1392-40a53f97/event.webp)
 
- ![Kompakte, smarte Kasse SUNMI D3 mini](/web/image/1393-376eae53/D3mini-klein.webp "SUNMI D3 mini") 
+ ![Kompakte, smarte Kasse SUNMI D3 mini](https://www.cw-softpos.de/web/image/1393-376eae53/D3mini-klein.webp "SUNMI D3 mini") 
 
 
 
@@ -269,9 +269,9 @@ Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten, **
 
  
 
-![Event](/web/image/1392-40a53f97/event.webp)
+![Event](https://www.cw-softpos.de/web/image/1392-40a53f97/event.webp)
 
- ![Kompakte, smarte Kasse SUNMI D3 mini](/web/image/1903-6d36f988/D3mini-klein.webp "SUNMI D3 mini") 
+ ![Kompakte, smarte Kasse SUNMI D3 mini](https://www.cw-softpos.de/web/image/1903-6d36f988/D3mini-klein.webp "SUNMI D3 mini") 
 
 
 
@@ -379,22 +379,22 @@ Unsere Partner
 
  
 
-  [![Kassenhardware von Sunmi mit Android](/web/image/1602-f95b84dd/Logo-sunmi.png "www.sunmi.com")](http://www.sunmi.com) 
+  [![Kassenhardware von Sunmi mit Android](https://www.cw-softpos.de/web/image/1602-f95b84dd/Logo-sunmi.png "www.sunmi.com")](http://www.sunmi.com) 
 
- [![TSE in der Cloud](/web/image/1604-89878a7e/partner-referenz-fiskaly.webp "www.fiskaly.com")](http://www.fiskaly.com) 
+ [![TSE in der Cloud](https://www.cw-softpos.de/web/image/1604-89878a7e/partner-referenz-fiskaly.webp "www.fiskaly.com")](http://www.fiskaly.com) 
 
- [![Kartenzahlung mit viva.com an Kasse](/web/image/1606-8961af23/Logo-Viva.png "www.viva.com")](https://www.viva.com/de-de) 
+ [![Kartenzahlung mit viva.com an Kasse](https://www.cw-softpos.de/web/image/1606-8961af23/Logo-Viva.png "www.viva.com")](https://www.viva.com/de-de) 
 
- [![Kartenzahlungen mit GP Tom an Kasse](/web/image/1610-bce01c4d/Logo-GPTom.webp "www.gptom.com/de")](https://www.gptom.com/de/) 
+ [![Kartenzahlungen mit GP Tom an Kasse](https://www.cw-softpos.de/web/image/1610-bce01c4d/Logo-GPTom.webp "www.gptom.com/de")](https://www.gptom.com/de/) 
 
- [![Kartenzahlung mit Hobex an Kasse](/web/image/1603-cb43d04e/partner-referenz-hobex.webp "www.hobex.at")](http://www.hobex.at)
+ [![Kartenzahlung mit Hobex an Kasse](https://www.cw-softpos.de/web/image/1603-cb43d04e/partner-referenz-hobex.webp "www.hobex.at")](http://www.hobex.at)
 
- [![www.pulsa.de](/web/image/1609-14c79207/pulsa_logo.webp "www.pulsa.de")](http://www.pulsa.de) 
-
- 
+ [![www.pulsa.de](https://www.cw-softpos.de/web/image/1609-14c79207/pulsa_logo.webp "www.pulsa.de")](http://www.pulsa.de) 
 
  
 
- [![Kartenzahlung mit Softpay an Kasse](/web/image/2256-61eca6f0/softpay-io-dark-w500.webp "Softpay.io")](https://softpay.io)
+ 
 
-[![Kartenzahlung mit elavon an Kasse](/web/image/4475-aeb6ef69/Elavon_primary_blue2_RGB-01.svg "elavon")](https://www.elavon.de/)
+ [![Kartenzahlung mit Softpay an Kasse](https://www.cw-softpos.de/web/image/2256-61eca6f0/softpay-io-dark-w500.webp "Softpay.io")](https://softpay.io)
+
+[![Kartenzahlung mit elavon an Kasse](https://www.cw-softpos.de/web/image/4475-aeb6ef69/Elavon_primary_blue2_RGB-01.svg "elavon")](https://www.elavon.de/)

@@ -2,7 +2,7 @@
 title: "Kassenzubehör wie Bonrollen & Sunmi Hardware"
 description: "Sunmi All-in-One Kassen, Drucker, Scanner & mehr: Entdecke das passende Kassenzubehör für CW-SoftPOS und rüste dein Kassensystem optimal aus."
 source_url: "https://www.cw-softpos.de/zubehoer"
-scraped_at: "2026-09-17 12:31:21"
+scraped_at: "2026-09-17 12:57:33"
 ---
 
 K a s s e n z u b e h ö r
@@ -24,7 +24,7 @@ K a s s e n z u b e h ö r
 
  
 
-  ![SUNMI Cloud Drucker](/web/image/1541-a1b46350/sunmi-drucker.webp) 
+  ![SUNMI Cloud Drucker](https://www.cw-softpos.de/web/image/1541-a1b46350/sunmi-drucker.webp) 
 
 SUNMI Cloud Drucker
 
@@ -44,7 +44,7 @@ SUNMI Cloud Drucker
 
  
 
- ![SUNMI Handscanner](/web/image/1522-f366b5d4/scanner.webp) 
+ ![SUNMI Handscanner](https://www.cw-softpos.de/web/image/1522-f366b5d4/scanner.webp) 
 
 SUNMI Handscanner
 
@@ -64,7 +64,7 @@ Handscanner, Retail, 2D, Imager, inkl.: Kabel (USB)
 
  
 
- ![SUNMI Blink Scanner](/web/image/1530-c0a575db/scanner.webp) 
+ ![SUNMI Blink Scanner](https://www.cw-softpos.de/web/image/1530-c0a575db/scanner.webp) 
 
 SUNMI Blink Scanner
 
@@ -84,7 +84,7 @@ Präsentationsscanner, Retail, 2D, Imager, Targeting-Mode, USB
 
  
 
- ![SUNMI MAX - Kassenlade](/web/image/1531-a9cfe26b/max-cash-drawer-v1.webp) 
+ ![SUNMI MAX - Kassenlade](https://www.cw-softpos.de/web/image/1531-a9cfe26b/max-cash-drawer-v1.webp) 
 
 SUNMI MAX - Kassenlade
 
@@ -108,7 +108,7 @@ Abmessungen (B x T x H): 430 x 457 x 88mm
 
  
 
- ![SUNMI MINI - Kassenlade](/web/image/1539-5f26dc9d/moneybox-v1.webp) 
+ ![SUNMI MINI - Kassenlade](https://www.cw-softpos.de/web/image/1539-5f26dc9d/moneybox-v1.webp) 
 
 SUNMI MINI - Kassenlade
 
@@ -132,7 +132,7 @@ Abmessungen (B x T x H): 317 x 332 x 72mm
 
  
 
- ![Addimat - Bedienerschloß](/web/image/1540-44ead77a/kellnerschloss.webp) 
+ ![Addimat - Bedienerschloß](https://www.cw-softpos.de/web/image/1540-44ead77a/kellnerschloss.webp) 
 
 ### Addimat - Bedienerschloß
 

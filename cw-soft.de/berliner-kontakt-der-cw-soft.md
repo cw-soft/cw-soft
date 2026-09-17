@@ -2,7 +2,7 @@
 title: "Kontakt Kassensysteme Berlin | CW-Soft HogaWare GmbH"
 description: "Fragen zu Kassensystemen Berlin? Mail: info@cw-soft.de oder +49 30 429 18 82 – persönliche, unverbindliche Beratung!"
 source_url: "https://cw-soft.de/berliner-kontakt-der-cw-soft"
-scraped_at: "2026-09-17 12:30:52"
+scraped_at: "2026-09-17 12:57:19"
 ---
 
 [ ![Reichstagsgebäude](https://cw-soft.de/fileadmin/_processed_/7/6/csm_Reichstagsgebaeude_Bundestag_Friedrichstrasse_19e59cdcf4.jpg "Berlin: Kontakt-Formular der CW-Soft") ](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular "Berlin: Kontakt-Formular der CW-Soft")  

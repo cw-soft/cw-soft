@@ -2,7 +2,7 @@
 title: "Berlin: Waren, Reservierungen, Veranstaltungen"
 description: "Individuelle IN‑House Tools: Warenwirtschaft, Reservierungssysteme und Veranstaltungsmanagement – implementierbar auf Oracle, Firebird oder MSSQL."
 source_url: "https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde"
-scraped_at: "2026-09-17 12:30:50"
+scraped_at: "2026-09-17 12:57:17"
 ---
 
 [ ![CW-Soft In-House Tools](https://cw-soft.de/fileadmin/_processed_/5/5/csm_Warenwirtschaft_Systeme_Inventuren_920x280_69d83843df.jpg "Berlin: Warenwirtschaft, Reservierungssystem") ](https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde "Berlin: Warenwirtschaft, Reservierungssystem")  
@@ -84,15 +84,15 @@ Betriebswirtschaft.
 
  
 
- [![Logo Digituu GmbH](fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
+ [![Logo Digituu GmbH](https://cw-soft.de/fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
 
- [![Logo PC-CASH](fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
+ [![Logo PC-CASH](https://cw-soft.de/fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
 Unser Dank gilt insbesondere:
 
 - Anna Schenk
 - Simon Schenk
  
  
- [![Warenwirtschaft an Kasse](fileadmin/logos/CW-SoftPOS.png "Kantine")](https://www.cw-softpos.de/ "Reservierungsbuch an Kasse") 
+ [![Warenwirtschaft an Kasse](https://cw-soft.de/fileadmin/logos/CW-SoftPOS.png "Kantine")](https://www.cw-softpos.de/ "Reservierungsbuch an Kasse") 
 
 ---

@@ -2,7 +2,7 @@
 title: "Handhelds & Mobile Order – Sunmi & Orderman Lösungen"
 description: "Robuste Handhelds (Sunmi, Orderman) für Order & Service – nahtlose Integration mit CW-SoftPOS Online/Offline‑Sync und schneller Bestellabwicklung."
 source_url: "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi"
-scraped_at: "2026-09-17 12:30:52"
+scraped_at: "2026-09-17 12:57:19"
 ---
 
 [ ![Android-Sunmi](https://cw-soft.de/fileadmin/_processed_/d/a/csm_PCC-Android_03c02aac7b.png "Berlin: Kassen-Hardware") ](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi "Berlin: Kassen-Hardware")  
@@ -86,15 +86,15 @@ Hardware, TSE
 
  
 
- [![Logo Digituu GmbH](fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
+ [![Logo Digituu GmbH](https://cw-soft.de/berlin-kassen-und-kassensysteme/fileadmin/logos/Digituu_Logo_2021-01.png "Logo Digituu GmbH")](https://digituu.com/ "digituu GmbH")übernimmt
 
- [![Logo PC-CASH](fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
+ [![Logo PC-CASH](https://cw-soft.de/berlin-kassen-und-kassensysteme/fileadmin/logos/pccash.png "Logo PC_CASH")](https://www.pc-cash-team.de/ "PC-CASH") 
 Unser Dank gilt insbesondere:
 
 - Anna Schenk
 - Simon Schenk
  
  
- [![Posifex Kassensysteme](fileadmin/logos/CW-SoftPOS.png "Orderman Kassen")](https://www.cw-softpos.de/ "Sunmi Kassensysteme") 
+ [![Posifex Kassensysteme](https://cw-soft.de/berlin-kassen-und-kassensysteme/fileadmin/logos/CW-SoftPOS.png "Orderman Kassen")](https://www.cw-softpos.de/ "Sunmi Kassensysteme") 
 
 ---

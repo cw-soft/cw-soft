@@ -2,7 +2,7 @@
 title: "CW-Soft Kassensysteme Berlin | Seiten-Übersicht"
 description: "CW-Soft Berlin: Kassensysteme, In-House-Lösungen, Leistungen & Kontakt – alle Links im Überblick."
 source_url: "https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht"
-scraped_at: "2026-09-17 12:30:55"
+scraped_at: "2026-09-17 12:57:21"
 ---
 
 [ ![Reichstagsgebäude](https://cw-soft.de/fileadmin/_processed_/7/6/csm_Reichstagsgebaeude_Bundestag_Friedrichstrasse_98443d7882.jpg "Stuktur") ](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular "Stuktur")  
