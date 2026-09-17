@@ -9,7 +9,7 @@
 ### PC-CASH twin
 * [windowsbasierte Kassensoftware PC-CASH twin](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos)
 * [Kassen und Kassensysteme](https://cw-soft.de/berlin-kassen-und-kassensysteme)
-* [Kassengeräte](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi)
+* [Kassenhardware](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi)
 ### Zusätzliches
 * [Warenverwaltung,Reservierungssysteme, Veranstaltungsplanungen](https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde)
 * [Kontaktformular für Interessierte an PC-CASH und an CW-Soft](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular)
