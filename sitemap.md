@@ -1,6 +1,9 @@
-#Kassensysteme Berlin
+# Kassensysteme Berlin
 
+## CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH
 [CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH](https://cw-soft.de/)
+
+## Windowsbasierte Kassensoftware und CW-Soft
 [Kassen und Kassensysteme](https://cw-soft.de/berlin-kassen-und-kassensysteme)
 [windowsbasierte Kassensoftware PC-CASH twin](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos)
 [Kassengeräte](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi)
@@ -9,6 +12,7 @@
 [Über die CW-Soft](https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh)
 [Kontaktformular zur CW-Soft](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular)
 
+## Androidbasierte Kassensoftware und CW-Soft
 [Androidbasierte Cloud-Kassensoftware CW-SoftPOS](https://www.cw-softpos.de/)
 [Das Konzept](https://www.cw-softpos.de/das-konzept)
 [Kasse für den Einzelhandel / Retail](https://www.cw-softpos.de/handel)
