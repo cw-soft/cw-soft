@@ -7,6 +7,7 @@
 * [Handbücher zu CW-SoftPOS](https://wissen.cw-softpos.de)
 ### Allgemeines
 * [Dokumentation](https://github.com/cw-soft/cw-soft/blob/main/llms.md)
+* [Sitemap](https://github.com/cw-soft/cw-soft/blob/main/sitemap.md)
 #### Links
 * [YouTube](https://www.youtube.com/@Kassensystem-CW-SoftPOS)
 * [Kassen in Berlin](https://kassen-in-berlin.de)
