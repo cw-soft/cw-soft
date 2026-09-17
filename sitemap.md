@@ -2,11 +2,10 @@
 
 ## CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH
 * [CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH](https://cw-soft.de/)
-
-## Windowsbasierte Kassensoftware und CW-Soft
-### CW-Soft
 * [Über die CW-Soft](https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh)
 * [Leistungen der CW-Soft](https://cw-soft.de/berlin-kassen-leistungen-und-ihre-wuensche)
+
+## Windowsbasierte Kassensoftware und CW-Soft
 ### PC-CASH twin
 * [windowsbasierte Kassensoftware PC-CASH twin](https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos)
 * [Kassen und Kassensysteme](https://cw-soft.de/berlin-kassen-und-kassensysteme)
