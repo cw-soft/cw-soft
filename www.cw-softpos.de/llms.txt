@@ -1,24 +1,46 @@
-# www.cw-softpos.de
-> Diese Datei dient als maschinenlesbarer Index aller verfügbaren Ressourcen für KI-Crawler und LLMs.
+# www.cw-softpos.de Documentation
 
-## Gecrawlte Ressourcen
+> Full static markdown export of the domain content.
 
-- [CW-SoftPOS: Kassensystem für Gastro & Events](./index.md) - Original: https://www.cw-softpos.de/
-- [Cloud Kassensystem CW-SoftPOS: Handel & Gastro](./das-konzept.md) - Original: https://www.cw-softpos.de/das-konzept
-- [Kassensystem für Einzelhandel & Retail | CW-SoftPOS](./handel.md) - Original: https://www.cw-softpos.de/handel
-- [Kassensystem für Friseursalon](./friseur.md) - Original: https://www.cw-softpos.de/friseur
-- [Kassensystem für Blumenladen & Floristik](./blumenladen.md) - Original: https://www.cw-softpos.de/blumenladen
-- [Kassensystem Gastronomie & Restaurant](./gastronomie.md) - Original: https://www.cw-softpos.de/gastronomie
-- [Kassensystem für Kantinen](./kantine.md) - Original: https://www.cw-softpos.de/kantine
-- [Kassensystem für Bäckerei | CW-SoftPOS](./baeckerei.md) - Original: https://www.cw-softpos.de/baeckerei
-- [Kassensystem für Foodtruck & Imbiss](./foodtruck.md) - Original: https://www.cw-softpos.de/foodtruck
-- [Kassensystem für Open Air Events](./event.md) - Original: https://www.cw-softpos.de/event
-- [Kassensystem für Bar & Nachtclub](./club.md) - Original: https://www.cw-softpos.de/club
-- [Kassenzubehör wie Bonrollen & Sunmi Hardware](./zubehoer.md) - Original: https://www.cw-softpos.de/zubehoer
-- [Kontakt Kassensystem CW-SoftPOS | Beratung & Angebot](./kontakt.md) - Original: https://www.cw-softpos.de/kontakt
-- [ERP & Kassensystem Integration](./erp.md) - Original: https://www.cw-softpos.de/erp
-- [Kassen Konfigurator | CW-SoftPOS Kassensystem planen](./konfigurator2.md) - Original: https://www.cw-softpos.de/konfigurator2
-- [FAQ zum Kassensystem CW-SoftPOS | TSE, Hardware](./faq.md) - Original: https://www.cw-softpos.de/faq
-- [AGB | CW-SoftPOS Kassensystem | Berlin](./allgemeine-geschaftsbedingungen.md) - Original: https://www.cw-softpos.de/allgemeine-geschaftsbedingungen
-- [Impressum | Kassensystem CW-SoftPOS von CW-Soft](./impressum.md) - Original: https://www.cw-softpos.de/impressum
-- [Keks - Richtlinien](./cookie-policy.md) - Original: https://www.cw-softpos.de/cookie-policy
+## Gecrawlte Seiten
+
+- [CW-SoftPOS: Kassensystem für Gastro & Events](https://www.cw-softpos.de)
+  - Local: ./crawled_www_cw_softpos_de/index.md
+- [CW-SoftPOS: Kassensystem für Gastro & Events](https://www.cw-softpos.de/)
+  - Local: ./crawled_www_cw_softpos_de/index.md
+- [Cloud Kassensystem CW-SoftPOS: Handel & Gastro](https://www.cw-softpos.de/das-konzept)
+  - Local: ./crawled_www_cw_softpos_de/das_konzept.md
+- [Kassensystem für Einzelhandel & Retail | CW-SoftPOS](https://www.cw-softpos.de/handel)
+  - Local: ./crawled_www_cw_softpos_de/handel.md
+- [Kassensystem für Friseursalon](https://www.cw-softpos.de/friseur)
+  - Local: ./crawled_www_cw_softpos_de/friseur.md
+- [Kassensystem für Blumenladen & Floristik](https://www.cw-softpos.de/blumenladen)
+  - Local: ./crawled_www_cw_softpos_de/blumenladen.md
+- [Kassensystem Gastronomie & Restaurant](https://www.cw-softpos.de/gastronomie)
+  - Local: ./crawled_www_cw_softpos_de/gastronomie.md
+- [Kassensystem für Kantinen](https://www.cw-softpos.de/kantine)
+  - Local: ./crawled_www_cw_softpos_de/kantine.md
+- [Kassensystem für Bäckerei | CW-SoftPOS](https://www.cw-softpos.de/baeckerei)
+  - Local: ./crawled_www_cw_softpos_de/baeckerei.md
+- [Kassensystem für Foodtruck & Imbiss](https://www.cw-softpos.de/foodtruck)
+  - Local: ./crawled_www_cw_softpos_de/foodtruck.md
+- [Kassensystem für Open Air Events](https://www.cw-softpos.de/event)
+  - Local: ./crawled_www_cw_softpos_de/event.md
+- [Kassensystem für Bar & Nachtclub](https://www.cw-softpos.de/club)
+  - Local: ./crawled_www_cw_softpos_de/club.md
+- [Kassenzubehör wie Bonrollen & Sunmi Hardware](https://www.cw-softpos.de/zubehoer)
+  - Local: ./crawled_www_cw_softpos_de/zubehoer.md
+- [Kontakt Kassensystem CW-SoftPOS | Beratung & Angebot](https://www.cw-softpos.de/kontakt)
+  - Local: ./crawled_www_cw_softpos_de/kontakt.md
+- [ERP & Kassensystem Integration](https://www.cw-softpos.de/erp)
+  - Local: ./crawled_www_cw_softpos_de/erp.md
+- [Kassen Konfigurator | CW-SoftPOS Kassensystem planen](https://www.cw-softpos.de/konfigurator2)
+  - Local: ./crawled_www_cw_softpos_de/konfigurator2.md
+- [FAQ zum Kassensystem CW-SoftPOS | TSE, Hardware](https://www.cw-softpos.de/faq)
+  - Local: ./crawled_www_cw_softpos_de/faq.md
+- [AGB | CW-SoftPOS Kassensystem | Berlin](https://www.cw-softpos.de/allgemeine-geschaftsbedingungen)
+  - Local: ./crawled_www_cw_softpos_de/allgemeine_geschaftsbedingungen.md
+- [Impressum | Kassensystem CW-SoftPOS von CW-Soft](https://www.cw-softpos.de/impressum)
+  - Local: ./crawled_www_cw_softpos_de/impressum.md
+- [Keks - Richtlinien](https://www.cw-softpos.de/cookie-policy)
+  - Local: ./crawled_www_cw_softpos_de/cookie_policy.md

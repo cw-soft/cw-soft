@@ -2,7 +2,7 @@ Keks - Richtlinien
                 watch3rdPartyScripts(["youtu.be", "youtube.com", "youtube-nocookie.com", "instagram.com", "instagr.am", "ig.me", "vimeo.com", "dailymotion.com", "dai.ly", "youku.com", "tudou.com", "facebook.com", "facebook.net", "fb.com", "fb.me", "fb.watch", "tiktok.com", "x.com", "twitter.com", "t.co", "googletagmanager.com", "google-analytics.com", "google.com", "google.ad", "google.ae", "google.com.af", "google.com.ag", "google.al", "google.am", "google.co.ao", "google.com.ar", "google.as", "google.at", "google.com.au", "google.az", "google.ba", "google.com.bd", "google.be", "google.bf", "google.bg", "google.com.bh", "google.bi", "google.bj", "google.com.bn", "google.com.bo", "google.com.br", "google.bs", "google.bt", "google.co.bw", "google.by", "google.com.bz", "google.ca", "google.cd", "google.cf", "google.cg", "google.ch", "google.ci", "google.co.ck", "google.cl", "google.cm", "google.cn", "google.com.co", "google.co.cr", "google.com.cu", "google.cv", "google.com.cy", "google.cz", "google.de", "google.dj", "google.dk", "google.dm", "google.com.do", "google.dz", "google.com.ec", "google.ee", "google.com.eg", "google.es", "google.com.et", "google.fi", "google.com.fj", "google.fm", "google.fr", "google.ga", "google.ge", "google.gg", "google.com.gh", "google.com.gi", "google.gl", "google.gm", "google.gr", "google.com.gt", "google.gy", "google.com.hk", "google.hn", "google.hr", "google.ht", "google.hu", "google.co.id", "google.ie", "google.co.il", "google.im", "google.co.in", "google.iq", "google.is", "google.it", "google.je", "google.com.jm", "google.jo", "google.co.jp", "google.co.ke", "google.com.kh", "google.ki", "google.kg", "google.co.kr", "google.com.kw", "google.kz", "google.la", "google.com.lb", "google.li", "google.lk", "google.co.ls", "google.lt", "google.lu", "google.lv", "google.com.ly", "google.co.ma", "google.md", "google.me", "google.mg", "google.mk", "google.ml", "google.com.mm", "google.mn", "google.com.mt", "google.mu", "google.mv", "google.mw", "google.com.mx", "google.com.my", "google.co.mz", "google.com.na", "google.com.ng", "google.com.ni", "google.ne", "google.nl", "google.no", "google.com.np", "google.nr", "google.nu", "google.co.nz", "google.com.om", "google.com.pa", "google.com.pe", "google.com.pg", "google.com.ph", "google.com.pk", "google.pl", "google.pn", "google.com.pr", "google.ps", "google.pt", "google.com.py", "google.com.qa", "google.ro", "google.ru", "google.rw", "google.com.sa", "google.com.sb", "google.sc", "google.se", "google.com.sg", "google.sh", "google.si", "google.sk", "google.com.sl", "google.sn", "google.so", "google.sm", "google.sr", "google.st", "google.com.sv", "google.td", "google.tg", "google.co.th", "google.com.tj", "google.tl", "google.tm", "google.tn", "google.to", "google.com.tr", "google.tt", "google.com.tw", "google.co.tz", "google.com.ua", "google.co.ug", "google.co.uk", "google.com.uy", "google.co.uz", "google.com.vc", "google.co.ve", "google.co.vi", "google.com.vn", "google.vu", "google.ws", "google.rs", "google.co.za", "google.co.zm", "google.co.zw", "google.cat"]);
              
             var odoo = {
-                csrf_token: "bd24160592b2e909acc296143903e4dde329f971o1821522991",
+                csrf_token: "61746a4714fe17bc3070b2c6ca57bda96fef4c36o1821523635",
                 debug: "",
             };
          
@@ -18,17 +18,17 @@ Keks - Richtlinien
   "@graph": [
     {
       "@type": "LocalBusiness",
-      "priceRange": "€",
+      "priceRange": "&euro;",
       "@id": "https://www.cw-softpos.de/#cwsoftpos",
       "name": "CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH",
-      "description": "CW-SoftPOS ist ein Android-basiertes SoftPOS Kassensystem für Gastronomie, Handel und Events mit offlinefähigem Betrieb, Cloud-Zugang und transparenten All-in-Lizenzpreisen.",
+      "description": "CW-SoftPOS ist ein Android-basiertes SoftPOS Kassensystem f&uuml;r Gastronomie, Handel und Events mit offlinef&auml;higem Betrieb, Cloud-Zugang und transparenten All-in-Lizenzpreisen.",
       "url": "https://www.cw-softpos.de/",
       "telephone": "+49 (0) 30 429 1882",
       "email": "info@cw-soft.de",
       "image": "https://cw-soft.de/fileadmin/logos/CW-Logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Friedrichstraße 95",
+        "streetAddress": "Friedrichstra&szlig;e 95",
         "postalCode": "10117",
         "addressLocality": "Berlin",
         "addressCountry": "DE"
@@ -106,14 +106,14 @@ Keks - Richtlinien
         "Kassensystem Event",
         "SoftPOS Kassensystem"
       ],
-      "description": "All-in-One SoftPOS Kassensystem für Gastronomie, Handel und Events. Android-basiert, offlinefähig, Cloud-Backend, Funkboniersysteme und integrierbare Kartenzahlung.",
+      "description": "All-in-One SoftPOS Kassensystem f&uuml;r Gastronomie, Handel und Events. Android-basiert, offlinef&auml;hig, Cloud-Backend, Funkboniersysteme und integrierbare Kartenzahlung.",
       "url": "https://www.cw-softpos.de/",
       "offers": [
         {
           "@type": "Offer",
           "@id": "https://www.cw-softpos.de/#basic",
           "name": "CW-SoftPOS BASIC",
-          "description": "Kassensystem für Kleinbetriebe mit unlimitierter Produktanzahl, einfacher Produktpflege und Cloud-Zugang, ohne Tischverwaltung.",
+          "description": "Kassensystem f&uuml;r Kleinbetriebe mit unlimitierter Produktanzahl, einfacher Produktpflege und Cloud-Zugang, ohne Tischverwaltung.",
           "price": "19.90",
           "priceCurrency": "EUR",
           "priceSpecification": {
@@ -165,7 +165,7 @@ Keks - Richtlinien
           "name": "In welchen Branchen kann ich CW-SoftPOS einsetzen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "CW-SoftPOS wird in Gastronomie, Handel und auf Events eingesetzt. Es gibt spezielle Varianten für Gastro-Betriebe mit Tischverwaltung sowie für Retail- und Event-Szenarien ohne Tischverwaltung."
+            "text": "CW-SoftPOS wird in Gastronomie, Handel und auf Events eingesetzt. Es gibt spezielle Varianten f&uuml;r Gastro-Betriebe mit Tischverwaltung sowie f&uuml;r Retail- und Event-Szenarien ohne Tischverwaltung."
           }
         },
         {
@@ -173,7 +173,7 @@ Keks - Richtlinien
           "name": "Kann ich mit CW-SoftPOS auch offline kassieren?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. Hauptkasse und Funkboniersysteme können auch bei unterbrochener Internetverbindung weiterarbeiten. Die Bewegungsdaten werden bei wiederhergestellter Verbindung mit der Cloud synchronisiert, sodass der Betrieb auch bei schwankender Verbindung problemlos weiterläuft."
+            "text": "Ja. Hauptkasse und Funkboniersysteme k&ouml;nnen auch bei unterbrochener Internetverbindung weiterarbeiten. Die Bewegungsdaten werden bei wiederhergestellter Verbindung mit der Cloud synchronisiert, sodass der Betrieb auch bei schwankender Verbindung problemlos weiterl&auml;uft."
           }
         },
         {
@@ -181,7 +181,7 @@ Keks - Richtlinien
           "name": "Welche Hardware kann ich mit CW-SoftPOS verwenden?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "CW-SoftPOS läuft auf modernen Android-Geräten wie Smartphones und Tablets sowie auf professioneller Kassenhardware. Zusätzlich können Zubehör wie Drucker, Scanner, Kassenschubladen oder Küchenmonitore angebunden werden."
+            "text": "CW-SoftPOS l&auml;uft auf modernen Android-Ger&auml;ten wie Smartphones und Tablets sowie auf professioneller Kassenhardware. Zus&auml;tzlich k&ouml;nnen Zubeh&ouml;r wie Drucker, Scanner, Kassenschubladen oder K&uuml;chenmonitore angebunden werden."
           }
         },
         {
@@ -189,15 +189,15 @@ Keks - Richtlinien
           "name": "Welche Lizenzmodelle bietet CW-SoftPOS an?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Es stehen die Lizenzpakete BASIC, STANDARD und PREMIUM zur Verfügung. Alle Modelle sind als transparente All-in-Monatslizenzen mit Software-Updates und Support ohne separate Wartungsverträge und ohne versteckte Kosten ausgelegt."
+            "text": "Es stehen die Lizenzpakete BASIC, STANDARD und PREMIUM zur Verf&uuml;gung. Alle Modelle sind als transparente All-in-Monatslizenzen mit Software-Updates und Support ohne separate Wartungsvertr&auml;ge und ohne versteckte Kosten ausgelegt."
           }
         },
         {
           "@type": "Question",
-          "name": "Wie kann ich CW-SoftPOS für meinen Betrieb konfigurieren?",
+          "name": "Wie kann ich CW-SoftPOS f&uuml;r meinen Betrieb konfigurieren?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Über den Online-Konfigurator auf der Website können Sie die passende CW-SoftPOS Variante für Handel, Gastronomie oder Events auswählen und an Ihren Betrieb anpassen. Auf Wunsch unterstützt Sie das Team bei der Auswahl und Einrichtung."
+            "text": "&Uuml;ber den Online-Konfigurator auf der Website k&ouml;nnen Sie die passende CW-SoftPOS Variante f&uuml;r Handel, Gastronomie oder Events ausw&auml;hlen und an Ihren Betrieb anpassen. Auf Wunsch unterst&uuml;tzt Sie das Team bei der Auswahl und Einrichtung."
           }
         },
         {
@@ -213,15 +213,15 @@ Keks - Richtlinien
           "name": "Drucker druckt mit roten Streifen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Bonrolle bereitlegen, demnächst muss die Bonrolle gewechselt werden. Die Roten Streifen zeigen das baldige Ende der Bonrolle an."
+            "text": "Bonrolle bereitlegen, demn&auml;chst muss die Bonrolle gewechselt werden. Die Roten Streifen zeigen das baldige Ende der Bonrolle an."
           }
         },
         {
     "@type": "Question",
-    "name": "Für welche Branchen ist CW-SoftPOS geeignet?",
+    "name": "F&uuml;r welche Branchen ist CW-SoftPOS geeignet?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "CW-SoftPOS eignet sich für Gastronomie und gewerblichen Handel jeder Art. Durch Multi-Kassen- und Multi-Company-Verwaltung ist die Lösung auch für Filialisten geeignet."
+      "text": "CW-SoftPOS eignet sich f&uuml;r Gastronomie und gewerblichen Handel jeder Art. Durch Multi-Kassen- und Multi-Company-Verwaltung ist die L&ouml;sung auch f&uuml;r Filialisten geeignet."
     }
   },
   {
@@ -229,7 +229,7 @@ Keks - Richtlinien
     "name": "Auf welcher Technologie basiert CW-SoftPOS?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "CW-SoftPOS basiert auf Android und läuft auf allen gängigen Android-Geräten (Smartphones, Tablets, professionelle Kassenhardware) ab Android 13."
+      "text": "CW-SoftPOS basiert auf Android und l&auml;uft auf allen g&auml;ngigen Android-Ger&auml;ten (Smartphones, Tablets, professionelle Kassenhardware) ab Android 13."
     }
   },
   {
@@ -237,7 +237,7 @@ Keks - Richtlinien
     "name": "Ist CW-SoftPOS TSE-konform?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ja. CW-SoftPOS erfüllt alle Anforderungen der KassenSichV mit integrierter Technischer Sicherheitseinrichtung (TSE), die seit dem 01.01.2020 in Deutschland vorgeschrieben ist."
+      "text": "Ja. CW-SoftPOS erf&uuml;llt alle Anforderungen der KassenSichV mit integrierter Technischer Sicherheitseinrichtung (TSE), die seit dem 01.01.2020 in Deutschland vorgeschrieben ist."
     }
   },
   {
@@ -253,15 +253,15 @@ Keks - Richtlinien
     "name": "Was kostet CW-SoftPOS?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "CW-SoftPOS ist ab 19,90 € pro Monat und Gerät erhältlich (BASIC). Das STANDARD-Paket kostet ab 29,90 €/Monat, das PREMIUM-Paket mit Tischverwaltung ab 39,90 €/Monat. Updates sind in allen Tarifen kostenfrei enthalten, keine versteckten Wartungskosten."
+      "text": "CW-SoftPOS ist ab 19,90 &euro; pro Monat und Ger&auml;t erh&auml;ltlich (BASIC). Das STANDARD-Paket kostet ab 29,90 &euro;/Monat, das PREMIUM-Paket mit Tischverwaltung ab 39,90 &euro;/Monat. Updates sind in allen Tarifen kostenfrei enthalten, keine versteckten Wartungskosten."
     }
   },
   {
     "@type": "Question",
-    "name": "Unterstützt CW-SoftPOS DATEV-Export?",
+    "name": "Unterst&uuml;tzt CW-SoftPOS DATEV-Export?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ja. Über das Finanzmodul kann ein DATEV-Export direkt aus dem System übermittelt werden."
+      "text": "Ja. &Uuml;ber das Finanzmodul kann ein DATEV-Export direkt aus dem System &uuml;bermittelt werden."
     }
   },
   {
@@ -269,7 +269,7 @@ Keks - Richtlinien
     "name": "Wie viele Funkbonierer kann ich einsetzen?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Beliebig viele mobile Geräte können in das Kassennetzwerk eingebunden werden. Die Geräte kommunizieren per WLAN mit der Hauptkasse und arbeiten auch bei Internetausfall weiter."
+      "text": "Beliebig viele mobile Ger&auml;te k&ouml;nnen in das Kassennetzwerk eingebunden werden. Die Ger&auml;te kommunizieren per WLAN mit der Hauptkasse und arbeiten auch bei Internetausfall weiter."
     }
   },
   {
@@ -292,8 +292,8 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/#website",
       "url": "https://www.cw-softpos.de/",
       "name": "cw-softpos.de",
-      "headline": "SoftPOS Kassensystem für Gastro & Events | CW-SoftPOS",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "headline": "SoftPOS Kassensystem f&uuml;r Gastro & Events | CW-SoftPOS",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "publisher": {
         "@id": "https://www.cw-softpos.de/#organization"
@@ -330,8 +330,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/baeckerei#webpage",
       "url": "https://www.cw-softpos.de/baeckerei",
-      "name": "Kassensystem für Bäckerei | CW-SoftPOS",
-      "description": "CW-SoftPOS für Bäckereien: TSE-konformes Kassensystem mit mobiler Kasse, Kartenzahlung und Drucker, optional mit integrierter Waage für Backwaren und Snacks.",
+      "name": "Kassensystem f&uuml;r B&auml;ckerei | CW-SoftPOS",
+      "description": "CW-SoftPOS f&uuml;r B&auml;ckereien: TSE-konformes Kassensystem mit mobiler Kasse, Kartenzahlung und Drucker, optional mit integrierter Waage f&uuml;r Backwaren und Snacks.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -346,7 +346,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/blog#webpage",
       "url": "https://www.cw-softpos.de/blog",
       "name": "Blog Posts | cw-softpos.de",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -361,7 +361,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/blog/cw-soft-newsletter-2#webpage",
       "url": "https://www.cw-softpos.de/blog/cw-soft-newsletter-2",
       "name": "CW-Soft Newsletter | cw-softpos.de",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -376,7 +376,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/blog/cw-soft-newsletter-2/feed#webpage",
       "url": "https://www.cw-softpos.de/blog/cw-soft-newsletter-2/feed",
       "name": "CW-Soft Newsletter",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -391,7 +391,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/blog/kassensysteme-1#webpage",
       "url": "https://www.cw-softpos.de/blog/kassensysteme-1",
       "name": "Kassensysteme | cw-softpos.de",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -406,7 +406,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/blog/kassensysteme-1/feed#webpage",
       "url": "https://www.cw-softpos.de/blog/kassensysteme-1/feed",
       "name": "Kassensysteme",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -420,8 +420,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/blumenladen#webpage",
       "url": "https://www.cw-softpos.de/blumenladen",
-      "name": "Kassensystem für Blumenladen & Floristik | CW-SoftPOS",
-      "description": "CW-SoftPOS: Flexibles Kassensystem für Floristik & Blumenläden. Mit Kartenzahlung, TSE-Konformität und einfacher Bedienung im täglichen Geschäft.",
+      "name": "Kassensystem f&uuml;r Blumenladen & Floristik | CW-SoftPOS",
+      "description": "CW-SoftPOS: Flexibles Kassensystem f&uuml;r Floristik & Blumenl&auml;den. Mit Kartenzahlung, TSE-Konformit&auml;t und einfacher Bedienung im t&auml;glichen Gesch&auml;ft.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -435,8 +435,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/club#webpage",
       "url": "https://www.cw-softpos.de/club",
-      "name": "Kassensystem für Bar & Nachtclub | CW-SoftPOS",
-      "description": "CW-SoftPOS für Bars & Clubs: TSE-konform, schnelle Bestellprozesse, mobile Kassen und kontaktlose Kartenzahlung am Tresen.",
+      "name": "Kassensystem f&uuml;r Bar & Nachtclub | CW-SoftPOS",
+      "description": "CW-SoftPOS f&uuml;r Bars & Clubs: TSE-konform, schnelle Bestellprozesse, mobile Kassen und kontaktlose Kartenzahlung am Tresen.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -451,7 +451,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/das-konzept#webpage",
       "url": "https://www.cw-softpos.de/das-konzept",
       "name": "Cloud Kassensystem CW-SoftPOS: Handel & Gastro",
-      "description": "CW-SoftPOS: Cloud-Kasse auf Android & Sunmi. Offline-fähig, TSE-konform, ideal für Handel & Gastro.",
+      "description": "CW-SoftPOS: Cloud-Kasse auf Android & Sunmi. Offline-f&auml;hig, TSE-konform, ideal f&uuml;r Handel & Gastro.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -466,7 +466,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/erp#webpage",
       "url": "https://www.cw-softpos.de/erp",
       "name": "ERP & Kassensystem Integration | CW-SoftPOS",
-      "description": "ERP-Anbindung für CW-SoftPOS: Verbinde dein Kassensystem mit Warenwirtschaft, Lager und Backoffice und erhalte transparente Daten für Handel und Gastronomie.",
+      "description": "ERP-Anbindung f&uuml;r CW-SoftPOS: Verbinde dein Kassensystem mit Warenwirtschaft, Lager und Backoffice und erhalte transparente Daten f&uuml;r Handel und Gastronomie.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -480,8 +480,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/event#webpage",
       "url": "https://www.cw-softpos.de/event",
-      "name": "Kassensystem für Open Air Events | CW-SoftPOS",
-      "description": "CW-SoftPOS: Event-Kassensystem für Festivals & Open Air. Mobile TSE-Kassen, Kartenzahlung, Drucker, flexibel positionierbar.",
+      "name": "Kassensystem f&uuml;r Open Air Events | CW-SoftPOS",
+      "description": "CW-SoftPOS: Event-Kassensystem f&uuml;r Festivals & Open Air. Mobile TSE-Kassen, Kartenzahlung, Drucker, flexibel positionierbar.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -496,7 +496,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/faq#webpage",
       "url": "https://www.cw-softpos.de/faq",
       "name": "FAQ Kassensystem CW-SoftPOS | TSE, Hardware & Funktionen",
-      "description": "Antworten auf häufige Fragen zu CW-SoftPOS: TSE & Finanzkonformität, Hardware, Branchenfunktionen, Cloud vs. Offline und Support rund um dein Kassensystem.",
+      "description": "Antworten auf h&auml;ufige Fragen zu CW-SoftPOS: TSE & Finanzkonformit&auml;t, Hardware, Branchenfunktionen, Cloud vs. Offline und Support rund um dein Kassensystem.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -510,8 +510,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/foodtruck#webpage",
       "url": "https://www.cw-softpos.de/foodtruck",
-      "name": "Kassensystem für Foodtruck & Imbiss | CW-SoftPOS",
-      "description": "CW-SoftPOS für Foodtrucks & Imbisse: TSE-konform, mobil, offline-fähig. Mit Kartenzahlung & Bondruck im All-in-One-Gerät.",
+      "name": "Kassensystem f&uuml;r Foodtruck & Imbiss | CW-SoftPOS",
+      "description": "CW-SoftPOS f&uuml;r Foodtrucks & Imbisse: TSE-konform, mobil, offline-f&auml;hig. Mit Kartenzahlung & Bondruck im All-in-One-Ger&auml;t.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -525,8 +525,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/friseur#webpage",
       "url": "https://www.cw-softpos.de/friseur",
-      "name": "Kassensystem für Friseursalon | CW-SoftPOS SoftPOS Kasse",
-      "description": "CW-SoftPOS: Modernes Kassensystem für Friseursalons. TSE-konform, 100% finanzkonform, mit mobiler Kasse, Kartenzahlung & Belegdruck für schnelle Abläufe.",
+      "name": "Kassensystem f&uuml;r Friseursalon | CW-SoftPOS SoftPOS Kasse",
+      "description": "CW-SoftPOS: Modernes Kassensystem f&uuml;r Friseursalons. TSE-konform, 100% finanzkonform, mit mobiler Kasse, Kartenzahlung & Belegdruck f&uuml;r schnelle Abl&auml;ufe.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -541,7 +541,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/gastronomie#webpage",
       "url": "https://www.cw-softpos.de/gastronomie",
       "name": "Kassensystem Gastronomie & Restaurant | CW-SoftPOS",
-      "description": "CW-SoftPOS für Gastro & Restaurants: TSE-konformes Kassensystem mit Tischplan, Splitting, Gangbonierung, mobiler Kasse, Kartenzahlung, Drucker & Scanner.",
+      "description": "CW-SoftPOS f&uuml;r Gastro & Restaurants: TSE-konformes Kassensystem mit Tischplan, Splitting, Gangbonierung, mobiler Kasse, Kartenzahlung, Drucker & Scanner.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -555,8 +555,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/handel#webpage",
       "url": "https://www.cw-softpos.de/handel",
-      "name": "Kassensystem für Einzelhandel & Retail | CW-SoftPOS",
-      "description": "CW-SoftPOS: TSE-konformes Kassensystem für Retail. Mit mobiler Kasse, Kartenzahlung, Drucker & Scanner – flexibel für jede Filialgröße.",
+      "name": "Kassensystem f&uuml;r Einzelhandel & Retail | CW-SoftPOS",
+      "description": "CW-SoftPOS: TSE-konformes Kassensystem f&uuml;r Retail. Mit mobiler Kasse, Kartenzahlung, Drucker & Scanner &ndash; flexibel f&uuml;r jede Filialgr&ouml;&szlig;e.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -570,8 +570,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/#webpage",
       "url": "https://www.cw-softpos.de/",
-      "name": "SoftPOS Kassensystem für Gastro & Events | CW-SoftPOS",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "name": "SoftPOS Kassensystem f&uuml;r Gastro & Events | CW-SoftPOS",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -600,8 +600,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/kantine#webpage",
       "url": "https://www.cw-softpos.de/kantine",
-      "name": "Kassensystem für Kantine | CW-SoftPOS mit Waagenanbindung",
-      "description": "Kassensystem für Kantinen: CW-SoftPOS ist TSE-konform, unterstützt mobile Kassen, Kartenzahlung, Drucker und optional integrierte Waagen für Wiegeartikel.",
+      "name": "Kassensystem f&uuml;r Kantine | CW-SoftPOS mit Waagenanbindung",
+      "description": "Kassensystem f&uuml;r Kantinen: CW-SoftPOS ist TSE-konform, unterst&uuml;tzt mobile Kassen, Kartenzahlung, Drucker und optional integrierte Waagen f&uuml;r Wiegeartikel.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -616,7 +616,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/kontakt#webpage",
       "url": "https://www.cw-softpos.de/kontakt",
       "name": "Kontakt Kassensystem CW-SoftPOS | Beratung & Angebot",
-      "description": "Kontaktieren Sie uns für CW-SoftPOS-Beratung: Kassensysteme für Handel, Gastro, Foodtrucks, Events & mehr – wir melden uns schnell.",
+      "description": "Kontaktieren Sie uns f&uuml;r CW-SoftPOS-Beratung: Kassensysteme f&uuml;r Handel, Gastro, Foodtrucks, Events & mehr &ndash; wir melden uns schnell.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -631,7 +631,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/shop#webpage",
       "url": "https://www.cw-softpos.de/shop",
       "name": "Products | cw-softpos.de",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -646,7 +646,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/terms#webpage",
       "url": "https://www.cw-softpos.de/terms",
       "name": "Terms & Conditions | cw-softpos.de",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -661,7 +661,7 @@ Keks - Richtlinien
       "@id": "https://www.cw-softpos.de/website/info#webpage",
       "url": "https://www.cw-softpos.de/website/info",
       "name": "Odoo Information | cw-softpos.de",
-      "description": "CW-SoftPOS: Mobiles SoftPOS für Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner für Gastro, Retail, Events.",
+      "description": "CW-SoftPOS: Mobiles SoftPOS f&uuml;r Android/Sunmi. TSE-konform, offline, Kartenzahlung, Drucker, Scanner f&uuml;r Gastro, Retail, Events.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -675,8 +675,8 @@ Keks - Richtlinien
       "@type": "WebPage",
       "@id": "https://www.cw-softpos.de/zubehoer#webpage",
       "url": "https://www.cw-softpos.de/zubehoer",
-      "name": "Kassenzubehör & Sunmi Hardware | CW-SoftPOS",
-      "description": "Sunmi All-in-One Kassen, Drucker, Scanner & mehr: Entdecke das passende Kassenzubehör für CW-SoftPOS und rüste dein Kassensystem optimal aus.",
+      "name": "Kassenzubeh&ouml;r & Sunmi Hardware | CW-SoftPOS",
+      "description": "Sunmi All-in-One Kassen, Drucker, Scanner & mehr: Entdecke das passende Kassenzubeh&ouml;r f&uuml;r CW-SoftPOS und r&uuml;ste dein Kassensystem optimal aus.",
       "inLanguage": "de",
       "isPartOf": {
         "@id": "https://www.cw-softpos.de/#website"
@@ -694,19 +694,19 @@ Keks - Richtlinien
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "Kassensystem für Bäckerei | CW-SoftPOS",
+          "name": "Kassensystem f&uuml;r B&auml;ckerei | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/baeckerei"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Kassensystem für Blumenladen & Floristik | CW-SoftPOS",
+          "name": "Kassensystem f&uuml;r Blumenladen & Floristik | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/blumenladen"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Kassensystem für Bar & Nachtclub | CW-SoftPOS",
+          "name": "Kassensystem f&uuml;r Bar & Nachtclub | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/club"
         },
         {
@@ -724,7 +724,7 @@ Keks - Richtlinien
         {
           "@type": "ListItem",
           "position": 6,
-          "name": "Kassensystem für Open Air Events | CW-SoftPOS",
+          "name": "Kassensystem f&uuml;r Open Air Events | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/event"
         },
         {
@@ -736,13 +736,13 @@ Keks - Richtlinien
         {
           "@type": "ListItem",
           "position": 8,
-          "name": "Kassensystem für Foodtruck & Imbiss | CW-SoftPOS",
+          "name": "Kassensystem f&uuml;r Foodtruck & Imbiss | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/foodtruck"
         },
         {
           "@type": "ListItem",
           "position": 9,
-          "name": "Kassensystem für Friseursalon | CW-SoftPOS SoftPOS Kasse",
+          "name": "Kassensystem f&uuml;r Friseursalon | CW-SoftPOS SoftPOS Kasse",
           "url": "https://www.cw-softpos.de/friseur"
         },
         {
@@ -754,7 +754,7 @@ Keks - Richtlinien
         {
           "@type": "ListItem",
           "position": 11,
-          "name": "Kassensystem für Einzelhandel & Retail | CW-SoftPOS",
+          "name": "Kassensystem f&uuml;r Einzelhandel & Retail | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/handel"
         },
         {
@@ -766,7 +766,7 @@ Keks - Richtlinien
         {
           "@type": "ListItem",
           "position": 13,
-          "name": "Kassensystem für Kantine | CW-SoftPOS mit Waagenanbindung",
+          "name": "Kassensystem f&uuml;r Kantine | CW-SoftPOS mit Waagenanbindung",
           "url": "https://www.cw-softpos.de/kantine"
         },
         {
@@ -778,7 +778,7 @@ Keks - Richtlinien
         {
           "@type": "ListItem",
           "position": 15,
-          "name": "Kassenzubehör & Sunmi Hardware | CW-SoftPOS",
+          "name": "Kassenzubeh&ouml;r & Sunmi Hardware | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/zubehoer"
         },
         {
@@ -796,7 +796,7 @@ Keks - Richtlinien
         {
           "@type": "ListItem",
           "position": 18,
-          "name": "SoftPOS Kassensystem für Gastro & Events | CW-SoftPOS",
+          "name": "SoftPOS Kassensystem f&uuml;r Gastro & Events | CW-SoftPOS",
           "url": "https://www.cw-softpos.de/"
         },
         {
@@ -840,61 +840,61 @@ Keks - Richtlinien
   ]
 }
 ]
-  [Zum Inhalt springen](#wrap)   [ ![cw-softpos.de](/web/image/website/1/logo/cw-softpos.de?unique=765cade) ](/)- [ Startseite ](/)
-- [ Das Konzept ](/das-konzept)
-- [ Branchen ](#) #### handel/Retail![Einzelhandelskasse](/web/image/1318-bb737c7b/handel.webp?access_token=9e1a73c6-cc04-47a6-94df-202f7cde61c0)
+  [Zum Inhalt springen](https://www.cw-softpos.de/cookie-policy#wrap)   [ ![cw-softpos.de](https://www.cw-softpos.de/web/image/website/1/logo/cw-softpos.de?unique=765cade) ](https://www.cw-softpos.de/)- [ Startseite ](https://www.cw-softpos.de/)
+- [ Das Konzept ](https://www.cw-softpos.de/das-konzept)
+- [ Branchen ](https://www.cw-softpos.de/cookie-policy) #### handel/Retail![Einzelhandelskasse](https://www.cw-softpos.de/web/image/1318-bb737c7b/handel.webp?access_token=9e1a73c6-cc04-47a6-94df-202f7cde61c0)
     
     ---
     
      
     
-      [Einzelhandel](/handel) [Friseure](/friseur)[Blumenladen](/blumenladen) 
+      [Einzelhandel](https://www.cw-softpos.de/handel) [Friseure](https://www.cw-softpos.de/friseur)[Blumenladen](https://www.cw-softpos.de/blumenladen) 
     
-    #### gastronomie ![Gastronomie Kasse](/web/image/1319-a5a525c3/gastro.webp?access_token=1f789414-1794-499c-8daa-d7b4d29a5a6f)
-    
-    ---
-    
-     
-    
-      [Restaurant](/gastronomie) [Kantine](/kantine) [Bäckerei](/baeckerei)[Foodtruck](/foodtruck)  
-    
-    #### event ![Kassen für Events](/web/image/1320-aae76449/event.webp?access_token=5536eeba-a6f5-46f4-a380-2221b58dd256)
+    #### gastronomie ![Gastronomie Kasse](https://www.cw-softpos.de/web/image/1319-a5a525c3/gastro.webp?access_token=1f789414-1794-499c-8daa-d7b4d29a5a6f)
     
     ---
     
      
     
-      [Open Air Veranstaltungen](/event) [Bar /Nachtclub](/club)  
+      [Restaurant](https://www.cw-softpos.de/gastronomie) [Kantine](https://www.cw-softpos.de/kantine) [Bäckerei](https://www.cw-softpos.de/baeckerei)[Foodtruck](https://www.cw-softpos.de/foodtruck)  
     
-    #### und mehr...![Kassenzubehör](/web/image/1321-3dada935/und-mehr.webp?access_token=3f4696de-1f4c-493d-95f2-a98983358b18)
+    #### event ![Kassen für Events](https://www.cw-softpos.de/web/image/1320-aae76449/event.webp?access_token=5536eeba-a6f5-46f4-a380-2221b58dd256)
     
     ---
     
      
     
-      [Kassenzubehör](/zubehoer) [Erweiterungen](/kontakt) [ERP-Lösungen](/erp) [Hotel-PMS Lösungen](/kontakt)
-- [ Konfigurator ](/konfigurator2)
-- [ FAQ ](/faq)
-- [ Kontakt ](/kontakt)
-- [ AGB ](/allgemeine-geschaftsbedingungen)
-- [ Impressum ](/impressum)
+      [Open Air Veranstaltungen](https://www.cw-softpos.de/event) [Bar /Nachtclub](https://www.cw-softpos.de/club)  
+    
+    #### und mehr...![Kassenzubehör](https://www.cw-softpos.de/web/image/1321-3dada935/und-mehr.webp?access_token=3f4696de-1f4c-493d-95f2-a98983358b18)
+    
+    ---
+    
+     
+    
+      [Kassenzubehör](https://www.cw-softpos.de/zubehoer) [Erweiterungen](https://www.cw-softpos.de/kontakt) [ERP-Lösungen](https://www.cw-softpos.de/erp) [Hotel-PMS Lösungen](https://www.cw-softpos.de/kontakt)
+- [ Konfigurator ](https://www.cw-softpos.de/konfigurator2)
+- [ FAQ ](https://www.cw-softpos.de/faq)
+- [ Kontakt ](https://www.cw-softpos.de/kontakt)
+- [ AGB ](https://www.cw-softpos.de/allgemeine-geschaftsbedingungen)
+- [ Impressum ](https://www.cw-softpos.de/impressum)
  
 - [  +49 (0) 30 429 18 82](tel:+49(0)304291882)
  
  
 
-   [ ![cw-softpos.de](/web/image/website/1/logo/cw-softpos.de?unique=765cade) ](/)- 
+   [ ![cw-softpos.de](https://www.cw-softpos.de/web/image/website/1/logo/cw-softpos.de?unique=765cade) ](https://www.cw-softpos.de/)- 
  
   
 
-- [ Startseite ](/)
-- [ Das Konzept ](/das-konzept)
-- [ Branchen ](#)
-- [ Konfigurator ](/konfigurator2)
-- [ FAQ ](/faq)
-- [ Kontakt ](/kontakt)
-- [ AGB ](/allgemeine-geschaftsbedingungen)
-- [ Impressum ](/impressum)
+- [ Startseite ](https://www.cw-softpos.de/)
+- [ Das Konzept ](https://www.cw-softpos.de/das-konzept)
+- [ Branchen ](https://www.cw-softpos.de/cookie-policy)
+- [ Konfigurator ](https://www.cw-softpos.de/konfigurator2)
+- [ FAQ ](https://www.cw-softpos.de/faq)
+- [ Kontakt ](https://www.cw-softpos.de/kontakt)
+- [ AGB ](https://www.cw-softpos.de/allgemeine-geschaftsbedingungen)
+- [ Impressum ](https://www.cw-softpos.de/impressum)
  
 - [  +49 (0) 30 429 18 82](tel:+49(0)304291882)
  
@@ -970,12 +970,12 @@ Wir unterstützen derzeit keine Do-Not-Track-Signale, da es keinen Industriestan
 
    ##### Entdecken
 
-- [Home](/)
-- [Handel](/handel)
-- [Gastronomie](/gastronomie)
-- [FAQ](/faq)
-- [Floristik](/blumenladen)
-- [Friseure](/friseur)
+- [Home](https://www.cw-softpos.de/)
+- [Handel](https://www.cw-softpos.de/handel)
+- [Gastronomie](https://www.cw-softpos.de/gastronomie)
+- [FAQ](https://www.cw-softpos.de/faq)
+- [Floristik](https://www.cw-softpos.de/blumenladen)
+- [Friseure](https://www.cw-softpos.de/friseur)
 
 
 
@@ -1004,7 +1004,7 @@ Friedrichstraße 95
 
  Copyright © CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH 
 
- [ ![Odoo](/web/static/img/odoo_logo_tiny.png) ](https://cw-soft.de) - Besuchen Sie die Webseite [CW-Soft.de](https://cw-soft.de/) 
+ [ ![Odoo](https://www.cw-softpos.de/web/static/img/odoo_logo_tiny.png) ](https://cw-soft.de) - Besuchen Sie die Webseite [CW-Soft.de](https://cw-soft.de/) 
 
  
 
@@ -1014,11 +1014,11 @@ Friedrichstraße 95
 
  
 
-   Wir verwenden Cookies auf dieser Website, um Ihnen ein besseres Nutzererlebnis zu bieten. [Cookie-Richtlinien](/cookie-policy)
+   Wir verwenden Cookies auf dieser Website, um Ihnen ein besseres Nutzererlebnis zu bieten. [Cookie-Richtlinien](https://www.cw-softpos.de/cookie-policy)
 
  
 
- [Nur essentielle](#) [Ich stimme zu](#) 
+ [Nur essentielle](https://www.cw-softpos.de/cookie-policy) [Ich stimme zu](https://www.cw-softpos.de/cookie-policy) 
 
  
 

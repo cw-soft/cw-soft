@@ -1,19 +1,36 @@
-# cw-soft.de
-> Diese Datei dient als maschinenlesbarer Index aller verfügbaren Ressourcen für KI-Crawler und LLMs.
+# cw-soft.de Documentation
 
-## Gecrawlte Ressourcen
+> Full static markdown export of the domain content.
 
-- [CW‑Soft Berlin – Kassensysteme für Gastronomie & Handel](./index.md) - Original: https://cw-soft.de/
-- [Berlin: Kasse oder Kassensystem? - CW-Soft](./berlin-kassen-und-kassensysteme.md) - Original: https://cw-soft.de/berlin-kassen-und-kassensysteme
-- [Berlin: Waren, Reservierungen, Veranstaltungen](./berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde.md) - Original: https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde
-- [Kassensystem-Service Berlin | CW-SoftPOS](./berlin-kassen-leistungen-und-ihre-wuensche.md) - Original: https://cw-soft.de/berlin-kassen-leistungen-und-ihre-wuensche
-- [35 Jahre Kassensysteme Berlin | CW-Soft](./berlin-35-jahre-cw-soft-gmbh.md) - Original: https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh
-- [Kontakt Kassensysteme Berlin | CW-Soft HogaWare GmbH](./berliner-kontakt-der-cw-soft.md) - Original: https://cw-soft.de/berliner-kontakt-der-cw-soft
-- [Handhelds & Mobile Order – Sunmi & Orderman Lösungen](./berlin-kassen-und-kassensysteme-berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi.md) - Original: https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi
-- [Berlin: Kassensoftware für Gastro & Retail](./berlin-kassen-und-kassensysteme-berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos.md) - Original: https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos
-- [Kontakt & Demo anfordern – CW‑Soft Kassensysteme Berlin](./berliner-kontakt-der-cw-soft-kontakt-formular.md) - Original: https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular
-- [CW-Soft Kassensysteme Berlin | Seiten-Übersicht](./berliner-kontakt-der-cw-soft-webseiten-uebersicht.md) - Original: https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht
-- [Berlin | Kunden-Login | der CW-Soft | Kassen Newsletter](./berliner-kontakt-der-cw-soft-berlin-kunden-login-der-cw-soft.md) - Original: https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-kunden-login-der-cw-soft
-- [Berlin | Impressum CW-Soft Kassensysteme | Friedrichstraße](./berliner-kontakt-der-cw-soft-berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin.md) - Original: https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin
-- [Berlin | Service-Login | der CW-Soft | Außendienst](./berliner-kontakt-der-cw-soft-berlin-service-login-der-cw-soft.md) - Original: https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-service-login-der-cw-soft
-- [Berlin | AGB CW-Soft Kassensysteme](./berliner-kontakt-der-cw-soft-berlin-allgemeine-geschaeftsbedingungen-der-cw-soft.md) - Original: https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-allgemeine-geschaeftsbedingungen-der-cw-soft
+## Gecrawlte Seiten
+
+- [CW‑Soft Berlin – Kassensysteme für Gastronomie & Handel](https://cw-soft.de)
+  - Local: ./crawled_cw_soft_de/index.md
+- [CW‑Soft Berlin – Kassensysteme für Gastronomie & Handel](https://cw-soft.de/)
+  - Local: ./crawled_cw_soft_de/index.md
+- [Berlin: Kasse oder Kassensystem? - CW-Soft](https://cw-soft.de/berlin-kassen-und-kassensysteme)
+  - Local: ./crawled_cw_soft_de/berlin_kassen_und_kassensysteme.md
+- [Berlin: Waren, Reservierungen, Veranstaltungen](https://cw-soft.de/warenwirtschaft-gastronomie)
+  - Local: ./crawled_cw_soft_de/warenwirtschaft_gastronomie.md
+- [Kassensystem-Service Berlin | CW-SoftPOS](https://cw-soft.de/berlin-kassen-leistungen-und-ihre-wuensche)
+  - Local: ./crawled_cw_soft_de/berlin_kassen_leistungen_und_ihre_wuensche.md
+- [35 Jahre Kassensysteme Berlin | CW-Soft](https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh)
+  - Local: ./crawled_cw_soft_de/berlin_35_jahre_cw_soft_gmbh.md
+- [Kontakt Kassensysteme Berlin | CW-Soft HogaWare GmbH](https://cw-soft.de/berliner-kontakt-der-cw-soft)
+  - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft.md
+- [Kontakt & Demo anfordern – CW‑Soft Kassensysteme Berlin](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular)
+  - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_kontakt_formular.md
+- [CW-Soft Kassensysteme Berlin | Seiten-Übersicht](https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht)
+  - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_webseiten_uebersicht.md
+- [Berlin | Kunden-Login | der CW-Soft | Kassen Newsletter](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-kunden-login-der-cw-soft)
+  - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_berlin_kunden_login_der_cw_soft.md
+- [Berlin | Impressum CW-Soft Kassensysteme | Friedrichstraße](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin)
+  - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_berlin_impressum_der_cw_soft_friedrichstrasse_95_10117_berlin.md
+- [Berlin: Kassensoftware für Gastro & Retail](https://cw-soft.de/digituu-pc-cash)
+  - Local: ./crawled_cw_soft_de/digituu_pc_cash.md
+- [Handhelds & Mobile Order – Sunmi & Orderman Lösungen](https://cw-soft.de/berlin-kassen-und-kassensysteme-hardware)
+  - Local: ./crawled_cw_soft_de/berlin_kassen_und_kassensysteme_hardware.md
+- [Berlin | Service-Login | der CW-Soft | Außendienst](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-service-login-der-cw-soft)
+  - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_berlin_service_login_der_cw_soft.md
+- [Berlin | AGB CW-Soft Kassensysteme](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-allgemeine-geschaeftsbedingungen-der-cw-soft)
+  - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_berlin_allgemeine_geschaeftsbedingungen_der_cw_soft.md

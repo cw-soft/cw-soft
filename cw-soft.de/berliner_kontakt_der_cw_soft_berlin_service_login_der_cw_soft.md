@@ -8,7 +8,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "name": "Welche Kassensysteme bietet CW-Soft in Berlin an?",
      "acceptedAnswer": {
        "@type": "Answer",
-       "text": "CW-Soft bietet Kassensysteme für Gastronomie, Hotel und Handel auf Basis der PC-CASH-Software. Erhältlich als Frontend-Kasse für Windows oder Android, als Handheld-System (Sunmi, Orderman) sowie als vernetzte Server- oder Cloud-Lösung. Alle Systeme sind TSE-konform und unterstützen elektronisches Payment."
+       "text": "CW-Soft bietet Kassensysteme f&uuml;r Gastronomie, Hotel und Handel auf Basis der PC-CASH-Software. Erh&auml;ltlich als Frontend-Kasse f&uuml;r Windows oder Android, als Handheld-System (Sunmi, Orderman) sowie als vernetzte Server- oder Cloud-L&ouml;sung. Alle Systeme sind TSE-konform und unterst&uuml;tzen elektronisches Payment."
      }
    },
    {
@@ -16,7 +16,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "name": "Ist das Kassensystem von CW-Soft TSE-konform?",
      "acceptedAnswer": {
        "@type": "Answer",
-       "text": "Ja. Alle CW-Soft-Kassensysteme erfüllen die Anforderungen der KassenSichV und integrieren eine Technische Sicherheitseinrichtung (TSE) gemäß den seit dem 01.01.2020 geltenden deutschen Vorschriften."
+       "text": "Ja. Alle CW-Soft-Kassensysteme erf&uuml;llen die Anforderungen der KassenSichV und integrieren eine Technische Sicherheitseinrichtung (TSE) gem&auml;&szlig; den seit dem 01.01.2020 geltenden deutschen Vorschriften."
      }
    },
    {
@@ -24,23 +24,23 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "name": "Kann das Kassensystem offline arbeiten?",
      "acceptedAnswer": {
        "@type": "Answer",
-       "text": "Ja. CW-SoftPOS ist offline-fähig. Sowohl die Hauptkasse als auch Funkboniersysteme arbeiten bei Internetausfall weiter. Sobald die Verbindung wiederhergestellt ist, erfolgt automatische Synchronisation mit der Cloud."
+       "text": "Ja. CW-SoftPOS ist offline-f&auml;hig. Sowohl die Hauptkasse als auch Funkboniersysteme arbeiten bei Internetausfall weiter. Sobald die Verbindung wiederhergestellt ist, erfolgt automatische Synchronisation mit der Cloud."
      }
    },
    {
      "@type": "Question",
-     "name": "Für welche Branchen ist CW-Soft geeignet?",
+     "name": "F&uuml;r welche Branchen ist CW-Soft geeignet?",
      "acceptedAnswer": {
        "@type": "Answer",
-       "text": "CW-Soft bedient Gastronomie (Restaurants, Kantinen, Bäckereien, Foodtrucks), Handel (Einzelhandel, Friseure, Blumenläden, Boutiquen) sowie Veranstaltungen und Events. Auch Filialisten mit mehreren Standorten werden unterstützt."
+       "text": "CW-Soft bedient Gastronomie (Restaurants, Kantinen, B&auml;ckereien, Foodtrucks), Handel (Einzelhandel, Friseure, Blumenl&auml;den, Boutiquen) sowie Veranstaltungen und Events. Auch Filialisten mit mehreren Standorten werden unterst&uuml;tzt."
      }
    },
    {
      "@type": "Question",
-     "name": "Wo ist CW-Soft ansässig?",
+     "name": "Wo ist CW-Soft ans&auml;ssig?",
      "acceptedAnswer": {
        "@type": "Answer",
-       "text": "CW-Soft HogaWare GmbH hat seinen Sitz in der Friedrichstraße 95, 10117 Berlin, in der Nähe des Bundestags."
+       "text": "CW-Soft HogaWare GmbH hat seinen Sitz in der Friedrichstra&szlig;e 95, 10117 Berlin, in der N&auml;he des Bundestags."
      }
    }
  ]
@@ -54,11 +54,11 @@ Berlin | Service-Login | der CW-Soft | Außendienst
  "name": "CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH",
  "url": "https://cw-soft.de/",
  "image": "https://cw-soft.de/fileadmin/logos/CW-Logo.png",
- "description": "Kassensysteme aus Berlin für Gastronomie, Hotel und Handel: PC-CASH Kassensoftware, Handhelds mit Sunmi und Orderman, SoftPOS, Payment, Warenwirtschaft und Reservierungssysteme.",
+ "description": "Kassensysteme aus Berlin f&uuml;r Gastronomie, Hotel und Handel: PC-CASH Kassensoftware, Handhelds mit Sunmi und Orderman, SoftPOS, Payment, Warenwirtschaft und Reservierungssysteme.",
  "telephone": "+49-30-4291882",
  "address": {
    "@type": "PostalAddress",
-   "streetAddress": "Friedrichstraße 95",
+   "streetAddress": "Friedrichstra&szlig;e 95",
    "postalCode": "10117",
    "addressLocality": "Berlin",
    "addressCountry": "DE"
@@ -82,22 +82,22 @@ Berlin | Service-Login | der CW-Soft | Außendienst
    "Kassensystem Hotel",
    "Kassensystem Einzelhandel",
    "Kassensystem Friseure",
-   "Kassensystem Blumenläden",
+   "Kassensystem Blumenl&auml;den",
    "Kassensystem Kantine",
    "Kassensystem Bus",
    "Kassensystem Foodtruck",
    "Kassensystem Imbiss",
-   "Kassensystem Bäckerei",
+   "Kassensystem B&auml;ckerei",
    "Kassensystem Floristik",
    "Kassensystem Clubs",
    "Kassensystem Bars",
-   "Kassenlösung Handel",
+   "Kassenl&ouml;sung Handel",
    "CW-SoftPOS",
    "SoftPOS",
    "Sunmi",
    "Sunmi Kassen",
    "Sunmi Kassensysteme",
-   "Küchenmonitoring",
+   "K&uuml;chenmonitoring",
    "POS Printer",
    "Kassendrucker",
    "Bonrollen",
@@ -123,7 +123,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
    "TSE",
    "Technische Sicherheitseinrichtung",
    "Finanzamt",
-   "Finanzbehörde",
+   "Finanzbeh&ouml;rde",
    "DSFinV-K",
    "MDE",
    "mobile Datenerfassung",
@@ -137,20 +137,20 @@ Berlin | Service-Login | der CW-Soft | Außendienst
  "makesOffer": [
    {
      "@type": "Service",
-     "name": "Kassensysteme für Gastronomie, Hotel und Handel",
-     "description": "Planung, Projektierung und Integration von PC-CASH Kassensystemen für Gastronomie, Hotels und Handel in Berlin.",
+     "name": "Kassensysteme f&uuml;r Gastronomie, Hotel und Handel",
+     "description": "Planung, Projektierung und Integration von PC-CASH Kassensystemen f&uuml;r Gastronomie, Hotels und Handel in Berlin.",
      "areaServed": "Berlin"
    },
    {
      "@type": "Service",
-     "name": "SoftPOS- und Payment-Lösungen",
-     "description": "Elektronisches Payment und SoftPOS-Lösungen für stationäre und mobile Kassen.",
+     "name": "SoftPOS- und Payment-L&ouml;sungen",
+     "description": "Elektronisches Payment und SoftPOS-L&ouml;sungen f&uuml;r station&auml;re und mobile Kassen.",
      "areaServed": "Berlin"
    },
    {
      "@type": "Service",
      "name": "IN-House Tools: Warenwirtschaft, Reservierungssysteme, Veranstaltungsmanagement",
-     "description": "Individuelle IN-House Tools auf Basis von Oracle, Firebird oder MSSQL für Warenwirtschaft, Reservierungssysteme und Veranstaltungsmanagement.",
+     "description": "Individuelle IN-House Tools auf Basis von Oracle, Firebird oder MSSQL f&uuml;r Warenwirtschaft, Reservierungssysteme und Veranstaltungsmanagement.",
      "areaServed": "Berlin"
    }
  ],
@@ -208,7 +208,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
    {
      "@type": "ListItem",
      "position": 1,
-     "name": "CW-Soft Berlin- Kassensysteme für Gastronomie & Handel",
+     "name": "CW-Soft Berlin- Kassensysteme f&uuml;r Gastronomie & Handel",
      "item": "https://cw-soft.de/"
    },
    {
@@ -262,7 +262,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
    {
      "@type": "ListItem",
      "position": 10,
-     "name": "Kassenhändler Kontakt aufnehmen",
+     "name": "Kassenh&auml;ndler Kontakt aufnehmen",
      "item": "https://cw-soft.de/berliner-kontakt-der-cw-soft"
    },
    {
@@ -280,8 +280,8 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@type": "WebSite",
      "@id": "https://cw-soft.de/#website",
      "url": "https://cw-soft.de/",
-     "name": "CW‑Soft Berlin – Kassensysteme für Gastronomie & Handel",
-     "description": "30 Jahre Erfahrung mit PC‑CASH: Kassensysteme, Handhelds (Sunmi/Orderman), Payment & Fiskalisierung. Beratung, Integration und Demo in Berlin.",
+     "name": "CW&#8209;Soft Berlin &ndash; Kassensysteme f&uuml;r Gastronomie & Handel",
+     "description": "30 Jahre Erfahrung mit PC&#8209;CASH: Kassensysteme, Handhelds (Sunmi/Orderman), Payment & Fiskalisierung. Beratung, Integration und Demo in Berlin.",
      "inLanguage": "de",
      "publisher": {
        "@id": "https://cw-soft.de/#organization"
@@ -387,7 +387,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
          "@type": "ListItem",
          "position": 1,
          "url": "https://cw-soft.de/",
-         "name": "CW‑Soft Berlin – Kassensysteme für Gastronomie & Handel"
+         "name": "CW&#8209;Soft Berlin &ndash; Kassensysteme f&uuml;r Gastronomie & Handel"
        },
        {
          "@type": "ListItem",
@@ -423,31 +423,31 @@ Berlin | Service-Login | der CW-Soft | Außendienst
          "@type": "ListItem",
          "position": 7,
          "url": "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos",
-         "name": "CW-SoftPOS: Kassensoftware für Gastro & Handel"
+         "name": "CW-SoftPOS: Kassensoftware f&uuml;r Gastro & Handel"
        },
        {
          "@type": "ListItem",
          "position": 8,
          "url": "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi",
-         "name": "Handhelds & Mobile Order – Sunmi & Orderman Lösungen"
+         "name": "Handhelds & Mobile Order &ndash; Sunmi & Orderman L&ouml;sungen"
        },
        {
          "@type": "ListItem",
          "position": 9,
          "url": "https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular",
-         "name": "Kontakt & Demo anfordern – CW‑Soft Kassensysteme Berlin"
+         "name": "Kontakt & Demo anfordern &ndash; CW&#8209;Soft Kassensysteme Berlin"
        },
        {
          "@type": "ListItem",
          "position": 10,
          "url": "https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin",
-         "name": "Berlin | Impressum CW-Soft Kassensysteme | Friedrichstraße"
+         "name": "Berlin | Impressum CW-Soft Kassensysteme | Friedrichstra&szlig;e"
        },
        {
          "@type": "ListItem",
          "position": 11,
          "url": "https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht",
-         "name": "CW-Soft Kassensysteme Berlin | Seiten-Übersicht"
+         "name": "CW-Soft Kassensysteme Berlin | Seiten-&Uuml;bersicht"
        }
      ]
    },
@@ -455,8 +455,8 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@type": "WebPage",
      "@id": "https://cw-soft.de/#webpage",
      "url": "https://cw-soft.de/",
-     "name": "CW‑Soft Berlin – Kassensysteme für Gastronomie & Handel",
-     "description": "30 Jahre Erfahrung mit PC‑CASH: Kassensysteme, Handhelds (Sunmi/Orderman), Payment & Fiskalisierung. Beratung, Integration und Demo in Berlin.",
+     "name": "CW&#8209;Soft Berlin &ndash; Kassensysteme f&uuml;r Gastronomie & Handel",
+     "description": "30 Jahre Erfahrung mit PC&#8209;CASH: Kassensysteme, Handhelds (Sunmi/Orderman), Payment & Fiskalisierung. Beratung, Integration und Demo in Berlin.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -472,7 +472,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@id": "https://cw-soft.de/berlin-kassen-und-kassensysteme#webpage",
      "url": "https://cw-soft.de/berlin-kassen-und-kassensysteme",
      "name": "Berlin: Kasse oder Kassensystem? | CW-Soft",
-     "description": "Sie unsicher: Kasse oder Kassensystem? CW-Soft Berlin berät für Gastro, Restaurant & Handel – passende Lösung garantiert.",
+     "description": "Sie unsicher: Kasse oder Kassensystem? CW-Soft Berlin ber&auml;t f&uuml;r Gastro, Restaurant & Handel &ndash; passende L&ouml;sung garantiert.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -488,7 +488,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@id": "https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde#webpage",
      "url": "https://cw-soft.de/berlin-cw-soft-warenwirtschaft-reservierungssysteme-und-veranstaltungsplannung-mde",
      "name": "Warenwirtschaft, Reservierung & Veranstaltungsmanagement",
-     "description": "Individuelle IN‑House Tools: Warenwirtschaft, Reservierungssysteme und Veranstaltungsmanagement – implementierbar auf Oracle, Firebird oder MSSQL.",
+     "description": "Individuelle IN&#8209;House Tools: Warenwirtschaft, Reservierungssysteme und Veranstaltungsmanagement &ndash; implementierbar auf Oracle, Firebird oder MSSQL.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -504,7 +504,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@id": "https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh#webpage",
      "url": "https://cw-soft.de/berlin-35-jahre-cw-soft-gmbh",
      "name": "35 Jahre Kassensysteme Berlin | CW-Soft",
-     "description": "Komplexe Kassenkassensystem Projektierungen für Gastronomie, Hotel, Catering, Einzelhandel und Retail in Berlin.",
+     "description": "Komplexe Kassenkassensystem Projektierungen f&uuml;r Gastronomie, Hotel, Catering, Einzelhandel und Retail in Berlin.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -520,7 +520,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@id": "https://cw-soft.de/berlin-kassen-leistungen-und-ihre-wuensche#webpage",
      "url": "https://cw-soft.de/berlin-kassen-leistungen-und-ihre-wuensche",
      "name": "Kassensystem-Service Berlin | CW-SoftPOS",
-     "description": "Voll­ser­vice Kassensysteme Berlin: Von Stammdaten über Schulung bis Support – perfekt für CW-SoftPOS. Inkl. Fiskalisierung & Wartung!",
+     "description": "Voll&shy;ser&shy;vice Kassensysteme Berlin: Von Stammdaten &uuml;ber Schulung bis Support &ndash; perfekt f&uuml;r CW-SoftPOS. Inkl. Fiskalisierung & Wartung!",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -536,7 +536,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@id": "https://cw-soft.de/berliner-kontakt-der-cw-soft#webpage",
      "url": "https://cw-soft.de/berliner-kontakt-der-cw-soft",
      "name": "Kontakt Kassensysteme Berlin | CW-Soft HogaWare GmbH",
-     "description": "Fragen zu Kassensystemen Berlin? Mail: info@cw-soft.de oder +49 30 429 18 82 – persönliche, unverbindliche Beratung!",
+     "description": "Fragen zu Kassensystemen Berlin? Mail: info@cw-soft.de oder +49 30 429 18 82 &ndash; pers&ouml;nliche, unverbindliche Beratung!",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -551,7 +551,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@type": "WebPage",
      "@id": "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos#webpage",
      "url": "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-pc-cash-twin-ordertwin-digituu-icit-software-zucchetti-und-tcpos",
-     "name": "CW-SoftPOS: Kassensoftware für Gastro & Handel",
+     "name": "CW-SoftPOS: Kassensoftware f&uuml;r Gastro & Handel",
      "description": "Leistungsstarke PC-CASH Kassensoftware: Windows Frontend, mit Schnittstellen & Fiskalisierung. Jetzt CW-SoftPOS als modernes Android Kassenupgrade!",
      "inLanguage": "de",
      "isPartOf": {
@@ -567,8 +567,8 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@type": "WebPage",
      "@id": "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi#webpage",
      "url": "https://cw-soft.de/berlin-kassen-und-kassensysteme/berlin-posiflex-toshiba-partnertech-orderman-pulse-sunmi",
-     "name": "Handhelds & Mobile Order – Sunmi & Orderman Lösungen",
-     "description": "Robuste Handhelds (Sunmi, Orderman) für Order & Service – nahtlose Integration mit CW-SoftPOS Online/Offline‑Sync und schneller Bestellabwicklung.",
+     "name": "Handhelds & Mobile Order &ndash; Sunmi & Orderman L&ouml;sungen",
+     "description": "Robuste Handhelds (Sunmi, Orderman) f&uuml;r Order & Service &ndash; nahtlose Integration mit CW-SoftPOS Online/Offline&#8209;Sync und schneller Bestellabwicklung.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -583,8 +583,8 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@type": "WebPage",
      "@id": "https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular#webpage",
      "url": "https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular",
-     "name": "Kontakt & Demo anfordern – CW‑Soft Kassensysteme Berlin",
-     "description": "Kostenlose Beratung & Live‑Demo: Finden Sie das passende Kassensystem für Gastronomie, Hotel oder Handel. Termin per Telefon oder Anfrageformular.",
+     "name": "Kontakt & Demo anfordern &ndash; CW&#8209;Soft Kassensysteme Berlin",
+     "description": "Kostenlose Beratung & Live&#8209;Demo: Finden Sie das passende Kassensystem f&uuml;r Gastronomie, Hotel oder Handel. Termin per Telefon oder Anfrageformular.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -599,8 +599,8 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@type": "WebPage",
      "@id": "https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin#webpage",
      "url": "https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin",
-     "name": "Berlin | Impressum CW-Soft Kassensysteme | Friedrichstraße",
-     "description": "Impressum CW-Soft Kassensysteme: Friedrichstraße 95, 10117 Berlin. GF: Lilly Zöhner, HRA & USt-ID.",
+     "name": "Berlin | Impressum CW-Soft Kassensysteme | Friedrichstra&szlig;e",
+     "description": "Impressum CW-Soft Kassensysteme: Friedrichstra&szlig;e 95, 10117 Berlin. GF: Lilly Z&ouml;hner, HRA & USt-ID.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -615,8 +615,8 @@ Berlin | Service-Login | der CW-Soft | Außendienst
      "@type": "WebPage",
      "@id": "https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht#webpage",
      "url": "https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht",
-     "name": "CW-Soft Kassensysteme Berlin | Seiten-Übersicht",
-     "description": "CW-Soft Berlin: Kassensysteme, In-House-Lösungen, Leistungen & Kontakt – alle Links im Überblick.",
+     "name": "CW-Soft Kassensysteme Berlin | Seiten-&Uuml;bersicht",
+     "description": "CW-Soft Berlin: Kassensysteme, In-House-L&ouml;sungen, Leistungen & Kontakt &ndash; alle Links im &Uuml;berblick.",
      "inLanguage": "de",
      "isPartOf": {
        "@id": "https://cw-soft.de/#website"
@@ -630,7 +630,7 @@ Berlin | Service-Login | der CW-Soft | Außendienst
  ]
 }
 ]
-        [ ![Logo der CW-Soft HogaWare gmbH aus Berlin mit Schriftzug Kassensysteme und mehr](fileadmin/template/img/neueCW/Kassensysteme_und_mehr.jpg "Kassensysteme und mehr") Logo der CW-Soft HogaWare gmbH aus Berlin mit Schriftzug Kassensysteme und mehr  ](/ "Kassensysteme")
+        [ ![Logo der CW-Soft HogaWare gmbH aus Berlin mit Schriftzug Kassensysteme und mehr](https://cw-soft.de/berliner-kontakt-der-cw-soft/fileadmin/template/img/neueCW/Kassensysteme_und_mehr.jpg "Kassensysteme und mehr") Logo der CW-Soft HogaWare gmbH aus Berlin mit Schriftzug Kassensysteme und mehr  ](https://cw-soft.de/ "Kassensysteme")
 
    1. [Kontakt](https://cw-soft.de/berliner-kontakt-der-cw-soft "Kontakt Kassensysteme Berlin | CW-Soft HogaWare GmbH")
 2. Servicelogin
