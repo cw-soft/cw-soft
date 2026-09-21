@@ -1,8 +1,8 @@
-CW-SoftPOS: Kassensystem für Gastro &amp; Events     
+AGB | CW-SoftPOS Kassensystem | Berlin     
                 watch3rdPartyScripts(["youtu.be", "youtube.com", "youtube-nocookie.com", "instagram.com", "instagr.am", "ig.me", "vimeo.com", "dailymotion.com", "dai.ly", "youku.com", "tudou.com", "facebook.com", "facebook.net", "fb.com", "fb.me", "fb.watch", "tiktok.com", "x.com", "twitter.com", "t.co", "googletagmanager.com", "google-analytics.com", "google.com", "google.ad", "google.ae", "google.com.af", "google.com.ag", "google.al", "google.am", "google.co.ao", "google.com.ar", "google.as", "google.at", "google.com.au", "google.az", "google.ba", "google.com.bd", "google.be", "google.bf", "google.bg", "google.com.bh", "google.bi", "google.bj", "google.com.bn", "google.com.bo", "google.com.br", "google.bs", "google.bt", "google.co.bw", "google.by", "google.com.bz", "google.ca", "google.cd", "google.cf", "google.cg", "google.ch", "google.ci", "google.co.ck", "google.cl", "google.cm", "google.cn", "google.com.co", "google.co.cr", "google.com.cu", "google.cv", "google.com.cy", "google.cz", "google.de", "google.dj", "google.dk", "google.dm", "google.com.do", "google.dz", "google.com.ec", "google.ee", "google.com.eg", "google.es", "google.com.et", "google.fi", "google.com.fj", "google.fm", "google.fr", "google.ga", "google.ge", "google.gg", "google.com.gh", "google.com.gi", "google.gl", "google.gm", "google.gr", "google.com.gt", "google.gy", "google.com.hk", "google.hn", "google.hr", "google.ht", "google.hu", "google.co.id", "google.ie", "google.co.il", "google.im", "google.co.in", "google.iq", "google.is", "google.it", "google.je", "google.com.jm", "google.jo", "google.co.jp", "google.co.ke", "google.com.kh", "google.ki", "google.kg", "google.co.kr", "google.com.kw", "google.kz", "google.la", "google.com.lb", "google.li", "google.lk", "google.co.ls", "google.lt", "google.lu", "google.lv", "google.com.ly", "google.co.ma", "google.md", "google.me", "google.mg", "google.mk", "google.ml", "google.com.mm", "google.mn", "google.com.mt", "google.mu", "google.mv", "google.mw", "google.com.mx", "google.com.my", "google.co.mz", "google.com.na", "google.com.ng", "google.com.ni", "google.ne", "google.nl", "google.no", "google.com.np", "google.nr", "google.nu", "google.co.nz", "google.com.om", "google.com.pa", "google.com.pe", "google.com.pg", "google.com.ph", "google.com.pk", "google.pl", "google.pn", "google.com.pr", "google.ps", "google.pt", "google.com.py", "google.com.qa", "google.ro", "google.ru", "google.rw", "google.com.sa", "google.com.sb", "google.sc", "google.se", "google.com.sg", "google.sh", "google.si", "google.sk", "google.com.sl", "google.sn", "google.so", "google.sm", "google.sr", "google.st", "google.com.sv", "google.td", "google.tg", "google.co.th", "google.com.tj", "google.tl", "google.tm", "google.tn", "google.to", "google.com.tr", "google.tt", "google.com.tw", "google.co.tz", "google.com.ua", "google.co.ug", "google.co.uk", "google.com.uy", "google.co.uz", "google.com.vc", "google.co.ve", "google.co.vi", "google.com.vn", "google.vu", "google.ws", "google.rs", "google.co.za", "google.co.zm", "google.co.zw", "google.cat"]);
              
             var odoo = {
-                csrf_token: "75796d875f350a5794607a366908d3ab2c9d0045o1821522969",
+                csrf_token: "fdd3951d0be6a82e5d9c135a77501c389f9b1b56o1821522989",
                 debug: "",
             };
          
@@ -905,407 +905,343 @@ CW-SoftPOS: Kassensystem für Gastro &amp; Events
 
  
 
-   
-
- 
-
- 
-
- 
-
-   Zurück    Weiter   
-
- 
-
- ![CW-SoftPOS All in One Kassensysteme und Payment Solutions](/web/image/1301-aeb24fdb/CW-SoftPOS-Logo-hintergrund.svg "CW-SoftPOS Logo")
-
-![Mobile Kassen, wie Orderman](/web/image/3589-e9ef19a1/All-in-One-zertifiziert.webp "Mobile Kassen")
-
-[](# "Nach unten zum nächsten Abschnitt scrollen")CW-SoftPOS 
-===========
-
-All in One Kassensysteme &amp; Payment Solutions
-------------------------------------------------
+   [Zusätzliche Bedingungen (AGB) für das Kassensystem CW-SoftPOS](#table_of_content_heading_1_33)[](#table_of_content_heading_1_1)[](#table_of_content_heading_1_2)[1) Geltungsbereich](#table_of_content_heading_1_34)[2) Vertragsschluss](#table_of_content_heading_1_35)[3) Zahlungsbedingungen, Preisangaben und Aufrechnung](#table_of_content_heading_1_36)[4) Entgelte](#table_of_content_heading_1_37)[5) Support](#table_of_content_heading_1_38)[6) Liefer- und Versandbedingungen, Zugang von Erklärungen](#table_of_content_heading_1_39)[7) Einräumung von Nutzungsrechten für digitale Inhalte](#table_of_content_heading_1_40)[8) Einräumung von Nutzungsrechten für Lizenzschlüssel](#table_of_content_heading_1_41)[9) Vertragsdauer und Vertragsbeendigung bei Abonnementverträgen](#table_of_content_heading_1_42)[10) Kauf von Hardware](#table_of_content_heading_1_43)[11) Erwerb des Produktpakets „CW-SoftPOS by CW-Soft“](#table_of_content_heading_1_44)[12) Mängelhaftung (Gewährleistung)](#table_of_content_heading_1_45)[13) Haftung](#table_of_content_heading_1_46)[14) Registrierung der Registrierkassen bei Finanzbehörden](#table_of_content_heading_1_47)[15) Startbeleg/Nullbeleg – Signatur -Datensicherung](#table_of_content_heading_1_48)[16) Datennutzung ](#table_of_content_heading_1_49)[17) Logonutzung und Markenhinweis](#table_of_content_heading_1_50)[18) Geheimhaltung](#table_of_content_heading_1_51)[19) Urheberrecht](#table_of_content_heading_1_52)[20) Anwendbares Recht](#table_of_content_heading_1_53)[21) Gerichtsstand](#table_of_content_heading_1_54)
 
 
 
- 
-
- 
-
- 
-
- 
-
-   Zurück    Weiter   
-
- 
-
-   ![Sicher & Stabil](/web/image/1289-939eebe4/sperren1.webp) ##### Sicher &amp; Stabil
-
-Ein Kassensystem muss vor allem eines sein: ein verlässlicher Partner. Zu jeder Uhrzeit und in jeder Situation. CW-Soft**POS** bietet deshalb:
-
-Ein auf Dauernutzung ausgelegtes System
-
-- Funkboniersysteme welche auch in entfernten Räumen erreichbar sind
-- Einsatz von  **beliebig vielen Funkbonierern,**  störungsfrei im selben Netzwerk
-- Sichere Datenhaltung und Wiederherstellung
-- Über  **privaten Cloud Zugang**  zu verwalten
-- lange Haltbarkeit der Batterie der Funkboniersysteme
-- Staub- und Spritzwasser geschützte Geräte
-- Umfassende Garantie bei Hardwareschäden und Support-Service
-
- 
-
- 
-
- 
-
-  ![Flexibel](/web/image/1254-44be09a3/kreis1.webp) ##### Flexibel
-
-Als Unternehmer sind Sie offen für jeden Wunsch Ihrer Kunden? Wir auch! Deshalb passt sich CW-Soft**POS** flexibel an Ihre Anforderungen an:
-
-Bearbeitung der Tische von mehreren Mitarbeitern
-
-- Bestellungen sind auch auf entlegensten Wegen durch den Einsatz von mehreren Funkverbindungen möglich
-- Jederzeit änderbares Rechtemanagement der Mitarbeiter und Benutzer
-- Die Stammdaten lassen sich auch während der Laufzeit ändern und erweitern
-- Mobiler und stationärer Betrieb kombinierbar
-- System modular erweiterbar, **CW-SoftPOS**  **wächst mit**  deinem Betrieb mit.
-- **Mehrere Ausgabestellen**  (Küche, Bar, etc.) möglich
-
- 
-
- 
-
- 
-
-  ![Einfach schnell](/web/image/1292-9bc00222/rakete1.webp) ##### Einfach schnell
-
-Unsere Meinung: Ein gutes Kassensystem sollte vollständig in den Hintergrund rücken, damit Sie sich auf den Gast konzentrieren können:
-
-Zeitsparende und einfache Bedienung dank innovativer Wischgesten.
-
-- Schnelles Bonieren (durch Favoriten) und schnelles Bezahlen.
-- **Payment Connector,**  nahtlose Anbindung an Bezahl Terminals sorgen für schnellen Checkout
-- Kurze Einarbeitungszeit von Mitarbeitern durch bereits gewohnte Nutzung von Smartphones.
-- Umfangreiches und regelmäßiges Reporting
-- **Restgeldrechner**  erleichtert das Kassieren
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   ![Online und Offline](/web/image/1290-32ad6d77/wlan1.webp) ##### Online und Offline
-
- Wenn mal die Internet Verbindung im Lokal ausfällt, stehen die meisten Kassensysteme. Nicht so bei **CW-SoftPOS**! Hauptkasse sowohl als auch Funkboniersysteme können weiterhin arbeiten.
-
-Sobald die Internetverbindung wieder da ist, erfolgt die **Synchronisation mit der Cloud.**
-
-- Funkboniersysteme können ebenfalls Offline arbeiten.
-- Bewegungsdaten Synchronisieren bei Bedarf in die Cloud.
-- Offline Betrieb auch  **über längere Zeit**  kein Problem
-- **Ideal für Betriebe** die mit schwankender Internetverbindung zu kämpfen haben, zB. **Skihütten, Ferien Appartements, große Veranstaltungen** in entlegenen Gegenden oder für den Einsatz auf **Messen oder Outdoor Verkaufsflächen wie Bauernmärkten oder Weihnachtsmärkten**
-
- 
-
- 
-
- 
-
-  ![Hardware](/web/image/1255-5925642a/laptop1.webp) ##### Hardware
-
- Als Android Software läuft **CW-SoftPOS** auf sämtlichen modernen Android Geräten, wie Handys oder Tablets sowie auf professioneller Kassen Hardware gleichermaßen reibungslos.
-
-Android Software mit  **höchster Kompatibilität**
-
-- Hochwertige Funkboniersysteme ab 350€
-- **Top Preis/Leistung**  Verhältnis bei Profi- Hardware
-- **Fernwartung und problemlose Updates**
-- Großes Sortiment an Zusatzprodukten:  **Drucker, Scanner, Kassenladen uvm.**
-- **Küchenmonitor**
-- **Schnelle Lieferzeiten**
-- Umfassende Garantie bei Hardwareschäden und Support-Service
-
- 
-
- 
-
- 
-
-  ![Transparent & fair](/web/image/1291-757136b3/banknote1.webp) ##### Transparent &amp; fair
-
- Du hast versteckte Kosten, unzuverlässigen Support und unverschämte Wartungsverträge satt? Wir auch! Bei CW-Soft**POS** weißt du woran du bist. Transparent und fair, anders kann es nicht sein.
-
-**"All in" Lizenzpreise: Wartung und Support in monatlichen Beiträgen inkludiert.**
-
-- Kurze Bindungsfristen
-- Faire Installations Gebühren, transparente Stundensätze
-- **Kostenlose Updates**
-- Verringerter Stundensatz für Software Entwicklung auf Projektbasis
-- **Ferninstallation spart Zeit und Geld**
-- Preisgestaltung nach Aufwand
-
- 
-
- 
-
- 
-
- 
-
- 
+ Zusätzliche Bedingungen (AGB) für das Kassensystem CW-Soft**POS**
+-----------------------------------------------------------------
 
 ---
 
  
 
-### CW-SoftPOS HANDEL
 
 
-Im täglichen Trubel des Fach- und Detailhandels kann man schnell den Überblick verlieren. CW-SoftPOS lässt dich nicht im Stich. Die Retail Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg. Boutiquen, Friseure, Bäckereien, Juweliere uvm. zählen zu unseren zufriedenen Kunden.
+-
 
-Die simple Kassen Lösung für jede klassische Branche des Fach- und Einzelhandels. Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
+**1) Geltungsbereich**
+----------------------
 
-[Kassensysteme für den Handel](/handel)
+**1.1** Diese zusätzlichen Allgemeinen Geschäftsbedingungen (nachfolgend "AGB") der CW-Soft GmbH, Friedrichstraße 95, 10117 Berlin (im Weiteren CW-Soft) gelten für alle Verträge über die Lieferung von Waren und Dienstleistungen zum o.bez. Kassensystem, die ein Unternehmer (nachfolgend „Kunde“) mit der CW-Soft hinsichtlich der von der CW-Soft GmbH angebotenen Waren und Dienstleistungen abschließt. Hiermit wird der Einbeziehung von eigenen Bedingungen des Kunden widersprochen, es sei denn, es ist etwas anderes schriftlich vereinbart
 
- 
+**1.2** Für Verträge über die Lieferung digitaler Inhalte gelten diese AGB entsprechend, sofern insoweit nicht ausdrücklich etwas Abweichendes geregelt ist.
 
-![Handel](/web/image/933-fcc05c15/Handel.webp)
+**1.3** Unternehmer im Sinne dieser AGB ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.
 
- ![Kompakte, smarte Kasse SUNMI V3 MIX](/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX") 
+**1.4** Digitale Inhalte im Sinne dieser AGB sind alle nicht auf einem körperlichen Datenträger befindlichen Daten, die in digitaler Form hergestellt und von CW-Soft unter Einräumung bestimmter in diesen AGB genauer geregelten Nutzungsrechte, bereitgestellt werden.
 
+**1.5** Gegenstand des Vertrages kann – je nach Produktbeschreibung der CW-Soft - sowohl der Bezug von Waren im Wege einer Einmallieferung als auch der Bezug von Waren im Wege einer dauerhaften Lieferung (nachfolgend „Abonnementvertrag“) sein. Beim Abonnementvertrag verpflichtet sich die CW-Soft, dem Kunden die vertraglich geschuldete Ware für die Dauer der vereinbarten Vertragslaufzeit in den vertraglich geschuldeten Zeitintervallen zu liefern.
 
+**1.6** Für Bestandskunden gelten diese AGB auch für alle künftigen Geschäftsbeziehungen, auch ohne neuerliche ausdrückliche Vereinbarung. Für Bestandskunden besteht des Weiteren die Möglichkeit, gewisse Zusatzleistungen von CW-Soft per E-Mail oder Telefon zu bestellen. In diesen Fällen kommt der Vertrag mit der Bereitstellung der Lieferung durch CW-Soft unter Anwendung dieser AGB zustande.
 
- 
+**1.7** Der Kunde erkennt diese AGB vor Vertragsabschluss an und erklärt sich damit einverstanden, dass sie mit Vertragsabschluss zwischen CW-Soft und dem Kunden einen ausdrücklichen Vertragsbestandteil darstellen.
 
- **CW-Soft****POS** **HANDEL**
+**1.8** CW-Soft behält sich ausdrücklich das Recht vor, diese AGB zu ändern. Der Kunde wird über die Änderung via E-Mail informiert. Sofern der Kunde der Änderung nicht innerhalb von 14 Kalendertagen nach Erhalt der Nachricht durch eine E-Mail an info@cw-soft.de ausdrücklich widerspricht, gilt die Änderung als akzeptiert. Bei einem rechtzeitigen Widerspruch des Kunden gelten die bisherigen AGB weiter. CW-Soft behält sich in diesem Fall das Recht vor, das Vertragsverhältnis außerordentlich mit einer Kündigungsfrist von einem Monat zu kündigen.
 
-Im täglichen Trubel des Fach- und Detailhandels kann man schnell den Überblick verlieren. CW-SoftPOS lässt dich nicht im Stich. Die Retail Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg. Boutiquen, Friseure, Bäckereien, Juweliere uvm. zählen zu unseren zufriedenen Kunden.
+**1.9** Die Einbeziehung von Allgemeinen Geschäftsbedingungen oder Vertragsbedingungen des Kunden, die von diesen AGB abweichen, werden von CW-Soft nicht anerkannt, soweit CW-Soft diesen nicht ausdrücklich und schriftlich zustimmt. Mit der Vornahme einer Bestellung erklärt der Kunde, auf die Anwendung seiner AGB – sofern vorhanden – zu verzichten.
 
-Die simple Kassen Lösung für jede klassische Branche des Fach- und Einzelhandels. Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
+**1.10** Die AGB werden durch CW-Soft gespeichert und können unter dem Link [/AGB](/allgemeine-geschaftsbedingungen)eingesehen werden.
 
-[Kassensysteme für den Handel](/handel)
+**2) Vertragsschluss**
+----------------------
 
- 
+**2.1** Ein Vertragsschluss kann mit dem Kunden
 
- ![Kompakte, smarte Kasse SUNMI V3 MIX](/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX")
+1. durch Nutzung der Software von CW-SOFT durch den Kunden
+2. durch Zusendung an- und Bestätigung eines Angebots der CW-SOFT
 
-![Handel](/web/image/933-fcc05c15/Handel.webp)
+durch den Kunden
 
+erfolgen.
 
+**2.2** Wenn der Kunde von der CW-Soft per E-Mail ein Angebot (bzw. einen Link zu einem Angebot) erhält, gilt der Vertrag als abgeschlossen, sobald er das Angebot bestätigt und der CW-Soft übermittelt hat.
 
- 
+Mit Annahme des Angebots ist der Vertrag zustande gekommen und der Kunde ist zur Zahlung verpflichtet.
 
----
+**2.3** Die auf der WEB-Side des CW-Soft enthaltenen Produktbeschreibungen stellen keine verbindlichen Angebote seitens der CW-Soft dar, sondern dienen zur Information über mögliche Beschaffenheit von Technik und des Softwarehandlings, vor der Abgabe eines verbindlichen Angebots an den Kunden.
 
- 
+**2.4** Der Kunde kann seine Anfrage über die, auf der WEB-Side des CW-Softs integrierte, Online-Konfiguration abgeben.
 
-### CW-SoftPOS GASTRO
+**2.5** CW-Soft kann die Anfrage des Kunden innerhalb von fünf Tagen annehmen,
 
+• indem er dem Kunden, in einem erklärenden Gespräch, das Angebot erläutert
 
-Du bist auf der Suche nach einer Leistungsstarken, funktionellen und benutzerfreundlichen Kassen Lösung für deinen Betrieb die keine Wünsche offen lässt? Du bist hier richtig.
+• indem er dem Kunden ein verbindliches Angebot unterbreitet
 
-Seit vielen Jahren erfolgreich in der Gastronomie im Einsatz wissen wir um die harten Anforderungen der Branche bescheid. Unser Android basiertes Kassensystem zeichnet sich durch Netzwerk Stabilität, Offline Fähigkeit sowie eine extrem benutzerfreundlich Bedienung aus. Netzwerkstabilität sowie der Konfliktfreie Umgang mit **Funkbonier** Geräten erachten wir als absolutes "muss" eines modernen Gastro Systems.
+• indem er dem Kunden eine schriftliche Auftragsbestätigung oder eine Auftragsbestätigung in Textform (Fax oder E-Mail) übermittelt, wobei insoweit der Zugang der Auftragsbestätigung beim Kunden maßgeblich ist, oder
 
-[Kassensysteme für die Gastronomie](/gastronomie)
+• indem er dem Kunden die bestellte Ware liefert, wobei insoweit der Zugang der Ware beim Kunden maßgeblich ist, oder
 
- 
+• indem er den Kunden nach Abgabe von dessen Bestellung zur Zahlung auffordert.
 
-![Gastro](/web/image/931-5b6c9653/gastro.png)
+ Liegen mehrere der vorgenannten Alternativen vor, kommt der Vertrag in dem Zeitpunkt zustande, in dem eine der vorgenannten Alternativen zuerst eintritt. Die Frist zur Annahme des Angebots beginnt am Tag nach der Absendung des Angebots durch den Kunden zu laufen und endet mit dem Ablauf des fünften Tages, welcher auf die Absendung des Angebots folgt. Nimmt der CW-Soft das Angebot des Kunden innerhalb vorgenannter Frist nicht an, so gilt dies als Ablehnung des Angebots mit der Folge, dass der Kunde nicht mehr an seine Willenserklärung gebunden ist.
 
- ![Smarte Kasse SUNMI T3 Pro Max](/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
+**2.6** Für den Vertragsschluss steht ausschließlich die deutsche Sprache zur Verfügung.
 
+**2.7** Die Bestellabwicklung und Kontaktaufnahme finden in der Regel per E-Mail und automatisierter Bestellabwicklung statt. Der Kunde hat sicherzustellen, dass die von ihm zur Bestellabwicklung angegebene E-Mail-Adresse zutreffend ist, so dass unter dieser Adresse die vom CW-Soft versandten E-Mails empfangen werden können. Insbesondere hat der Kunde bei dem Einsatz von SPAM-Filtern sicherzustellen, dass alle vom CW-Soft oder von diesem mit der Bestellabwicklung beauftragten Dritten versandten E-Mails zugestellt werden können.
 
+**2.8** Mündliche Nebenabreden, Zusicherungen oder Vereinbarungen bedürfen zu ihrer Wirksamkeit der schriftlichen Bestätigung durch CW-Soft, andernfalls sind sie nicht bindend und werden nicht Vertragsinhalt.
 
- 
+**2.9** Der Kunde ist verpflichtet, allfällige Änderungen seiner Unternehmensdaten, insbesondere Änderungen von Namen, Adresse, Rechnungsadresse, HRB- Nummer, Rechtsform, spätestens bis 1 Woche nach der Änderung der CW-Soft schriftlich mitzuteilen. Der Kunde hat die CW-Soft allenfalls aus dessen verspäteter Bekanntgabe entstehende Mehrkosten zu ersetzen. Wenn dem Kunden durch die verspätete Bekanntgabe dieser Änderungen ein Schaden jedweder Art entsteht, ist jegliche Haftung von CW-Soft für diese Schäden ausgeschlossen.
 
- **CW-Soft****POS** **GASTRO**
+**3) Zahlungsbedingungen, Preisangaben und Aufrechnung**
+--------------------------------------------------------
 
-Du bist auf der Suche nach einer Leistungsstarken, funktionellen und benutzerfreundlichen Kassen Lösung für deinen Betrieb die keine Wünsche offen lässt? Du bist hier richtig.
+**3.1** Sofern sich aus der Produktbeschreibung der CW-Soft nichts anderes ergibt, handelt es sich bei den angegebenen Preisen um Nettopreise in EURO, die die gesetzliche Umsatzsteuer nicht enthalten. Gegebenenfalls zusätzlich anfallende Liefer- und Versandkosten werden in der jeweiligen Produktbeschreibung gesondert angegeben.
 
-Seit vielen Jahren erfolgreich in der Gastronomie im Einsatz wissen wir um die harten Anforderungen der Branche bescheid. Unser Android basiertes Kassensystem zeichnet sich durch Netzwerk Stabilität, Offline Fähigkeit sowie eine extrem benutzerfreundlich Bedienung aus. Netzwerkstabilität sowie der Konfliktfreie Umgang mit **Funkbonier** Geräten erachten wir als absolutes "muss" eines modernen Gastro Systems.
+**3.2** Ist Vorauskasse per Banküberweisung vereinbart, ist die Zahlung sofort nach Vertragsabschluss fällig, sofern die Parteien keinen späteren Fälligkeitstermin vereinbart haben.
 
-[Kassensysteme für die Gastronomie](/gastronomie)
+**3.3** Aufrechnungsverbot: Forderungen von CW-SOFT darf der Kunde nicht mit Gegenforderungen aufrechnen, es sei denn diese Gegenforderungen sind gerichtlich festgestellt oder von CW-Soft schriftlich anerkannt worden.
 
- 
+**3.4** Wenn der Kunde mit einer Zahlung länger als einen Monat in Verzug ist (auch bei Verzug eines Teiles der Zahlung), hat CW-Soft die Berechtigung zur sofortigen Fälligstellung sämtlicher noch ausstehender Zahlungen.
 
-![Gastro](/web/image/931-5b6c9653/gastro.png)
+**3.5** Bei ausbleibender Zahlung des Kunden (auch bei Verzug nur eines Teiles der Zahlung) hat CW-Soft das Recht den Zugang zur Software zu sperren, sowie im Fall der Hardware-Miete (Carefree-Solution und Event-Solution) das Gerät zu sperren. Die Sperre kann bis zur vollständigen Zahlung des Kunden aufrecht bleiben. Der Kunde hat während seines Zahlungsverzuges keinen Anspruch auf Support- oder Beratungsleistungen von CW-Soft. Der Entgeltfortzahlungsanspruch von CW-Soft bleibt auch während einer Sperre des Softwarezugangs aufrecht. Für das Entsperren des Softwarezugangs behält CW-Soft sich vor, ein Entsperrungsentgelt in Höhe von EUR 49,90 zu erheben.
 
- ![Smarte Kasse SUNMI T3 Pro Max](/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
+Wenn der Kunde mit den laufenden Zahlungen in Verzug gerät, ist CW-SOFT berechtigt die gesamten noch offenen monatlichen Gebühren über die Restvertragslaufzeit auf einmal fällig zu stellen und der Kunde dazu verpflichtet den resultierenden Gesamtbetrag ohne jeglichen Abzug zu bezahlen.
 
+Der Kunde verpflichtet sich für diesen Fall dazu, dass er CW-SOFT eine Vertragsauflösungsgebühr/Bearbeitungsgebühr in Höhe von EUR 199,00 zusätzlich zu den noch offenen Mietbeträgen bezahlt.
 
+**3.6** Die Zahlungen des Kunden werden zunächst auf angefallene Kosten und Spesen angerechnet und erst anschließend auf Zinsen. Zuletzt erfolgt die Anrechnung auf ausständige Zahlungen.
 
- 
+**3.7** Wenn der Kunde SEPA-Lastschrifteinzug als Zahlungsart gewählt hat und der Einzug nicht erfolgreich vollzogen werden kann (z.B. mangels Kontodeckung), ist CW-SOFT berechtigt, dem Kunden pro (fehlgeschlagener) Transaktion EUR 28,00 in Rechnung zu stellen.
 
----
+**3.8** CW-Soft verrechnet dem Kunden im Falle des Zahlungsverzugs Mahnspesen in Höhe von EUR 15,00.
 
- 
+**4) Entgelte**
+---------------
 
-### CW-SoftPOS Event
+ **4.1** Kostenpflichtige Leistungen sind auf der Web-Präsentation als Beispiel für Kalkulationen angegeben und unverbindlich.
 
+Verbindliche Kosten und Leistungen sind nur in Angeboten benannt, die von der CW-Soft erstellt wurden.
 
-Schnelle Bedienung, schnelles kassieren, ob BAR oder per KARTENZAHLUNG, den Überblick nicht verlieren, sind die KO Kriterien für die Kasse auf einem Event. Die Retail/Event Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg.
+**4.2** Ende der Kassennutzung
 
-Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten, **Zuordnung der Produktlisten zu einem Event**, sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
+Die Kasse sowie Signatur wird von CW-Soft nach Einsatzende nicht abgemeldet. Hierfür bedarf es einer schriftlichen Mitteilung mittels eigens dafür vorgesehenen Formulars. Der Kunde ist selbst dafür verantwortlich, die Signatur, Startbeleg, Nullbeleg/Jahresbeleg und das Zertifikat im Finanz-Online-Portal auf dessen Vollständigkeit und Richtigkeit hin zu überprüfen.
 
-[Kassensysteme für den Event](/event)
+Wenn die Kasse nicht in Verwendung war und nicht abgemeldet wurde, muss trotzdem ein Jahresbeleg erstellt werden.
 
- 
+Bei Kunden, welche die Kasse das ganze Jahr über in Verwendung haben bzw. in der Zeit von 31.12.-14.02. des jeweiligen Jahres, muss der Nullbeleg (Jahresbeleg) manuell am Gerät für jede Kasse per Knopfdruck erstellt werden.
 
-![Event](/web/image/1392-40a53f97/event.webp)
+Der Kunde hat die CW-SOFT von der Abmeldung der Kasse schriftlich per E-Mail zu informieren, erst nach Zugang dieser Benachrichtigung kann die „Stilllegung“ der Kasse beim Finanzamt erfolgen.
 
- ![Kompakte, smarte Kasse SUNMI D3 mini](/web/image/1393-376eae53/D3mini-klein.webp "SUNMI D3 mini") 
+**4.3** Der Kunde kann einmalig eine Artikelanlage in Anspruch nehmen. Zu beachten ist, dass es sich hierbei um eine einfache Artikelanlage handelt. Sollte der Kunde nach erster Übermittlung der Artikeldaten Änderungen wünschen, sind diese nicht von dieser Artikelanlage umfasst, sondern werden gesondert abgerechnet. Ebenso verpflichtet sich der Kunde, die für die Artikelanlage erforderlichen Daten im dafür vorgesehenen Excel-Formular mindestens eine Woche vor Veranstaltungsbeginn bzw Mietbeginn an CW-SOFT zu übermitteln. Sollte die Übermittlung später erfolgen, behält sich CW-SOFT vor, die Kosten für die Artikelanlage dem Kunden in Rechnung zu stellen.
 
+Mit Ablauf des Einschulungstermins bzw. der Inbetriebnahme der Kasse gilt die Leistung der Artikelanlage und Konfiguration der Kasse als erbracht. Danach übermittelte Konfigurationswünsche oder Artikeldaten können nur mehr kostenpflichtig bearbeitet bzw. in die Kasse eingepflegt werden.
 
+**4.4** **Viva Wallet:** Nimmt der Kunde die Dienste von Viva Wallet in Anspruch, so fallen hierfür die von Viva Wallet festgesetzten Disagio-Gebühren an. Zusätzlich an CW-Soft gestellte Betreuungsanforderungen, operative Mitwirkung zur stabilen Payment-Funktion, Vermittlung und Weitergabe von preisvergünstigter Paymenttechnik aus dem Haus ViVa, können zu Gebühren führen. Unterschreitet der Kunde die mit ViVa abgestimmten vergünstigten Disagio Gebühren, kann die CW-Soft, als Vermittler des Payment-Angebotes, zum Gebührenausgleich herangezogen werden. CW-Soft ist dann berechtigt bis 14 Cent je Transaktion vom Kunden nachzufordern.
 
- 
-
- **CW-Soft****POS** **Event**
-
-Schnelle Bedienung, schnelles kassieren, ob BAR oder per KARTENZAHLUNG, den Überblick nicht verlieren, sind die KO Kriterien für die Kasse auf einem Event. Die Retail/Event Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg.
-
-Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten, **Zuordnung der Produktlisten zu einem Event**, sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
-
-[Kassensysteme für den Event](/event)
-
- 
-
-![Event](/web/image/1392-40a53f97/event.webp)
-
- ![Kompakte, smarte Kasse SUNMI D3 mini](/web/image/1903-6d36f988/D3mini-klein.webp "SUNMI D3 mini") 
-
-
-
- 
-
----
-
- 
-
-Wähle dein Produkt und lass dich beraten
-----------------------------------------
-
-##### _wir helfen gerne bei der Auswahl der richtigen CW-SoftPOS für deinen Betrieb_
-
-
-
-**CW-Soft****POS**
-
-##### BASIC
-
-##### ab 19,90 € / mtl.
-
-
-- Optimale Kasse für Kleinbetriebe
-- Unlimitierte Anzahl an Produkten
-- Einfache Produktpflege
-- keine Tischverwaltung
-- Cloud Zugang
-- **"ALL IN" Lizenzpreis**
-- Sämtliche Preise verstehen sich inklusive Softwareupdates
-- Kein Wartungsvertrag - keine versteckten Kosten
-
-uvm.
-
-[JETZT KONFIGURIEREN](/konfigurator2)
-
-
-
- 
-
- 
-
-**CW-Soft****POS**
-
-##### STANDARD
-
-
-##### ab 29,90 € / mtl.
-
-- Multi-POS Variante
-- Unlimitierte Anzahl an Produkten
-- Einfache Produktpflege
-- keine Tischverwaltung
-- Cloud Zugang
-- **"ALL IN" Lizenzpreis**
-- Sämtliche Preise verstehen sich inklusive Softwareupdates
-- Kein Wartungsvertrag - keine versteckten Kosten
-
-uvm.
-
-[JETZT KONFIGURIEREN](/konfigurator2)
-
-
-
- 
-
- 
-
-**CW-Soft****POS**
-
-##### PREMIUM
-
-
-##### ab 39,90 € / mtl.
-
-- Multi-POS Variante
-- Unlimitierte Anzahl an Produkten
-- Einfache Produktpflege
-- Tischverwaltung
-- Cloud Zugang
-- **"ALL IN" Lizenzpreis**
-- Sämtliche Preise verstehen sich inklusive Softwareupdates
-- Kein Wartungsvertrag - keine versteckten Kosten
-
-uvm.
-
-[JETZT KONFIGURIEREN](/konfigurator2)
-
- 
-
- 
-
- 
-
- 
-
- 
-
----
-
- 
-
-Unsere Partner
+**5) Support**
 --------------
 
- 
+**5.1** Die Support-Leistungen von CW-Soft umfassen nach Vertragsabschluss, lfd. Betreuung Beratung des Kunden und Behebung von technischen Gebrechen, sofern diese aus der Sphäre von CW-Soft stammen. Ausgenommen sind somit explizit technische Schwierigkeiten, die aus der Sphäre des Kunden, insbesondere durch fehlerhafte Bedienung oder Konfiguration, stammen.
 
-  [![Kassenhardware von Sunmi mit Android](/web/image/1602-f95b84dd/Logo-sunmi.png "www.sunmi.com")](http://www.sunmi.com) 
+**5.2** Betreuung des Kunden kann je nach Vertrag kostenpflichtig oder kostenlos sein. Wir behalten uns dementsprechend ausdrücklich das Recht vor, Betreuungsleistungen, die das vertraglich vereinbarte Ausmaß an Zeitguthaben überschreiten, dem Kunden nachträglich in Rechnung zu stellen.
 
- [![TSE in der Cloud](/web/image/1604-89878a7e/partner-referenz-fiskaly.webp "www.fiskaly.com")](http://www.fiskaly.com) 
+**5.3** Im Falle eines Mangels muss sich der Kunde per E-Mail an CW-Soft wenden. Innerhalb von drei Werktagen wird das Anliegen des Kunden bearbeitet.
 
- [![Kartenzahlung mit viva.com an Kasse](/web/image/1606-8961af23/Logo-Viva.png "www.viva.com")](https://www.viva.com/de-de) 
+**5.4** Der Kunde stimmt ausdrücklich zu, dass CW-SOFT jederzeit via Fernzugriff auf die Kasse des Kunden zugreifen kann für den Zweck der Fehlerbehebung oder der Durchführung von Support-Leistungen.
 
- [![Kartenzahlungen mit GP Tom an Kasse](/web/image/1610-bce01c4d/Logo-GPTom.webp "www.gptom.com/de")](https://www.gptom.com/de/) 
+**5.5** CW-Soft bietet dem Kunden unterschiedliche Support-Pakete mit unterschiedlichen Tarifen an. Details sind dem Support-Datenblatt zu entnehmen. Dieses ist auf der Homepage [**cw-soft.de**](https://cw-soft.de)abrufbar.
 
- [![Kartenzahlung mit Hobex an Kasse](/web/image/1603-cb43d04e/partner-referenz-hobex.webp "www.hobex.at")](http://www.hobex.at)
+**5.6** Die maximale telefonische Supportzeit für Kunden, die das _Premium-_ oder _Premium-Event-Supportpaket_ abgeschlossen haben, beträgt dreißig (30) Minuten pro Monat, wobei dieser Support ausschließlich während der Geschäftszeiten erfolgt.
 
- [![www.pulsa.de](/web/image/1609-14c79207/pulsa_logo.webp "www.pulsa.de")](http://www.pulsa.de) 
+**5.7** Der Kunde willigt durch Zustimmung zu diesen AGB ein, dass auch die Bedingungen des separaten Support-Datenblatts Teil des Vertrages zwischen dem Kunden und CW-Soft sind.
 
- 
+**6) Liefer- und Versandbedingungen, Zugang von Erklärungen**
+-------------------------------------------------------------
 
- 
+**6.1** Die Lieferung von Waren erfolgt auf dem Versandweg an die vom Kunden angegebene Lieferanschrift, sofern nichts anderes vereinbart ist.
 
- [![Kartenzahlung mit Softpay an Kasse](/web/image/2256-61eca6f0/softpay-io-dark-w500.webp "Softpay.io")](https://softpay.io)
+**6.2** Bei Abonnementverträgen hat der Kunde der CW-Soft Änderungen der Lieferanschrift unverzüglich mitzuteilen.
 
-[![Kartenzahlung mit elavon an Kasse](/web/image/4475-aeb6ef69/Elavon_primary_blue2_RGB-01.svg "elavon")](https://www.elavon.de/)
+**6.3** Scheitert die Zustellung der Ware aus Gründen, die der Kunde zu vertreten hat, trägt der Kunde die der CW-Soft hierdurch entstehenden angemessenen Kosten. Dies gilt im Hinblick auf die Kosten für die Hinsendung nicht, wenn der Kunde sein Widerrufsrecht wirksam ausübt. Für die Rücksendekosten gilt bei wirksamer Ausübung des Widerrufsrechts durch den Kunden die in der Widerrufsbelehrung der CW-Soft hierzu getroffene Regelung.
+
+**6.4** Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Ware geht auf den Kunden über, sobald der CW-Soft die Sache dem Spediteur, dem Frachtführer oder der sonst zur Ausführung der Versendung bestimmten Person oder Anstalt ausgeliefert hat.
+
+**6.5** Die CW-Soft behält sich das Recht vor, im Falle nicht richtiger oder nicht ordnungsgemäßer Selbstbelieferung vom Vertrag zurückzutreten. Dies gilt nur für den Fall, dass die Nichtlieferung nicht von CW-Soft zu vertreten ist und diese mit der gebotenen Sorgfalt ein konkretes Deckungsgeschäft mit dem Zulieferer abgeschlossen hat. Die CW-Soft wird alle zumutbaren Anstrengungen unternehmen, um die Ware zu beschaffen. Im Falle der Nichtverfügbarkeit oder der nur teilweisen Verfügbarkeit der Ware wird der Kunde unverzüglich informiert und die Gegenleistung unverzüglich erstattet.
+
+**6.6** Bei Selbstabholung informiert die CW-Soft den Kunden zunächst per E-Mail darüber, dass die von ihm bestellte Ware zur Abholung bereitsteht. Nach Erhalt dieser E-Mail kann der Kunde die Ware nach Absprache mit der CW-Soft am Sitz der CW-Soft abholen. In diesem Fall werden keine Versandkosten berechnet.
+
+**6.7 Rücksendungen von Waren durch den Kunden an die CW-Soft müssen vom Kunden 7 Tage vor Rücksendung per E-Mail angekündigt werden und in dieser Ankündigung genau bezeichnet werden um welches Produkt es sich handelt und wann und auf welchem Wege bzw. mit welchem Unternehmen (z.B.: Post, DHL,….) diese Rücksendung erfolgt. Weiters muss der Kunde nach Aufgabe der Rücksendung die Sendungsnummer, wenn eine solche bekannt ist, per E-Mail an die CW-Soft bekannt geben. Wenn die CW-Soft den Kunden zur Rücksendung auffordert – z.B. wenn die Rücksendung aufgrund eines Defektes oder Zahlungsverzuges des Kunden von der CW-Soft gewünscht und gefordert wird – hat der Kunde ebenfalls den Tag der Rücksendung und das Unternehmen welches die Rücksendung vornimmt und die Sendungsnummer umgehend nach Aufgabe der Rücksendung per E-Mail bekannt zu geben. Wobei die Rücksendung durch den Kunden erst nach Erhalt eines Rücksendescheines durch die CW-Soft erfolgen darf. Bei Nichteinhaltung dieser Bestimmungen haftet der Kunde für den Untergang der Ware am Wege der Rücksendung und ist der CW-Soft für den Wert der Ware voll schadenersatzpflichtig.**
+
+**6.8** Digitale Inhalte werden dem Kunden ausschließlich in elektronischer Form wie folgt überlassen:
+
+\- per E-Mail
+
+**6.9** Lizenzschlüssel werden dem Kunden wie folgt überlassen:
+
+• per Download
+
+• per E-Mail
+
+**7) Einräumung von Nutzungsrechten für digitale Inhalte**
+----------------------------------------------------------
+
+**7.1** Eine Weitergabe der Inhalte an Dritte oder die Erstellung von Kopien für Dritte außerhalb des Rahmens dieser AGB ist nicht gestattet, soweit nicht der CW-Soft einer Übertragung der vertragsgegenständlichen Lizenz an den Dritten zugestimmt hat.
+
+**7.2** Die Rechtseinräumung wird erst wirksam, wenn der Kunde die vertraglich geschuldete Vergütung vollständig geleistet hat. Der CW-Soft kann eine Benutzung der vertragsgegenständlichen Inhalte auch schon vor diesem Zeitpunkt vorläufig erlauben. Ein Übergang der Rechte findet durch eine solche vorläufige Erlaubnis nicht statt.
+
+**8) Einräumung von Nutzungsrechten für Lizenzschlüssel**
+---------------------------------------------------------
+
+**8.1** Der überlassene Lizenzschlüssel berechtigt den Kunden zur Nutzung der aus der jeweiligen Produktbeschreibung ersichtlichen Software bzw. Inhalte in dem dort beschriebenen Umfang.
+
+**8.2** Die Rechtseinräumung wird erst wirksam, wenn der Kunde die geschuldete Vergütung vollständig geleistet hat.
+
+
+**9) Vertragsdauer und Vertragsbeendigung bei Abonnementverträgen**
+-------------------------------------------------------------------
+
+**9.1** Das Recht zur außerordentlichen Kündigung aus wichtigem Grund bleibt unberührt. Ein wichtiger Grund liegt vor, wenn dem kündigenden Teil unter Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der beiderseitigen Interessen die Fortsetzung des Vertragsverhältnisses bis zur vereinbarten Beendigung oder bis zum Ablauf einer Kündigungsfrist nicht zugemutet werden kann.
+
+Wichtige Gründe, die CW-Soft zur fristlosen Kündigung berechtigen, sind insbesondere:
+
+1\. Zahlungsverzug des Kunden für mehr als 1 Monat
+
+2\. Grobe Verletzung der Vertragspflichten durch den Kunden
+
+3\. Rechtsmissbräuchliche wiederholte Inanspruchnahme von Beratungsleistungen durch den Kunden
+
+4\. Verbreitung von Unwahrheiten über CW-Soft bzw. die Produkte von CW-Soft, z.B. in sozialen Medien.
+
+5\. Eröffnung des Insolvenzverfahrens über das Vermögen des Kunden oder Abweisung eines solchen mangels Kostendeckung
+
+**9.2** Kündigungen haben durch Ausfüllen und Zusenden des Kündigungsformulars zu erfolgen. Das Formular ist auf der Homepage hinterlegt oder wird dem Kunden nach schriftlicher Anfrage von CW-Soft übermittelt. Die Anfrage ist an <info@cw-soft.de> zu richten. Der Kunde muss das ausgefüllte und unterschriebene Formular dann via E-Mail an <info@cw-soft.de>zu übermitteln.
+
+**9.3** Sollte der Kunde vor Ende der Mindestvertragsdauer kündigen oder von CW-Soft aus wichtigem Grund gekündigt werden, so verrechnet CW-Soft dem Kunden eine Vertragsauflösungsgebühr in Höhe von EUR 199,00. Zusätzlich behält sich CW-Soft vor, dem Kunden bei Vertragsauflösung vor Ende der Mindestlaufzeit eine Signaturkostenersatzgebühr in Höhe von EUR 199,00 in Rechnung zu stellen. Diese Beträge können mit der vom Kunden hinterlegten Kaution gegengerechnet werden. Bereits erfolgte Signaturkostenzahlungen können nicht, auch nicht anteilig, rückerstattet werden.
+
+**10) Kauf von Hardware**
+-------------------------
+
+**10.1** Die CW-Soft behält sich bis zur vollständigen Begleichung aller Forderungen aus einer laufenden Geschäftsbeziehung das Eigentum an der gelieferten Ware vor.
+
+**10.2** Beim Kauf von Hardware gibt es für den Kunden kein Rücktrittsrecht nach verbraucherrechtlichen Vorschriften, da CW-SOFT ausschließlich Verträge mit Unternehmen abschließt. Ein Rücktrittsrecht besteht nur in gesetzlich eingeräumten Fällen. Es wird zudem ausdrücklich darauf hingewiesen, dass ein Rücktritt vom Kaufvertrag über Hardware nicht auch zum Rücktritt vom Software-Vertrag berechtigt.
+
+**10.3** Der Kunde trägt im Versandfall die Lieferkosten und das Transportrisiko. CW-Soft hat den Vertrag mit Übergabe an den Versandpartner erfüllt.
+
+**10.4** Sollte die Lieferfrist geringfügig überschritten werden, steht dem Kunden kein Schadenersatz oder Rücktrittsrecht zu.
+
+**10.5** Von CW-Soft erworbene Hardware ist nur mit der Kassensoftware „CW-Soft**POS**“ verwendbar. Der Kunde hat jedoch die Möglichkeit das Gerät von CW-Soft freischalten zu lassen. Für eine derartige Freischaltung wird dem Kunden eine Freischaltgebühr in Höhe von EUR 199,00 exkl. MwSt. verrechnet.
+
+**11) Erwerb des Produktpakets „CW-SoftPOS by CW-Soft“**
+--------------------------------------------------------
+
+**11.1 Die Software-Lizenz und TSE wird ausschließlich auf den Erstanmelder ausgestellt. Bei Kasseninhaberwechsel oder Umfirmierung muss eine reguläre Kassensoftware erworben werden.**
+
+**11.2** Inkludiert sind zudem die Anmeldung und Bereitstellung der TSE bzw RKSV beim Finanzamt sowie unbegrenzt viele Signaturen für die Laufzeit der Befristung der Software-Lizenz. Für Kunden mit österreichischer RKSV-Pflicht ist zusätzlich die Nullbelegsübermittlung an das Finanzamt inkludiert.
+
+**11.3** Der Kunde ist verpflichtet, die für die RKSV- bzw. TSE-Anmeldung erforderlichen Daten binnen 30 Tagen ab Vertragsschluss schriftlich an CW-SOFT zu übermitteln. Nach Ablauf der 30 Tage unternimmt CW-Soft keinen Versuch die Daten vom Kunden zu erhalten und die RKSV bzw. TSE anzumelden.
+
+**11.4** Für den Kunden wird einmalig eine Artikelanlage durchgeführt. Etwaige Änderungen nach dieser einmalige Artikelanlage können nur vom Kunden selber oder als zahlungspflichtige Leistung von CW-Soft durchgeführt werden.
+
+**11.5** Der Kunde kann eine 60-minütige telefonische LIVE-Einschulung in Anspruch nehmen ohne Zuzahlung
+
+**12) Mängelhaftung (Gewährleistung)**
+--------------------------------------
+
+Ist die Kaufsache mangelhaft, gelten die Vorschriften der gesetzlichen Mängelhaftung. Hiervon abweichend gilt:
+
+• die CW-Soft hat die Wahl der Art der Nacherfüllung;
+
+• bei gebrauchten Waren sind die Rechte und Ansprüche wegen Mängeln grundsätzlich ausgeschlossen;
+
+• die Verjährung beginnt nicht erneut, wenn im Rahmen der Mängelhaftung eine Ersatzlieferung erfolgt.
+
+**13) Haftung**
+---------------
+
+**13.1** Die CW-Soft haftet dem Kunden aus vertraglichen, vertragsähnlichen und gesetzlichen, auch deliktischen Ansprüchen auf Schadens- und Aufwendungsersatz wie folgt:
+
+• bei Vorsatz oder grober Fahrlässigkeit,
+
+• bei vorsätzlicher oder fahrlässiger Verletzung des Lebens, des Körpers oder der Gesundheit,
+
+• aufgrund zwingender Haftung wie etwa nach dem Produkthaftungsgesetz.
+
+**13.2** Verletzt die CW-Soft fahrlässig eine wesentliche Vertragspflicht, ist die Haftung auf den vertragstypischen, vorhersehbaren Schaden begrenzt, sofern nicht gemäß vorstehender Ziffer unbeschränkt gehaftet wird. Wesentliche Vertragspflichten sind Pflichten, die der Vertrag der CW-Soft nach seinem Inhalt zur Erreichung des Vertragszwecks auferlegt, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf.
+
+**13.3** Im Übrigen ist eine Haftung der CW-Soft ausgeschlossen.
+
+**13.4** Vorstehende Haftungsregelungen gelten auch im Hinblick auf die Haftung der CW-Soft für seine Erfüllungsgehilfen und gesetzlichen Vertreter.
+
+**13.5** Sollte die Registrierkassensoftware während des Betriebes technische Probleme verursachen, so übernimmt CW-Soft dafür keine Haftung. Der Kunde verzichtet ausdrücklich darauf, jegliche Schadenersatzansprüche gegenüber CW-Soft geltend zu machen. Allfällige Haftungs- und Schadenersatzansprüche auf Grund von Fehlfunktionen oder Komplettversagen der Software sind an den Softwarehersteller zu richten.
+
+**13.6** Wird CW-Soft beauftragt Software-Konfigurationen vorzunehmen, wie das Anlegen von Artikeln, Kontenanlage, etc. so übernimmt CW-Soft keine Haftung für die Richtigkeit der Daten. Der Kunde verpflichtet sich, die durch CW-Soft erfolgte Konfiguration vor Inbetriebnahme auf Richtigkeit und Vollständigkeit zu überprüfen. Etwaige Schadenersatzforderungen des Kunden gegen CW-Soft bei fehlerhafter Konfiguration sind somit unzulässig.
+
+**13.7** Der Ersatz für entgangenen Gewinn, ausgebliebene Einsparungen, mittelbare Schäden sowie Schäden aus Ansprüchen Dritter werden ausgeschlossen. Die Beweislast für grobes Verschulden seitens CW-Soft liegt beim Kunden. Ersatzansprüche des Kunden verjähren innerhalb von 5 Monaten ab Kenntnis von Schaden und Schädiger, jedenfalls in 5 Jahren nach Erbringung der Leistung. Die betragliche Beschränkung für die Haftung von CW-Soft liegt bei dem für die Leistungserbringung vereinbarten dreifachen jährlichen Nettoentgelt.
+
+**13.8** CW-Soft haftet nicht für Schäden bzw. Folgeschäden, die durch unberechtigte Kenntniserlangung von Nutzerdaten und sonstige Daten des Kunden durch Dritte oder durch eine Sperrung oder Löschung des CW-SOFT Kontos entstehen.
+
+**13.9** CW-Soft haftet weder für Fehler (beinhaltet auch offenkundige Fehler und Druckfehler), technische Ausfälle, Unterbrechungen durch Arbeiten auf der Homepage oder an der Software, Updates und daraus resultierende Ausfälle der Software oder der Cloud, noch für nicht korrekte Übermittlung von Informationen. CW-Soft haftet des Weiteren auch nicht für Schäden aufgrund höherer Gewalt, aufgrund einer fehlenden oder fehlerhaften Internetverbindung sowie anderweitige Schäden, die aus der Sphäre des Kunden stammen. Es gibt keine Gewährleistung seitens CW-SOFT für die Erreichbarkeit bzw. Funktionsfähigkeit der Homepage oder der Software. CW-SOFT übernimmt ausdrücklich keine Haftung für Serverausfälle oder Datenverluste.
+
+**13.10** Der Kunde verzichtet ausdrücklich auf möglicherweise anfallende Regressansprüche gegen CW-Soft. Das Recht einer Vertragsanfechtung wegen Irrtums oder laesio enormis wird ausgeschlossen.
+
+**13.11** Die CW-Soft behält sich vor, Verarbeitungsaufträge abzulehnen, wenn die vom Kunden hierfür überlassenen Inhalte gegen gesetzliche oder behördliche Verbote oder gegen die guten Sitten verstoßen. Dies gilt insbesondere bei Überlassung verfassungsfeindlicher, rassistischer, fremdenfeindlicher, diskriminierender, beleidigender, Jugend gefährdender und/oder Gewalt verherrlichender Inhalte.
+
+**14) Registrierung der Registrierkassen bei Finanzbehörden**
+-------------------------------------------------------------
+
+Im Falle einer Signaturkartenerstellung bzw. Onlinesignaturerstellung, hat der Kunde dafür Sorge zu tragen, die erstellte Signatur auf Richtigkeit zu überprüfen und CW-Soft umgehend über mögliche Fehler schriftlich zu unterrichten.
+
+CW-Soft wird den Kunden beim Erwerb des Signaturzertifikats unterstützen. Hierfür muss der Kunde alle erforderlichen Daten, insbesondere die Firma, Unternehmensadresse und die korrekte Umsatzsteueridentifikation (UID) oder Finanz- und Steuernummer an CW-Soft vor Versand der Kassen übermitteln. Der Kunde stimmt ausdrücklich zu, dass CW-Soft diese Daten verwendet, um die Signatur für den Kunden zu beantragen.
+
+CW-SOFT übernimmt keinerlei Haftung für die Richtigkeit der Angaben bzw. der eingerichteten Signatur. Der Kunde ist selbst verantwortlich, die Signatur, den Startbeleg und das Zertifikat auf die Richtigkeit der Daten und deren Vollständigkeit zu überprüfen.
+
+**15) Startbeleg/Nullbeleg – Signatur -Datensicherung**
+-------------------------------------------------------
+
+**15.1** Vor Veranstaltungsbeginn/bei der ersten Inbetriebnahme der Kasse ist ein Startbeleg zu drucken, ebenso ist nach Ende des Betriebs der Kasse ein Nullbeleg (jedoch vor der Zurücksendung der Geräte an CW-SOFT) zu drucken und dieser bzw. diese sind aufzubewahren. Der Nullbeleg wird für die Übermittlung des Jahresbeleges (Nullbeleg = Jahresbeleg) an das Finanzamt benötigt. Für die Übermittlung ist der Kunde selbst verantwortlich. Falls CW-Soft für den Kunden die Jahresbelegs-Übermittlung durchführt, hat der Kunde in seinem Finanzonline-Konto die ordnungsgemäße Übermittlung und Erstellung zu kontrollieren und nötigenfalls zu korrigieren bzw. dafür zu sorgen, dass eine Korrektur vollzogen wird. Falls eine Außerbetriebnahme der Signatureinheit(en) erforderlich ist, hat der Kunde dies selbst zu veranlassen bzw. durchzuführen. – Allerdings wird ausdrücklich darauf hingewiesen, dass VOR der Außerbetriebnahme die Kontaktaufnahme mit uns (CW-Soft) dringend empfohlen wird.
+
+**15.2** Sollte der Kunde ein Datensicherungsprotokoll benötigen und beauftragt CW-SOFT mit der Erstellung, wird eine Pauschale von EUR 69,90 verrechnet. Das Datensicherungsprotokoll wird auf einem USB-Stick gesichert und anschließend dem Kunden zugesendet.
+
+**16)** **Datennutzung** 
+-------------------------
+
+Unsere Geräte können, sofern angegeben und bestellt , mit Sim-Karten ausgestattet werden. Die Beschaffung der SIM Karte übernimmt der Kunde selbst.
+
+Das Datenvolumen pro Gerät sollte bei 500 MB- 1 GB liegen. Die Geräte brauchen ca. 100 MB für ca. 5000 Rechnungen. Diese Angaben beziehen sich ausschließlich auf den Betrieb der Kassensoftware &amp; des Softpos Payments.
+
+Nutzung anderer Dienste, wie Streaming von Musik, Youtube und ähnliches raten wir ab. Dies beeinflusst auf die Verfügbarkeit von Internetdiensten für die Aktualisierung der Kasse, Synchronisierung mit der Cloud, TSE Signaturen und Payment.
+
+**17) Logonutzung und Markenhinweis**
+-------------------------------------
+
+**17.1** CW-SOFT ist dazu berechtigt, das Logo des Kunden bzw. dessen geschäftliche Bezeichnung als Referenz für CW-Soft**POS** Payment Solutions zu verwenden. Der Kunde räumt CW-SOFT insofern das auf diesen Vertragszweck beschränktes, einfaches Nutzungsrecht an seinem Logo/seiner geschäftlichen Bezeichnung ein. Dazu stellt der Kunde CW-SOFT nach Abschluss der Kooperationsvereinbarung ein geeignetes Logo zur Verfügung.
+
+Der Kunde verpflichtet sich, die Bezeichnungen/Marken „CW-SOFT“ und „CW-Soft**POS** Payment Solutions“ nicht als Suchwort oder Tag für Online-Marketingmaßnahmen zu verwenden oder verwenden zu lassen.
+
+**18) Geheimhaltung**
+---------------------
+
+CW-Soft und der Kunde verpflichten sich über alle Betriebs- und Geschäftsgeheimnisse, die während, vor und nach dem Vertrag erlangt wurden, Stillschweigen zu bewahren und ohne Zustimmung des anderen Vertragspartners nichts an Dritte weiter zu geben.
+
+Die Geheimhaltungsverpflichtung bleibt für fünf Jahre nach Beendigung der Geschäftsbeziehung bzw. für drei Jahre nach Angebotseinholung aktiv.
+
+Im Falle, dass einer der Vertragspartner durch anwendbares Recht, eine Behörde, durch die Entscheidung des Gerichts oder aus sonstigen Gründen zur Offenlegung von Betriebs- und/oder Geschäftsgeheimnissen verpflichtet wird, ist die andere Vertragspartei sofort über Inhalt und Umfang zu informieren.
+
+**19) Urheberrecht**
+--------------------
+
+An sämtlichen Inhalten der Homepage [CW-Soft.de](https://cw-soft.de/), [www.CW-SoftPOS.de](https://www.CW-SoftPOS.de) dem CW-Soft**POS**-Handbuch und der Wissensdatenbank sind die Eigentums- und Urheberrechte sowie gewerbliche Schutzrechte zu beachten. Die Inhalte dürfen ausschließlich nach schriftlicher Zustimmung durch CW-SOFT verarbeitet, vervielfältigt, veröffentlicht oder sonst in urheberrechtlich geschützter Weise (gemäß § 14ff UrhG) verwendet werden.
+
+**20) Anwendbares Recht**
+-------------------------
+
+Für sämtliche Rechtsbeziehungen der Parteien gilt das Recht der Bundesrepublik Deutschland.
+
+**21) Gerichtsstand**
+---------------------
+
+Handelt der Kunde als Unternehmer, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen mit Sitz im Hoheitsgebiet der Bundesrepublik Deutschland, ist ausschließlicher Gerichtsstand für alle Streitigkeiten aus diesem Vertrag der Geschäftssitz der CW-Soft. Die CW-Soft ist jedoch in jedem Fall berechtigt, das Gericht am Sitz des Kunden anzurufen.
+
+**CW-Soft GmbH**
+
+**Berlin, 01.01.2025**
+
+
+
+
 
 
 

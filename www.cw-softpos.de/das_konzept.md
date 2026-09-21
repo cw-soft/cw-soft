@@ -1,8 +1,8 @@
-CW-SoftPOS: Kassensystem für Gastro &amp; Events     
+Cloud Kassensystem CW-SoftPOS: Handel &amp; Gastro     
                 watch3rdPartyScripts(["youtu.be", "youtube.com", "youtube-nocookie.com", "instagram.com", "instagr.am", "ig.me", "vimeo.com", "dailymotion.com", "dai.ly", "youku.com", "tudou.com", "facebook.com", "facebook.net", "fb.com", "fb.me", "fb.watch", "tiktok.com", "x.com", "twitter.com", "t.co", "googletagmanager.com", "google-analytics.com", "google.com", "google.ad", "google.ae", "google.com.af", "google.com.ag", "google.al", "google.am", "google.co.ao", "google.com.ar", "google.as", "google.at", "google.com.au", "google.az", "google.ba", "google.com.bd", "google.be", "google.bf", "google.bg", "google.com.bh", "google.bi", "google.bj", "google.com.bn", "google.com.bo", "google.com.br", "google.bs", "google.bt", "google.co.bw", "google.by", "google.com.bz", "google.ca", "google.cd", "google.cf", "google.cg", "google.ch", "google.ci", "google.co.ck", "google.cl", "google.cm", "google.cn", "google.com.co", "google.co.cr", "google.com.cu", "google.cv", "google.com.cy", "google.cz", "google.de", "google.dj", "google.dk", "google.dm", "google.com.do", "google.dz", "google.com.ec", "google.ee", "google.com.eg", "google.es", "google.com.et", "google.fi", "google.com.fj", "google.fm", "google.fr", "google.ga", "google.ge", "google.gg", "google.com.gh", "google.com.gi", "google.gl", "google.gm", "google.gr", "google.com.gt", "google.gy", "google.com.hk", "google.hn", "google.hr", "google.ht", "google.hu", "google.co.id", "google.ie", "google.co.il", "google.im", "google.co.in", "google.iq", "google.is", "google.it", "google.je", "google.com.jm", "google.jo", "google.co.jp", "google.co.ke", "google.com.kh", "google.ki", "google.kg", "google.co.kr", "google.com.kw", "google.kz", "google.la", "google.com.lb", "google.li", "google.lk", "google.co.ls", "google.lt", "google.lu", "google.lv", "google.com.ly", "google.co.ma", "google.md", "google.me", "google.mg", "google.mk", "google.ml", "google.com.mm", "google.mn", "google.com.mt", "google.mu", "google.mv", "google.mw", "google.com.mx", "google.com.my", "google.co.mz", "google.com.na", "google.com.ng", "google.com.ni", "google.ne", "google.nl", "google.no", "google.com.np", "google.nr", "google.nu", "google.co.nz", "google.com.om", "google.com.pa", "google.com.pe", "google.com.pg", "google.com.ph", "google.com.pk", "google.pl", "google.pn", "google.com.pr", "google.ps", "google.pt", "google.com.py", "google.com.qa", "google.ro", "google.ru", "google.rw", "google.com.sa", "google.com.sb", "google.sc", "google.se", "google.com.sg", "google.sh", "google.si", "google.sk", "google.com.sl", "google.sn", "google.so", "google.sm", "google.sr", "google.st", "google.com.sv", "google.td", "google.tg", "google.co.th", "google.com.tj", "google.tl", "google.tm", "google.tn", "google.to", "google.com.tr", "google.tt", "google.com.tw", "google.co.tz", "google.com.ua", "google.co.ug", "google.co.uk", "google.com.uy", "google.co.uz", "google.com.vc", "google.co.ve", "google.co.vi", "google.com.vn", "google.vu", "google.ws", "google.rs", "google.co.za", "google.co.zm", "google.co.zw", "google.cat"]);
              
             var odoo = {
-                csrf_token: "75796d875f350a5794607a366908d3ab2c9d0045o1821522969",
+                csrf_token: "7d8715418e0afc967fdc035bd0b007178c419904o1821522970",
                 debug: "",
             };
          
@@ -905,156 +905,57 @@ CW-SoftPOS: Kassensystem für Gastro &amp; Events
 
  
 
-   
+    
+
+
+
+Das Konzept 
+============
+
+ 
+
+ ![Logo Kassensystem CW-SoftPOS](/web/image/1613-65dadfcf/20250107082539-178188.png)
+
+ein neues Konzept der CW-Soft HogaWare GmbH aus 35-jähriger Erfahrung komplexer Projektierung von Kassentechnik in Hotel, Gastronomie, Catering und Handel. Auf der Vielfältigkeit von Android-Technik der 3.Generation -**aus dem Hause SUNMI**-
+
+entwickelt vom genialen Chef Ingenieur **Jack Lin**
+
+ 
+
+ **CW-Soft****POS** unterstützt mit modernen Cloud-Technologien die nachfolgend aufgeführten betrieblichen Prozesse:
 
  
 
  
 
- 
 
-   Zurück    Weiter   
 
- 
-
- ![CW-SoftPOS All in One Kassensysteme und Payment Solutions](/web/image/1301-aeb24fdb/CW-SoftPOS-Logo-hintergrund.svg "CW-SoftPOS Logo")
-
-![Mobile Kassen, wie Orderman](/web/image/3589-e9ef19a1/All-in-One-zertifiziert.webp "Mobile Kassen")
-
-[](# "Nach unten zum nächsten Abschnitt scrollen")CW-SoftPOS 
-===========
-
-All in One Kassensysteme &amp; Payment Solutions
-------------------------------------------------
+  Schnelle Payment Solution, insbesondere ​an Einsatzorten mit hohem Gast- /Verkaufsaufkommen
 
 
 
- 
+  Stätige Verfügbarkeit der Stammdaten und Umsatzauswertungen 
 
- 
 
- 
 
- 
 
-   Zurück    Weiter   
+  Zusammenfassung von Multi-Kassensystemen in einem Bericht 
 
- 
 
-   ![Sicher & Stabil](/web/image/1289-939eebe4/sperren1.webp) ##### Sicher &amp; Stabil
 
-Ein Kassensystem muss vor allem eines sein: ein verlässlicher Partner. Zu jeder Uhrzeit und in jeder Situation. CW-Soft**POS** bietet deshalb:
 
-Ein auf Dauernutzung ausgelegtes System
+  Interfaces für Zusammenarbeit mit Steuerbüros, DATEV uvm. 
 
-- Funkboniersysteme welche auch in entfernten Räumen erreichbar sind
-- Einsatz von  **beliebig vielen Funkbonierern,**  störungsfrei im selben Netzwerk
-- Sichere Datenhaltung und Wiederherstellung
-- Über  **privaten Cloud Zugang**  zu verwalten
-- lange Haltbarkeit der Batterie der Funkboniersysteme
-- Staub- und Spritzwasser geschützte Geräte
-- Umfassende Garantie bei Hardwareschäden und Support-Service
 
- 
 
- 
 
- 
+  Technische Kopplung zu div. Anlagen (Waagen, Selforder, Paymentanbieter) 
 
-  ![Flexibel](/web/image/1254-44be09a3/kreis1.webp) ##### Flexibel
 
-Als Unternehmer sind Sie offen für jeden Wunsch Ihrer Kunden? Wir auch! Deshalb passt sich CW-Soft**POS** flexibel an Ihre Anforderungen an:
 
-Bearbeitung der Tische von mehreren Mitarbeitern
 
-- Bestellungen sind auch auf entlegensten Wegen durch den Einsatz von mehreren Funkverbindungen möglich
-- Jederzeit änderbares Rechtemanagement der Mitarbeiter und Benutzer
-- Die Stammdaten lassen sich auch während der Laufzeit ändern und erweitern
-- Mobiler und stationärer Betrieb kombinierbar
-- System modular erweiterbar, **CW-SoftPOS**  **wächst mit**  deinem Betrieb mit.
-- **Mehrere Ausgabestellen**  (Küche, Bar, etc.) möglich
+  Softwareinterfaces zu div. Relationalen Datenbanken (MySQL, PostgreSQL, Oracle, Firebird) 
 
- 
-
- 
-
- 
-
-  ![Einfach schnell](/web/image/1292-9bc00222/rakete1.webp) ##### Einfach schnell
-
-Unsere Meinung: Ein gutes Kassensystem sollte vollständig in den Hintergrund rücken, damit Sie sich auf den Gast konzentrieren können:
-
-Zeitsparende und einfache Bedienung dank innovativer Wischgesten.
-
-- Schnelles Bonieren (durch Favoriten) und schnelles Bezahlen.
-- **Payment Connector,**  nahtlose Anbindung an Bezahl Terminals sorgen für schnellen Checkout
-- Kurze Einarbeitungszeit von Mitarbeitern durch bereits gewohnte Nutzung von Smartphones.
-- Umfangreiches und regelmäßiges Reporting
-- **Restgeldrechner**  erleichtert das Kassieren
-
- 
-
- 
-
- 
-
- 
-
- 
-
-   ![Online und Offline](/web/image/1290-32ad6d77/wlan1.webp) ##### Online und Offline
-
- Wenn mal die Internet Verbindung im Lokal ausfällt, stehen die meisten Kassensysteme. Nicht so bei **CW-SoftPOS**! Hauptkasse sowohl als auch Funkboniersysteme können weiterhin arbeiten.
-
-Sobald die Internetverbindung wieder da ist, erfolgt die **Synchronisation mit der Cloud.**
-
-- Funkboniersysteme können ebenfalls Offline arbeiten.
-- Bewegungsdaten Synchronisieren bei Bedarf in die Cloud.
-- Offline Betrieb auch  **über längere Zeit**  kein Problem
-- **Ideal für Betriebe** die mit schwankender Internetverbindung zu kämpfen haben, zB. **Skihütten, Ferien Appartements, große Veranstaltungen** in entlegenen Gegenden oder für den Einsatz auf **Messen oder Outdoor Verkaufsflächen wie Bauernmärkten oder Weihnachtsmärkten**
-
- 
-
- 
-
- 
-
-  ![Hardware](/web/image/1255-5925642a/laptop1.webp) ##### Hardware
-
- Als Android Software läuft **CW-SoftPOS** auf sämtlichen modernen Android Geräten, wie Handys oder Tablets sowie auf professioneller Kassen Hardware gleichermaßen reibungslos.
-
-Android Software mit  **höchster Kompatibilität**
-
-- Hochwertige Funkboniersysteme ab 350€
-- **Top Preis/Leistung**  Verhältnis bei Profi- Hardware
-- **Fernwartung und problemlose Updates**
-- Großes Sortiment an Zusatzprodukten:  **Drucker, Scanner, Kassenladen uvm.**
-- **Küchenmonitor**
-- **Schnelle Lieferzeiten**
-- Umfassende Garantie bei Hardwareschäden und Support-Service
-
- 
-
- 
-
- 
-
-  ![Transparent & fair](/web/image/1291-757136b3/banknote1.webp) ##### Transparent &amp; fair
-
- Du hast versteckte Kosten, unzuverlässigen Support und unverschämte Wartungsverträge satt? Wir auch! Bei CW-Soft**POS** weißt du woran du bist. Transparent und fair, anders kann es nicht sein.
-
-**"All in" Lizenzpreise: Wartung und Support in monatlichen Beiträgen inkludiert.**
-
-- Kurze Bindungsfristen
-- Faire Installations Gebühren, transparente Stundensätze
-- **Kostenlose Updates**
-- Verringerter Stundensatz für Software Entwicklung auf Projektbasis
-- **Ferninstallation spart Zeit und Geld**
-- Preisgestaltung nach Aufwand
-
- 
-
- 
 
  
 
@@ -1066,155 +967,13 @@ Android Software mit  **höchster Kompatibilität**
 
  
 
-### CW-SoftPOS HANDEL
 
 
-Im täglichen Trubel des Fach- und Detailhandels kann man schnell den Überblick verlieren. CW-SoftPOS lässt dich nicht im Stich. Die Retail Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg. Boutiquen, Friseure, Bäckereien, Juweliere uvm. zählen zu unseren zufriedenen Kunden.
+ CW-SoftPOS Kassensystem 
 
-Die simple Kassen Lösung für jede klassische Branche des Fach- und Einzelhandels. Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
+--------------------------
 
-[Kassensysteme für den Handel](/handel)
-
- 
-
-![Handel](/web/image/933-fcc05c15/Handel.webp)
-
- ![Kompakte, smarte Kasse SUNMI V3 MIX](/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX") 
-
-
-
- 
-
- **CW-Soft****POS** **HANDEL**
-
-Im täglichen Trubel des Fach- und Detailhandels kann man schnell den Überblick verlieren. CW-SoftPOS lässt dich nicht im Stich. Die Retail Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg. Boutiquen, Friseure, Bäckereien, Juweliere uvm. zählen zu unseren zufriedenen Kunden.
-
-Die simple Kassen Lösung für jede klassische Branche des Fach- und Einzelhandels. Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
-
-[Kassensysteme für den Handel](/handel)
-
- 
-
- ![Kompakte, smarte Kasse SUNMI V3 MIX](/web/image/1391-1d9ee36c/v3mix-1.webp "SUNMI V3 MIX")
-
-![Handel](/web/image/933-fcc05c15/Handel.webp)
-
-
-
- 
-
----
-
- 
-
-### CW-SoftPOS GASTRO
-
-
-Du bist auf der Suche nach einer Leistungsstarken, funktionellen und benutzerfreundlichen Kassen Lösung für deinen Betrieb die keine Wünsche offen lässt? Du bist hier richtig.
-
-Seit vielen Jahren erfolgreich in der Gastronomie im Einsatz wissen wir um die harten Anforderungen der Branche bescheid. Unser Android basiertes Kassensystem zeichnet sich durch Netzwerk Stabilität, Offline Fähigkeit sowie eine extrem benutzerfreundlich Bedienung aus. Netzwerkstabilität sowie der Konfliktfreie Umgang mit **Funkbonier** Geräten erachten wir als absolutes "muss" eines modernen Gastro Systems.
-
-[Kassensysteme für die Gastronomie](/gastronomie)
-
- 
-
-![Gastro](/web/image/931-5b6c9653/gastro.png)
-
- ![Smarte Kasse SUNMI T3 Pro Max](/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
-
-
-
- 
-
- **CW-Soft****POS** **GASTRO**
-
-Du bist auf der Suche nach einer Leistungsstarken, funktionellen und benutzerfreundlichen Kassen Lösung für deinen Betrieb die keine Wünsche offen lässt? Du bist hier richtig.
-
-Seit vielen Jahren erfolgreich in der Gastronomie im Einsatz wissen wir um die harten Anforderungen der Branche bescheid. Unser Android basiertes Kassensystem zeichnet sich durch Netzwerk Stabilität, Offline Fähigkeit sowie eine extrem benutzerfreundlich Bedienung aus. Netzwerkstabilität sowie der Konfliktfreie Umgang mit **Funkbonier** Geräten erachten wir als absolutes "muss" eines modernen Gastro Systems.
-
-[Kassensysteme für die Gastronomie](/gastronomie)
-
- 
-
-![Gastro](/web/image/931-5b6c9653/gastro.png)
-
- ![Smarte Kasse SUNMI T3 Pro Max](/web/image/1384-01c4af56/d3promax%2Bp2se.webp "SUNMI T3 Pro Max") 
-
-
-
- 
-
----
-
- 
-
-### CW-SoftPOS Event
-
-
-Schnelle Bedienung, schnelles kassieren, ob BAR oder per KARTENZAHLUNG, den Überblick nicht verlieren, sind die KO Kriterien für die Kasse auf einem Event. Die Retail/Event Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg.
-
-Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten, **Zuordnung der Produktlisten zu einem Event**, sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
-
-[Kassensysteme für den Event](/event)
-
- 
-
-![Event](/web/image/1392-40a53f97/event.webp)
-
- ![Kompakte, smarte Kasse SUNMI D3 mini](/web/image/1393-376eae53/D3mini-klein.webp "SUNMI D3 mini") 
-
-
-
- 
-
- **CW-Soft****POS** **Event**
-
-Schnelle Bedienung, schnelles kassieren, ob BAR oder per KARTENZAHLUNG, den Überblick nicht verlieren, sind die KO Kriterien für die Kasse auf einem Event. Die Retail/Event Variante unserer Kassen Lösung verfügt beinahe über den gleichen Funktionsumfang wie die Gastronomie Version, einzig die Tischverwaltung und Features wie "Tischwechsel" und "Split Kassieren" fallen weg.
-
-Unlimitierte Produktanzahl, einfache Importe von Bestands- und Produktlisten, **Zuordnung der Produktlisten zu einem Event**, sowie eine übersichtliche Benutzeroberfläche machen dieses Kassensystem zu einem verlässlichen Partner für deinen Betrieb. Über den CW-SoftPOS Cloud Zugang lassen sich Stammdaten sowie Produkt komfortabel von daheim aus pflegen und Umsatzzahlen und Auswertungen können in Echtzeit verfolgt und vorgenommen werden.
-
-[Kassensysteme für den Event](/event)
-
- 
-
-![Event](/web/image/1392-40a53f97/event.webp)
-
- ![Kompakte, smarte Kasse SUNMI D3 mini](/web/image/1903-6d36f988/D3mini-klein.webp "SUNMI D3 mini") 
-
-
-
- 
-
----
-
- 
-
-Wähle dein Produkt und lass dich beraten
-----------------------------------------
-
-##### _wir helfen gerne bei der Auswahl der richtigen CW-SoftPOS für deinen Betrieb_
-
-
-
-**CW-Soft****POS**
-
-##### BASIC
-
-##### ab 19,90 € / mtl.
-
-
-- Optimale Kasse für Kleinbetriebe
-- Unlimitierte Anzahl an Produkten
-- Einfache Produktpflege
-- keine Tischverwaltung
-- Cloud Zugang
-- **"ALL IN" Lizenzpreis**
-- Sämtliche Preise verstehen sich inklusive Softwareupdates
-- Kein Wartungsvertrag - keine versteckten Kosten
-
-uvm.
-
-[JETZT KONFIGURIEREN](/konfigurator2)
+die Cloudkasse, die auch offline funktioniert
 
 
 
@@ -1222,51 +981,24 @@ uvm.
 
  
 
-**CW-Soft****POS**
+  #### Bargeldlose Zahlung, schnell und ohne Umwege 
 
-##### STANDARD
-
-
-##### ab 29,90 € / mtl.
-
-- Multi-POS Variante
-- Unlimitierte Anzahl an Produkten
-- Einfache Produktpflege
-- keine Tischverwaltung
-- Cloud Zugang
-- **"ALL IN" Lizenzpreis**
-- Sämtliche Preise verstehen sich inklusive Softwareupdates
-- Kein Wartungsvertrag - keine versteckten Kosten
-
-uvm.
-
-[JETZT KONFIGURIEREN](/konfigurator2)
+- direkt am Kundenmonitor der Kasse per NFC
+- am Handheld des Bedieners per NFC od. Chip &amp; Pin
+- direkt über das SmartPhone des Gastes
 
 
 
- 
-
- 
-
-**CW-Soft****POS**
-
-##### PREMIUM
 
 
-##### ab 39,90 € / mtl.
+#### **Dashboard Kassenkontrolle**
 
-- Multi-POS Variante
-- Unlimitierte Anzahl an Produkten
-- Einfache Produktpflege
-- Tischverwaltung
-- Cloud Zugang
-- **"ALL IN" Lizenzpreis**
-- Sämtliche Preise verstehen sich inklusive Softwareupdates
-- Kein Wartungsvertrag - keine versteckten Kosten
+- Echtzeit Kassenbuch und Bargeldgeldcontroling
+- Multikassenführung inkl. Fiskalisierung
+- Datenexporte nach DATEV oder INHOUSE-Lösungen
+- u.v.m., z.B. Schnelle Preisänderungen für Artikel
 
-uvm.
 
-[JETZT KONFIGURIEREN](/konfigurator2)
 
  
 
@@ -1278,36 +1010,83 @@ uvm.
 
  
 
----
+ 
+
+![SUNMI D3 Pro 15" Touchkasse mit Kundenmonitor ](/web/image/1632-cb778fc6/d3pro.webp "SUNMI D3 Pro")
+
+![15" Touchkasse mit abgesetztem Kundenminitor](/web/image/1631-a1901df1/imin-swan.webp "IMIN Swan")
+
+![15" Touchkasse inkl. Drucker](/web/image/1633-de67571a/d3promax%2Bp2se.webp "SUNMI T3 Pro Max")
+
+![Kompakte Kasse 10" Touch, Kundenmonitor, NFC, Drucker](/web/image/1634-3d567451/d3mini.webp "SUNMI D3 mini")
+
+
 
  
 
-Unsere Partner
---------------
+ ![CW-SoftPOS Puzzle: Handel, Gastro, Event und mehr...](/web/image/1639-414031ef/puzzle-mit-schrift.svg "CW-SoftPOS Puzzle: Handel, Gastro, Event und mehr...")
+
+ Software-Struktur
+------------------
+
+- Multi-POS /mehrere Kassen pro Cloud-Account
+- Stationäre Kassen und Funkbonieren
+- div. Interfaces: SIM, KL, Payment, WLAN,
+- Bedieneroptionen (z.B. Kellnerschloss)
+- Komfortable Übersicht zur Kasse und Artikelverwaltung
+- Dashboard
+- Bedienerverwaltung mit Zugriffsrechten, Auswertung und Analysen
+- Produktoptionen, wie autom. Pfandbonieren und Pfandretour
+- Schnelles Payment VivaWallet u.a.
+- Rabatte, TIP, Happy-Hour
+- Zentraler Finanzbericht und für FB für die Einzel-Kasse (nach dem Tagesabschluss)
 
  
 
-  [![Kassenhardware von Sunmi mit Android](/web/image/1602-f95b84dd/Logo-sunmi.png "www.sunmi.com")](http://www.sunmi.com) 
+ Leistungen
 
- [![TSE in der Cloud](/web/image/1604-89878a7e/partner-referenz-fiskaly.webp "www.fiskaly.com")](http://www.fiskaly.com) 
+------------
 
- [![Kartenzahlung mit viva.com an Kasse](/web/image/1606-8961af23/Logo-Viva.png "www.viva.com")](https://www.viva.com/de-de) 
+- stetige Programmpflege
+- Service, Hilfe und Unterstützung
+- Cloudverwaltung / Datensicherung
 
- [![Kartenzahlungen mit GP Tom an Kasse](/web/image/1610-bce01c4d/Logo-GPTom.webp "www.gptom.com/de")](https://www.gptom.com/de/) 
+ inklusive im Softwarepreis
 
- [![Kartenzahlung mit Hobex an Kasse](/web/image/1603-cb43d04e/partner-referenz-hobex.webp "www.hobex.at")](http://www.hobex.at)
 
- [![www.pulsa.de](/web/image/1609-14c79207/pulsa_logo.webp "www.pulsa.de")](http://www.pulsa.de) 
+
+
 
  
 
  
 
- [![Kartenzahlung mit Softpay an Kasse](/web/image/2256-61eca6f0/softpay-io-dark-w500.webp "Softpay.io")](https://softpay.io)
+![Dashboard](/web/image/1642-eb9636eb/Dashboard.webp "Dashboard im Webbrowser in Echtzeit für Datenmanagement, Controlling, Analysen und Datenexporte")
 
-[![Kartenzahlung mit elavon an Kasse](/web/image/4475-aeb6ef69/Elavon_primary_blue2_RGB-01.svg "elavon")](https://www.elavon.de/)
+Das Dashboard
+-------------
+
+Datenmanagement - Controlling - Analysen - Datenexporte
+
+Vom Büroplatz, Smartphone direkt in die Cloud, Änderungen gehen sofort oder termingesteuert in die Kasse
 
 
+
+
+
+ 
+
+ 
+
+### Unser aktuelles Highlight 
+
+### T3 Pro Max aus dem Hause SUNMI
+
+inkl. Drucker für 80mm Bonrolle | Kundenmonitor enthält das NFC-Feld für SoftPOS-Payment | Der Kundenmonitor kann auch per Kabel abgesetzt werden
+
+  ![SUNMI T3 Pro Max](/web/image/1645-2871ba55/t3-pro-max.webp-highlight.webp "SUNMI T3 Pro Max") Wo Innovation auf Leistung trifft  
+
+ 
 
  
 
