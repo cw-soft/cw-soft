@@ -18,6 +18,10 @@
   - Local: ./crawled_cw_soft_de/berlin_35_jahre_cw_soft_gmbh.md
 - [Kontakt Kassensysteme Berlin | CW-Soft HogaWare GmbH](https://cw-soft.de/berliner-kontakt-der-cw-soft)
   - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft.md
+- [Handhelds & Mobile Order – Sunmi & Orderman Lösungen](https://cw-soft.de/berlin-kassen-und-kassensysteme-hardware)
+  - Local: ./crawled_cw_soft_de/berlin_kassen_und_kassensysteme_hardware.md
+- [Berlin: Kassensoftware für Gastro & Retail](https://cw-soft.de/digituu-pc-cash)
+  - Local: ./crawled_cw_soft_de/digituu_pc_cash.md
 - [Kontakt & Demo anfordern – CW‑Soft Kassensysteme Berlin](https://cw-soft.de/berliner-kontakt-der-cw-soft/kontakt-formular)
   - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_kontakt_formular.md
 - [CW-Soft Kassensysteme Berlin | Seiten-Übersicht](https://cw-soft.de/berliner-kontakt-der-cw-soft/webseiten-uebersicht)
@@ -26,10 +30,6 @@
   - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_berlin_kunden_login_der_cw_soft.md
 - [Berlin | Impressum CW-Soft Kassensysteme | Friedrichstraße](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-impressum-der-cw-soft-friedrichstrasse-95-10117-berlin)
   - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_berlin_impressum_der_cw_soft_friedrichstrasse_95_10117_berlin.md
-- [Berlin: Kassensoftware für Gastro & Retail](https://cw-soft.de/digituu-pc-cash)
-  - Local: ./crawled_cw_soft_de/digituu_pc_cash.md
-- [Handhelds & Mobile Order – Sunmi & Orderman Lösungen](https://cw-soft.de/berlin-kassen-und-kassensysteme-hardware)
-  - Local: ./crawled_cw_soft_de/berlin_kassen_und_kassensysteme_hardware.md
 - [Berlin | Service-Login | der CW-Soft | Außendienst](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-service-login-der-cw-soft)
   - Local: ./crawled_cw_soft_de/berliner_kontakt_der_cw_soft_berlin_service_login_der_cw_soft.md
 - [Berlin | AGB CW-Soft Kassensysteme](https://cw-soft.de/berliner-kontakt-der-cw-soft/berlin-allgemeine-geschaeftsbedingungen-der-cw-soft)

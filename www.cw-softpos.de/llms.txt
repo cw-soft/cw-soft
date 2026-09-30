@@ -36,7 +36,7 @@
   - Local: ./crawled_www_cw_softpos_de/erp.md
 - [Kassen Konfigurator | CW-SoftPOS Kassensystem planen](https://www.cw-softpos.de/konfigurator2)
   - Local: ./crawled_www_cw_softpos_de/konfigurator2.md
-- [FAQ zum Kassensystem CW-SoftPOS | TSE, Hardware](https://www.cw-softpos.de/faq)
+- [FAQ zum Kassensystem CW-SoftPOS | Berlin](https://www.cw-softpos.de/faq)
   - Local: ./crawled_www_cw_softpos_de/faq.md
 - [AGB | CW-SoftPOS Kassensystem | Berlin](https://www.cw-softpos.de/allgemeine-geschaftsbedingungen)
   - Local: ./crawled_www_cw_softpos_de/allgemeine_geschaftsbedingungen.md
